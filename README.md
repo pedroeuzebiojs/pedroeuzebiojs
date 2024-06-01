@@ -933,6 +933,67 @@
   </tbody>
 </table>
 
+<h3>🌐 Contato</h3>
+  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/pedroeuzebio.web">
+        <img 
+          src="https://skillicons.dev/icons?i=instagram"
+          alt="Logo do Instagram"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedroeuzebioo">
+        <img 
+          src="https://skillicons.dev/icons?i=github"
+          alt="Logo do GitHub"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/pedroeuzebio">
+        <img 
+          src="https://skillicons.dev/icons?i=linkedin"
+          alt="Logo do LinkedIn"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pedroeuzebio.contato@gmail.com">
+        <img 
+          src="https://skillicons.dev/icons?i=gmail"
+          alt="Logo do Gmail"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/pedroeuzebio.web">
+        Instagram
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pedroeuzebioo">
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/pedroeuzebio">
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:pedroeuzebio.contato@gmail.com">
+        Gmail
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
