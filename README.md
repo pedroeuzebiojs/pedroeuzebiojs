@@ -72,6 +72,65 @@
   </tbody>
 </table>
 
+<h2>🧑‍🎓 Formação Acadêmica</h2>
+  
+<table>
+  <thead>
+    <tr>
+      <th align="center">Diploma</th>
+      <th align="center">Instituição de ensino</th>
+      <th align="center">Inínio - Término</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Tecnólogo em Sistemas para Internet</td>
+      <td align="center">
+        <a href="https://estacio.br">
+          <img 
+            src="https://i.ibb.co/DbKyXFV/estacio-logo.jpg"
+            alt="Logo da Estácio"
+            width="50"
+          />
+          <br>
+          Estácio
+        </a>
+      </td>
+      <td align="center">Janeiro de 2024 - Junho de 2024</td>
+    </tr>
+    <tr>
+      <td align="center">Curso Técnico Subsequente em Informática para Internet</td>
+      <td align="center">
+        <a href="https://ifce.edu.br/">
+          <img 
+            src="https://i.ibb.co/c6tsNNp/1631322769635.jpg" 
+            alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará" 
+            width="50" 
+         />
+         <br>
+         Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+        </a>
+      </td>
+      <td align="center">Janeiro de 2024 - Junho de 2024</td>
+    </tr>
+    <tr>
+      <td align="center">Curso Técnico Integrado em Informática</td>
+      <td align="center">
+        <a href="https://www.eeepdebaturite.com/">
+          <img 
+            src="https://i.ibb.co/Vgy91pH/unnamed.jpg" 
+            alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" 
+            width="50" 
+         />
+         <br>
+         Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda
+        </a>
+      </td>
+      <td align="center">Janeiro de 2021 - Dezembro de 2023</td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
