@@ -908,6 +908,31 @@
   </tr>
 </table>
 
+<h2>👅 Idiomas</h2>
+  
+<table>
+  <thead>
+    <tr>
+      <th align="center">Idioma</th>
+      <th align="center">Proficiência</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Português</td>
+      <td align="center">Nativo</td>
+    </tr>
+    <tr>
+      <td align="center">Inglês</td>
+      <td align="center">Intermediário</td>
+    </tr>
+    <tr>
+      <td align="center">Espanhol</td>
+      <td align="center">Intermediário</td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
