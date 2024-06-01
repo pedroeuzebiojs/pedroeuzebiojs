@@ -1,4 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+  Fala dev! Eu sou o Pedro Euzebio
+  <img 
+    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" 
+    alt="Waving hand emoji"
+    width="32"
+  />
+  
+  <br>
+  
+  Desenvolvedor Full Stack
+<h1>
 
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
