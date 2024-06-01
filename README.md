@@ -933,7 +933,7 @@
   </tbody>
 </table>
 
-<h3>🌐 Contato</h3>
+<h2>🌐 Contato</h2>
   
 <table>
   <tr>
