@@ -99,7 +99,7 @@
       <td align="center">Janeiro de 2024 - Junho de 2024</td>
     </tr>
     <tr>
-      <td align="center">Curso Técnico Subsequente em Informática para Internet</td>
+      <td align="center">Técnico Subsequente em Informática para Internet</td>
       <td align="center">
         <a href="https://ifce.edu.br/">
           <img 
@@ -114,7 +114,7 @@
       <td align="center">Janeiro de 2024 - Junho de 2024</td>
     </tr>
     <tr>
-      <td align="center">Curso Técnico Integrado em Informática</td>
+      <td align="center">Técnico Integrado em Informática</td>
       <td align="center">
         <a href="https://www.eeepdebaturite.com/">
           <img 
@@ -180,6 +180,25 @@
       </td>
       <td align="center">Abril de 2024</td>
     </tr>
+     <tr>
+      <td align="center">
+        <a href="#">
+          Curso de Design de Experiência do Usuário: Usabilidade na Prática
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.egp.ce.gov.br/">
+          <img 
+            src="https://i.ibb.co/Yf43yz6/egpce-logo.jpg" 
+            alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
+            width="50" 
+          />
+          <br>
+          Escola de Gestão Pública do Estado do Ceará
+        </a>
+      </td>
+      <td align="center">Abril de 2024</td>
+    </tr>
     <tr>
       <td align="center">
         <a href="#">
@@ -202,26 +221,7 @@
     <tr>
       <td align="center">
         <a href="#">
-          Curso de Design de Experiência do Usuário: Usabilidade na Prática
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.egp.ce.gov.br/">
-          <img 
-            src="https://i.ibb.co/Yf43yz6/egpce-logo.jpg" 
-            alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
-            width="50" 
-          />
-          <br>
-          Escola de Gestão Pública do Estado do Ceará
-        </a>
-      </td>
-      <td align="center">Abril de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          Bootcamp Semana do Herói
+          Certificação em Bootcamp Semana do Herói
         </a>
       </td>
       <td align="center">
