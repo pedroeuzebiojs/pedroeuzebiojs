@@ -953,6 +953,14 @@
         />
       </a>
     </td>
+     <td align="center">
+      <a href="mailto:pedroeuzebio.contato@gmail.com">
+        <img 
+          src="https://skillicons.dev/icons?i=gmail"
+          alt="Logo do Gmail"
+        />
+      </a>
+    </td>
     <td align="center">
       <a href="https://linkedin.com/in/pedroeuzebio">
         <img 
@@ -962,10 +970,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="mailto:pedroeuzebio.contato@gmail.com">
+      <a href="https://x.com/pedroeuzebioo">
         <img 
-          src="https://skillicons.dev/icons?i=gmail"
-          alt="Logo do Gmail"
+          src="https://skillicons.dev/icons?i=twitter"
+          alt="Logo do Twitter"
         />
       </a>
     </td>
@@ -982,13 +990,18 @@
       </a>
     </td>
     <td align="center">
+      <a href="mailto:pedroeuzebio.contato@gmail.com">
+        Gmail
+      </a>
+    </td>
+    <td align="center">
       <a href="https://linkedin.com/in/pedroeuzebio">
         LinkedIn
       </a>
     </td>
     <td align="center">
-      <a href="mailto:pedroeuzebio.contato@gmail.com">
-        Gmail
+      <a href="https://x.com/pedroeuzebioo">
+        Twitter
       </a>
     </td>
   </tr>
