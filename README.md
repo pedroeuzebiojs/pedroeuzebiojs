@@ -1,15 +1,4 @@
-<h1 align="center">
-  Fala dev! Eu sou o Pedro Euzebio
-  <img 
-    src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" 
-    alt="Waving hand emoji"
-    width="32"
-  />
-  
-  <br>
-  
-  Desenvolvedor Full Stack
-<h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Fala&nbsp;dev!&nbsp;Eu&nbsp;sou&nbsp;o&nbsp;Pedro&nbsp;Euzebio&color=020817&height=250&section=header&fontColor=f8fafc&fontSize=48"/>
 
 <h2> ❓ Sobre </h2>
   
