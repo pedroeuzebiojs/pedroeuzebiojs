@@ -27,7 +27,7 @@
       <td align="center">
         <a href="https://baturite.ce.gov.br/secretaria.php?sec=6">
           <img 
-            src="https://i.ibb.co/MDZjXrR/277773516-341570688004836-5053935939651025972-n.jpg"
+            src="https://i.imgur.com/Axj39Xo.jpg"
             alt="Logo da Secretária do Desenvolvimento Econômico e Social"
             width="50"
           />
@@ -45,7 +45,7 @@
       <td align="center">
         <a href="https://ifce.edu.br/">
           <img 
-            src="https://i.ibb.co/c6tsNNp/1631322769635.jpg" 
+            src="https://i.imgur.com/PwRgxqO.jpg" 
             alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará" 
             width="50" 
          />
@@ -77,7 +77,7 @@
       <td align="center">
         <a href="https://estacio.br">
           <img 
-            src="https://i.ibb.co/DbKyXFV/estacio-logo.jpg"
+            src="https://i.imgur.com/uU1OZ5x.jpg"
             alt="Logo da Estácio"
             width="50"
           />
@@ -92,7 +92,7 @@
       <td align="center">
         <a href="https://ifce.edu.br/">
           <img 
-            src="https://i.ibb.co/c6tsNNp/1631322769635.jpg" 
+            src="https://i.imgur.com/PwRgxqO.jpg" 
             alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará" 
             width="50" 
          />
@@ -107,7 +107,7 @@
       <td align="center">
         <a href="https://www.eeepdebaturite.com/">
           <img 
-            src="https://i.ibb.co/Vgy91pH/unnamed.jpg" 
+            src="https://i.imgur.com/b5heNhX.jpg" 
             alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" 
             width="50" 
          />
@@ -140,7 +140,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg"
+            src="https://i.imgur.com/NdMnKqg.jpg"
             alt="Logo da Rocketseat"
             width="50"
           />
@@ -159,7 +159,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg" 
+            src="https://i.imgur.com/NdMnKqg.jpg" 
             alt="Logo da Rocketseat" 
             width="50" 
          />
@@ -178,7 +178,7 @@
       <td align="center">
         <a href="https://www.egp.ce.gov.br/">
           <img 
-            src="https://i.ibb.co/Yf43yz6/egpce-logo.jpg" 
+            src="https://i.imgur.com/7RP4dxa.jpg" 
             alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
             width="50" 
           />
@@ -197,7 +197,7 @@
       <td align="center">
         <a href="https://www.egp.ce.gov.br/">
           <img 
-            src="https://i.ibb.co/Yf43yz6/egpce-logo.jpg" 
+            src="https://i.imgur.com/7RP4dxa.jpg" 
             alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
             width="50" 
           />
@@ -216,7 +216,7 @@
       <td align="center">
         <a href="https://herocode.com.br/">
           <img 
-            src="https://i.ibb.co/s63Skvb/hero-code-br-logo.jpg" 
+            src="https://i.imgur.com/NuSGHe9.jpg" 
             alt="Logo da Hero Code" 
             width="50" 
          />
@@ -235,7 +235,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg"
+            src="https://i.imgur.com/NdMnKqg.jpg"
             alt="Logo da Rocketseat"
             width="50"
           />
@@ -254,7 +254,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg"
+            src="https://i.imgur.com/NdMnKqg.jpg"
             alt="Logo da Rocketseat"
             width="50"
           />
@@ -273,7 +273,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg"
+            src="https://i.imgur.com/NdMnKqg.jpg"
             alt="Logo da Rocketseat"
             width="50"
           />
@@ -292,7 +292,7 @@
       <td align="center">
         <a href="https://rocketseat.com.br">
           <img 
-            src="https://i.ibb.co/Pjy23w8/rocketseat-logo.jpg"
+            src="https://i.imgur.com/NdMnKqg.jpg"
             alt="Logo da Rocketseat"
             width="50"
           />
@@ -311,7 +311,7 @@
       <td align="center">
         <a href="https://aws.amazon.com/">
           <img 
-            src="https://i.ibb.co/VDL3DWq/amazon-web-services-logo.jpg"
+            src="https://i.imgur.com/KP3bFsh.jpg"
             alt="Logo da Amazon Web Services (AWS)"
             width="50"
           />
@@ -330,7 +330,7 @@
       <td align="center">
         <a href="https://leadfortaleza.com.br/portal">
           <img 
-            src="https://i.ibb.co/HN3bQ8g/1669895684277.jpg"
+            src="https://i.imgur.com/4N8tv4Y.jpg"
             alt="Logo da Dell Lead"
             width="50"
           />
