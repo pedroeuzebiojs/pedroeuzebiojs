@@ -996,6 +996,8 @@
   </tr>
 </table>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=020817&height=125&section=footer" />
+
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
