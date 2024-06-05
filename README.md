@@ -99,7 +99,7 @@
       <td align="center">Janeiro de 2024 - Junho de 2024</td>
     </tr>
     <tr>
-      <td align="center">Técnico Subsequente em Informática para Internet</td>
+      <td align="center">Técnico em Informática para Internet</td>
       <td align="center">
         <a href="https://ifce.edu.br/">
           <img 
@@ -114,7 +114,7 @@
       <td align="center">Janeiro de 2024 - Junho de 2024</td>
     </tr>
     <tr>
-      <td align="center">Técnico Integrado em Informática</td>
+      <td align="center">Técnico em Informática</td>
       <td align="center">
         <a href="https://www.eeepdebaturite.com/">
           <img 
