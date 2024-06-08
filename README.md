@@ -134,7 +134,7 @@
     <tr>
       <td align="center">
         <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
-          Curso Discover
+          Discover
         </a>
       </td>
       <td align="center">
@@ -153,7 +153,7 @@
     <tr>
       <td align="center">
         <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d">
-          Certificação em NLW Unite trilha de React
+          NLW Unite trilha de React
         </a>
       </td>
       <td align="center">
@@ -172,7 +172,7 @@
      <tr>
       <td align="center">
         <a href="#">
-          Curso de Design de Experiência do Usuário: Usabilidade na Prática
+          Design de Experiência do Usuário: Usabilidade na Prática
         </a>
       </td>
       <td align="center">
@@ -191,7 +191,7 @@
     <tr>
       <td align="center">
         <a href="#">
-          Curso de Design de Experiência do Usuário: O que é UX?
+          Design de Experiência do Usuário: O que é UX?
         </a>
       </td>
       <td align="center">
@@ -210,7 +210,7 @@
     <tr>
       <td align="center">
         <a href="#">
-          Certificação em Bootcamp Semana do Herói
+          Bootcamp Semana do Herói 3° Edição
         </a>
       </td>
       <td align="center">
@@ -229,7 +229,7 @@
     <tr>
       <td align="center">
         <a href="https://app.rocketseat.com.br/certificates/73c11dfa-6c1c-4240-a79b-8b8403102de7">
-          Certificação em NLW Expert trilha de Java
+          NLW Expert trilha de Java
         </a>
       </td>
       <td align="center">
@@ -267,7 +267,7 @@
     <tr>
       <td align="center">
         <a href="https://app.rocketseat.com.br/certificates/93fe55ff-f966-48e7-91c5-dfe73762e82c">
-          Certificação em NLW IA
+          NLW IA
         </a>
       </td>
       <td align="center">
@@ -286,7 +286,7 @@
     <tr>
       <td align="center">
         <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2">
-          Certificação em IA para Devs
+          IA para Devs
         </a>
       </td>
       <td align="center">
@@ -305,7 +305,7 @@
     <tr>
       <td align="center">
         <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">
-          Certificação em AWS Academy Graduate - AWS Academy Cloud Foundations
+          AWS Academy Graduate - AWS Academy Cloud Foundations
         </a>
       </td>
       <td align="center">
@@ -324,7 +324,7 @@
     <tr>
       <td align="center">
         <a href="#">
-          Curso de Suporte Técnico em Tecnologia da Informação
+          Suporte Técnico em Tecnologia da Informação
         </a>
       </td>
       <td align="center">
