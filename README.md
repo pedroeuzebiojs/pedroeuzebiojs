@@ -552,253 +552,65 @@
   </tr>
 </table>
   
-<h3>Ferramentas</h3>
-  
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://git-scm.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=git"
-          alt="Logo do Git"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=docker"
-          alt="Logo do Docker"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kubernetes.io/pt-br/">
-        <img 
-          src="https://skillicons.dev/icons?i=kubernetes"
-          alt="Logo do Kubernetes"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.jenkins.io/">
-        <img 
-          src="https://skillicons.dev/icons?i=jenkins"
-          alt="Logo do Jenkis"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://webpack.js.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=webpack"
-          alt="Logo do Webpack"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jestjs.io/pt-BR/">
-        <img 
-          src="https://skillicons.dev/icons?i=jest"
-          alt="Logo do Jest"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=aws"
-          alt="Logo da AWS"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://figma.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=figma"
-          alt="Logo do Figma"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://maven.apache.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=maven"
-          alt="Logo do Maven"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.npmjs.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=npm"
-          alt="Logo do npm"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pnpm.io/pt/">
-        <img 
-          src="https://skillicons.dev/icons?i=pnpm"
-          alt="Logo do pnpm"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=vscode"
-          alt="Logo do VS Code"
-        />
-      </a>
-    </td>
+  <tr align="center">
+    <th colspan="8">Ferramentas</th>
   </tr>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
       <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
+        <br>
         Git
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
+        <br>
         Docker
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://kubernetes.io/pt-br/">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Logo do Kubernetes" />
+        <br>
         Kubernetes
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.jenkins.io/">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="Logo do Jenkis" />
+        <br>
         Jenkis
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://webpack.js.org/">
+        <img src="https://skillicons.dev/icons?i=webpack" alt="Logo do Webpack" />
+        <br>
         Webpack
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://jestjs.io/pt-BR/">
+        <img src="https://skillicons.dev/icons?i=jest" alt="Logo do Jest" />
+        <br>
         Jest
       </a>
     </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/">
-        AWS
-      </a>
-    </td>
-    <td align="center">
+    <td>
       <a href="https://figma.com/">
+        <img src="https://skillicons.dev/icons?i=figma" alt="Logo do Figma" />
+        <br>
         Figma
       </a>
     </td>
-    <td align="center">
-      <a href="https://maven.apache.org/">
-        Maven
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.npmjs.com/">
-        npm
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pnpm.io/pt/">
-        pnpm
-      </a>
-    </td>
-    <td align="center">
+    <td>
       <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
+        <br>
         VS Code
-      </a>
-    </td>
-  </tr>
-</table>
-  
-<h3>Design Responsivo</h3>
-  
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://getbootstrap.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=bootstrap"
-          alt="Logo do Bootstrap"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://mui.com/material-ui/">
-        <img 
-          src="https://skillicons.dev/icons?i=materialui"
-          alt="Logo do Material-UI"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lesscss.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=less"
-          alt="Logo do LESS"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=sass"
-          alt="Logo do SASS"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=styledcomponents"
-          alt="Logo do Styled-components"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=tailwind"
-          alt="Logo do Tailwind CSS"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://getbootstrap.com/">
-        Bootstrap
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://mui.com/material-ui/">
-        Material-UI
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lesscss.org/">
-        LESS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sass-lang.com/">
-        SASS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://styled-components.com/">
-        Styled-components
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/">
-        Tailwind CSS
       </a>
     </td>
   </tr>
