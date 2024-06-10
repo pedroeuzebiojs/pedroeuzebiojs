@@ -5,7 +5,7 @@
   Sobre 
 </h2>
 
-<img src="https://i.imgur.com/3wfQvDn.jpg" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="50%" height="588" />
+<img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="30%" />
 
 <p>
   Sou um Desenvolvedor Full Stack com uma sólida formação acadêmica e experiência diversificada em tecnologia da informação, acumulando vários anos de atuação no setor de TI. Minha carreira inclui posições como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social e Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desempenhei papéis cruciais na manutenção de sistemas e no desenvolvimento de soluções inovadoras.
