@@ -296,6 +296,60 @@
   Cursos
 </h2>
 
+<table>
+  <tr align="center">
+    <th>
+      <a href="#">
+        AWS Cloud Practitioner Essentials
+      </a>
+    </th>
+    <td>
+      <a href="https://aws.amazon.com/pt/">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
+        <br>
+        Amazon Web Services (AWS)
+      </a>
+    </td>
+    <td>
+      Junho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
+        Noções de Liderança e Gestão de Pessoas
+      </a>
+    </th>
+    <td>
+      <a href="https://www.centec.org.br/">
+        <img src="https://i.imgur.com/beLRvQ5.jpg" alt="Logo da Instituto Centro de Ensino Tecnológico (Centec)" width="50" />
+        <br>
+        Instituto Centro de Ensino Tecnológico (Centec)
+      </a>
+    </td>
+    <td>
+      Dezembro de 2023
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
+        Suporte Técnico em Tecnologia da Informação
+      </a>
+    </th>
+    <td>
+      <a href="https://leadfortaleza.com.br/portal">
+        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50" />
+        <br>
+        Dell Lead
+      </a>
+    </td>
+    <td>
+      Abril de 2023
+    </td>
+  </tr>
+</table>
+
 <h2>🛠️ Tecnologias</h2>
   
 <h3>Linguagens</h3>
