@@ -96,7 +96,10 @@
   </tr>
 </table>
 
-## 🥇 Certificações e Cursos
+<h2>
+  <img src="https://i.imgur.com/94dF727.gif" alt="Certificado gif animado" width="40" align="center" />
+  Certificados
+</h2>
   
 <table>
   <thead>
