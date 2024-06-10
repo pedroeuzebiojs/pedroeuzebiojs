@@ -21,54 +21,32 @@
   <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="40" align="center" />
   Experiência Profissional
 </h2>
-  
+
 <table>
-  <thead>
-    <tr>
-      <th align="center">Cargo</th>
-      <th align="center">Nome da empresa</th>
-      <th align="center">Inínio - Término</th>
-      <th align="center">Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Técnico de TI</td>
-      <td align="center">
-        <a href="https://baturite.ce.gov.br/secretaria.php?sec=6">
-          <img 
-            src="https://i.imgur.com/Axj39Xo.jpg"
-            alt="Logo da Secretária do Desenvolvimento Econômico e Social"
-            width="50"
-          />
-          <br>
-          Secretária do Desenvolvimento Econômico e Social
-        </a>
-      </td>
-      <td align="center">Novembro de 2023 - Dezembro de 2023</td>
-      <td align="center">
-        Atuei como Técnico de TI, fornecendo suporte técnico essencial, implementando soluções de TI e garantindo a segurança e eficácia dos sistemas de informação.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Desenvolvedor Full Stack</td>
-      <td align="center">
-        <a href="https://ifce.edu.br/">
-          <img 
-            src="https://i.imgur.com/PwRgxqO.jpg" 
-            alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará" 
-            width="50" 
-         />
-         <br>
-         Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-        </a>
-      </td>
-      <td align="center">Agosto de 2023 - Novembro de 2023</td>
-      <td align="center">
-        Como Desenvolvedor Full Stack, fui responsável pelo desenvolvimento e manutenção de sistemas internos, integração de novas tecnologias e melhoria da eficiência operacional.
-      </td>
-    </tr>
-  </tbody>
+  <tr align="center">
+    <th>Técnico de TI</th>
+    <td>
+      <a href="https://baturite.ce.gov.br/secretaria.php?sec=6">
+        <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária do Desenvolvimento Econômico e Social" width="50" />
+        <br>
+        Secretária do Desenvolvimento Econômico e Social
+      </a>
+    </td>
+    <td>Novembro de 2023 - Dezembro de 2023</td>
+    <td>Na Secretaria de Desenvolvimento Econômico e Social, destaquei-me pela manutenção eficiente de sistemas de TI, garantindo o bom funcionamento das operações diárias e a satisfação dos usuários finais.</td>
+  </tr>
+  <tr align="center">
+    <th>Técnico de TI</th>
+    <td>
+      <a href="https://ifce.edu.br/">
+        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" />
+        <br>
+        Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+      </a>
+    </td>
+    <td>Agosto de 2023 - Novembro de 2023</td>
+    <td>No IFCE, fui responsável por projetos importantes, como a migração de sistemas para plataformas mais modernas e a implementação de automações que resultaram em economia significativa de tempo e recursos.</td>
+  </tr>
 </table>
 
 <h2>🧑‍🎓 Formação Acadêmica</h2>
