@@ -4,13 +4,17 @@
   <img src="https://i.imgur.com/KqbSKaX.gif" alt="Ponto de interrogação gif animado" width="40" /> 
   Sobre 
 </h2>
-  
+
 <p>
-  Sou um Desenvolvedor Full Stack com vasta experiência em tecnologias web, focado em entregar soluções inovadoras e eficientes. Com um histórico sólido de trabalho no setor público e educacional, desenvolvi habilidades abrangentes tanto no front-end quanto no back-end, utilizando diversas linguagens e frameworks. Minha trajetória profissional inclui posições de destaque no Instituto Federal de Educação, Ciência e Tecnologia do Ceará e na Secretária do Desenvolvimento Econômico e Social, onde desempenhei papéis cruciais em projetos de desenvolvimento de sistemas e suporte técnico.
-  
-  <br>
-  
-  Sou apaixonado por tecnologia e inovação, sempre buscando novos desafios e oportunidades para aplicar minhas habilidades e conhecimentos. Minha dedicação ao aprendizado contínuo e minha capacidade de adaptação rápida às novas tecnologias me permitem contribuir efetivamente para qualquer equipe de desenvolvimento. Estou sempre pronto para transformar ideias em soluções concretas que agregam valor ao negócio e melhoram a experiência do usuário.
+  Sou um Desenvolvedor Full Stack com uma sólida formação acadêmica e experiência diversificada em tecnologia da informação, acumulando vários anos de atuação no setor de TI. Minha carreira inclui posições como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social e Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desempenhei papéis cruciais na manutenção de sistemas e no desenvolvimento de soluções inovadoras.
+</p>
+
+<p>
+  Minha trajetória acadêmica inclui um diploma de Tecnólogo em Sistemas para Internet pela Estácio, onde adquiri competências avançadas em desenvolvimento web e programação. Além disso, possuo certificações relevantes, como AWS Cloud Practitioner Essentials e diversos cursos da Rocketseat, que comprovam minha especialização em tecnologias modernas e emergentes, como Node.js, React.js e inteligência artificial.
+</p>
+
+<p>
+  Minha experiência, combinada com uma busca constante por atualização e especialização, me permite enfrentar desafios complexos e contribuir significativamente para o sucesso das organizações em que atuo. Estou sempre à procura de oportunidades para aplicar minhas habilidades e conhecimentos em projetos que façam a diferença.
 </p>
 
 <h2>🚀 Experiência Profissional</h2>
