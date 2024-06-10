@@ -1,6 +1,9 @@
 <img src="https://i.imgur.com/pdmszKF.png" alt="Foto de fundo para LinkedIn" width="100%" />
 
-<h2> ❓ Sobre </h2>
+<h2> 
+  <img src="https://i.imgur.com/KqbSKaX.gif" alt="Ponto de interrogação gif animado" width="40" /> 
+  Sobre 
+</h2>
   
 <p>
   Sou um Desenvolvedor Full Stack com vasta experiência em tecnologias web, focado em entregar soluções inovadoras e eficientes. Com um histórico sólido de trabalho no setor público e educacional, desenvolvi habilidades abrangentes tanto no front-end quanto no back-end, utilizando diversas linguagens e frameworks. Minha trajetória profissional inclui posições de destaque no Instituto Federal de Educação, Ciência e Tecnologia do Ceará e na Secretária do Desenvolvimento Econômico e Social, onde desempenhei papéis cruciais em projetos de desenvolvimento de sistemas e suporte técnico.
