@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Fala&nbsp;dev!&nbsp;Eu&nbsp;sou&nbsp;o&nbsp;Pedro&nbsp;Euzebio&color=020817&height=250&section=header&fontColor=f8fafc&fontSize=48"/>
+<img src="https://i.imgur.com/pdmszKF.png" alt="Foto de fundo para LinkedIn" width="100%" />
 
 <h2> ❓ Sobre </h2>
   
