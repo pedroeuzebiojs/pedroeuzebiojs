@@ -352,7 +352,7 @@
 
 <h2>
   <img src="https://i.imgur.com/XSITwEg.gif" alt="Código gif animado" width="40" align="center" />
-  Tecnologias
+  Habilidades
 </h2>
   
 <table>
