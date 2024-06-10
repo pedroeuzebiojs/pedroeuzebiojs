@@ -18,7 +18,7 @@
 </p>
 
 <h2>
-  <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="40" align="center" />
+  <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="50" align="center" />
   Experiência Profissional
 </h2>
 
@@ -49,7 +49,10 @@
   </tr>
 </table>
 
-<h2>🧑‍🎓 Formação Acadêmica</h2>
+<h2>
+  <img src="https://i.imgur.com/iIMZGLd.gif" alt="Boné de formando gif animado" width="40" />
+  Formação Acadêmica
+</h2>
   
 <table>
   <thead>
