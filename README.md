@@ -447,56 +447,39 @@
   </tr>
 </table>
   
-<h3>Frameworks e Bibliotecas</h3>
-  
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://react.dev/">
-        <img 
-          src="https://skillicons.dev/icons?i=react"
-          alt="Logo do React"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=nextjs"
-          alt="Logo do Next.js"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vitejs.dev/">
-        <img 
-          src="https://skillicons.dev/icons?i=vite"
-          alt="Logo do Vite"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://astro.build/">
-        <img 
-          src="https://skillicons.dev/icons?i=astro"
-          alt="Logo do Astro"
-        />
-      </a>
-    </td>
+  <tr align="center">
+    <th colspan="4">Desenvolvimento Back-End</th>
+  </tr>
+  <tr align="center">
     <td align="center">
       <a href="https://nodejs.org/en">
         <img 
           src="https://skillicons.dev/icons?i=nodejs"
           alt="Logo do Node.js"
         />
+        <br>
+        Node.js
       </a>
     </td>
     <td align="center">
       <a href="https://expressjs.com/pt-br/">
         <img 
           src="https://skillicons.dev/icons?i=express"
-          alt="Logo do Express"
+          alt="Logo do Express.js"
         />
+        <br>
+        Express.js
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.java.com/pt-BR/">
+        <img 
+          src="https://skillicons.dev/icons?i=java"
+          alt="Logo do Java"
+        />
+        <br>
+        Java
       </a>
     </td>
     <td align="center">
@@ -505,43 +488,8 @@
           src="https://skillicons.dev/icons?i=spring"
           alt="Logo do Spring Boot"
         />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://react.dev/">
-        React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        Next.js
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vitejs.dev/">
-        Vite
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://astro.build/">
-        Astro
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en">
-        Node.js
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com/pt-br/">
-        Express
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://spring.io/">
-        Spring Boot
+        <br>
+        Sprin Boot
       </a>
     </td>
   </tr>
