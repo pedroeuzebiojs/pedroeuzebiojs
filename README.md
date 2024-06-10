@@ -639,77 +639,61 @@
  </tr>
 </table>
 
-<h2>🌐 Contato</h2>
+<h2>
+  Links
+</h2>
   
 <table>
   <tr>
-    <td align="center">
+    <th align="center">
       <a href="https://instagram.com/pedroeuzebio.web">
-        <img 
-          src="https://skillicons.dev/icons?i=instagram"
-          alt="Logo do Instagram"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pedroeuzebioo">
-        <img 
-          src="https://skillicons.dev/icons?i=github"
-          alt="Logo do GitHub"
-        />
-      </a>
-    </td>
-     <td align="center">
-      <a href="mailto:pedroeuzebio.contato@gmail.com">
-        <img 
-          src="https://skillicons.dev/icons?i=gmail"
-          alt="Logo do Gmail"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/pedroeuzebio">
-        <img 
-          src="https://skillicons.dev/icons?i=linkedin"
-          alt="Logo do LinkedIn"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/pedroeuzebioo">
-        <img 
-          src="https://skillicons.dev/icons?i=twitter"
-          alt="Logo do Twitter"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/pedroeuzebio.web">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Logo do Instagram" />
+        <br>
         Instagram
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/pedroeuzebioo">
+        <img src="https://skillicons.dev/icons?i=github" alt="Logo do GitHub" />
+        <br>
         GitHub
       </a>
     </td>
-    <td align="center">
+     <td align="center">
       <a href="mailto:pedroeuzebio.contato@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Logo do Gmail" />
+        <br>
         Gmail
       </a>
     </td>
-    <td align="center">
+    <th align="center">
       <a href="https://linkedin.com/in/pedroeuzebio">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="Logo do LinkedIn" />
+        <br>
         LinkedIn
       </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/pedroeuzebioo">
-        Twitter
+    </th>
+    <th align="center">
+      <a href="https://www.tiktok.com/@pedroeuzebio.web">
+        <img src="https://i.imgur.com/fHXrYAn.jpg" alt="Logo do TikTok" width="50" />
+        <br>
+        TikTok
       </a>
-    </td>
+    </th>
+    <th align="center">
+      <a href="https://x.com/pedroeuzebioo">
+        <img src="https://i.imgur.com/IN6Vldy.jpg" alt="Logo do X" width="50" />
+        <br>
+        X
+      </a>
+    </th>
+    <th>
+      <a href="https://youtube.com/@pedroeuzebioo">
+        <img src="https://i.imgur.com/fAMQdYt.jpg" alt="Logo do Youtube" width="50" />
+        <br>
+        YouTube
+      </a>
+    </th>
   </tr>
 </table>
 
