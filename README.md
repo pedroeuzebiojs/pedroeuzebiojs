@@ -355,101 +355,93 @@
   Tecnologias
 </h2>
   
-<h3>Linguagens</h3>
-  
 <table>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <th colspan="9">Desenvolvimento Front-End</th>
+  </tr>
+  <tr align="center">
+    <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <img 
           src="https://skillicons.dev/icons?i=html"
           alt="Logo do HTML"
         />
+        <br>
+        HTML
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <img 
           src="https://skillicons.dev/icons?i=css"
           alt="Logo do CSS"
         />
+        <br>
+        CSS
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript">
         <img 
           src="https://skillicons.dev/icons?i=js"
           alt="Logo do JavaScript"
         />
+        <br>
+        JavaScript
       </a>
     </td>
     <td align="center">
+      <a href="https://react.dev/">
+        <img 
+          src="https://skillicons.dev/icons?i=react"
+          alt="Logo do React"
+        />
+        <br>
+        React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img 
+          src="https://skillicons.dev/icons?i=nextjs"
+          alt="Logo do Next.js"
+        />
+        <br>
+        Next.js
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vitejs.dev/">
+        <img 
+          src="https://skillicons.dev/icons?i=vite"
+          alt="Logo do Vite"
+        />
+        <br>
+        Vite
+      </a>
+    </td>
+    <td>
       <a href="https://www.typescriptlang.org/">
         <img 
           src="https://skillicons.dev/icons?i=ts"
           alt="Logo do TypeScript"
         />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=py"
-          alt="Logo do Python"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.java.com/pt-BR/">
-        <img 
-          src="https://skillicons.dev/icons?i=java"
-          alt="Logo do Java"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net/">
-        <img 
-          src="https://skillicons.dev/icons?i=php"
-          alt="Logo do PHP"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        HTML
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        CSS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript">
-        JavaScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/">
+        <br>
         TypeScript
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        Python
+    <td>
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
+        <br>
+        Tailwind CSS
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.java.com/pt-BR/">
-        Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net/">
-        PHP
+    <td>
+      <a href="https://styled-components.com/">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Logo do Styled-components" />
+        <br>
+        Styled-components
       </a>
     </td>
   </tr>
