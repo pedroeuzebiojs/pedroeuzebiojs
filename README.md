@@ -292,7 +292,6 @@
 </table>
 
 <h2>
-  <img src="https://i.imgur.com/SoRkVfo.gif" alt="" width="40" align="center" />
   Cursos
 </h2>
 
