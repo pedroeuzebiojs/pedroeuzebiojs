@@ -495,100 +495,57 @@
   </tr>
 </table>
   
-<h3>Banco de Dados</h3>
-  
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=mysql"
-          alt="Logo do MySQL"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=postgres"
-          alt="Logo do PostgreSQL"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/">
-        <img 
-          src="https://skillicons.dev/icons?i=mongodb"
-          alt="Logo do MongoDB"
-        />
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://www.sqlite.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=sqlite"
-          alt="Logo do SQLite"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.prisma.io/">
-        <img 
-          src="https://skillicons.dev/icons?i=prisma"
-          alt="Logo do Prisma"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sequelize.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=sequelize"
-          alt="Logo do Sequelize"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=graphql"
-          alt="Logo do GraphQL"
-        />
-      </a>
-    </td>
+  <tr align="center">
+    <th colspan="7">Banco de Dados</th>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        MySQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/">
-        PostgreSQL
-      </a>
-    </td>
-    <td align="center">
+  <tr align="center">
+    <td>
       <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="Logo do MongoDB" />
+        <br>
         MongoDB
       </a>
     </td>
-    <td align="center">
+    <td>
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="Logo do MySQL" />
+        <br>
+        MySQL
+      </a>
+    </td>
+    <td>
+      <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
+        <br>
+        PostgreSQL
+      </a>
+    </td>
+    <td>
       <a href="https://www.sqlite.org/">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="Logo do SQLite" />
+        <br>
         SQLite
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://www.prisma.io/">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
+        <br>
         Prisma
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://sequelize.org/">
+        <img src="https://skillicons.dev/icons?i=sequelize" alt="Logo do Sequelize" />
+        <br>
         Sequelize
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://graphql.org/">
+        <img src="https://skillicons.dev/icons?i=graphql" alt="Logo do GraphQL" />
+        <br>
         GraphQL
       </a>
     </td>
