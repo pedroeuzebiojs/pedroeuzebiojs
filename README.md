@@ -616,29 +616,27 @@
   </tr>
 </table>
 
-<h2>👅 Idiomas</h2>
+<h2>
+  Idiomas
+</h2>
   
 <table>
-  <thead>
-    <tr>
-      <th align="center">Idioma</th>
-      <th align="center">Proficiência</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Português</td>
-      <td align="center">Nativo</td>
-    </tr>
-    <tr>
-      <td align="center">Inglês</td>
-      <td align="center">Intermediário</td>
-    </tr>
-    <tr>
-      <td align="center">Espanhol</td>
-      <td align="center">Intermediário</td>
-    </tr>
-  </tbody>
+  <tr align="center">
+   <th>Espanhol</th>
+   <td>Intermediário</th>
+ </tr>
+ <tr align="center">
+   <th>Francês</th>
+   <td>Básico</td>
+ </tr>
+ <tr align="center">
+   <th>Inglês</th>
+   <td>Intermediário</td>
+ </tr>
+ <tr align="center">
+   <th>Português</th>
+   <td>Nativo</td>
+ </tr>
 </table>
 
 <h2>🌐 Contato</h2>
