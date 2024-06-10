@@ -102,224 +102,193 @@
 </h2>
   
 <table>
-  <thead>
-    <tr>
-      <th align="center">Nome</th>
-      <th align="center">Organização emissora</th>
-      <th align="center">Data de emissão</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
-          Discover
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg"
-            alt="Logo da Rocketseat"
-            width="50"
-          />
-          <br>
-          Rocketseat
-        </a>
-      </td>
-      <td align="center">Maio de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d">
-          NLW Unite trilha de React
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg" 
-            alt="Logo da Rocketseat" 
-            width="50" 
-         />
-         <br>
-         Rocketseat
-        </a>
-      </td>
-      <td align="center">Abril de 2024</td>
-    </tr>
-     <tr>
-      <td align="center">
-        <a href="#">
-          Design de Experiência do Usuário: Usabilidade na Prática
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.egp.ce.gov.br/">
-          <img 
-            src="https://i.imgur.com/7RP4dxa.jpg" 
-            alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
-            width="50" 
-          />
-          <br>
-          Escola de Gestão Pública do Estado do Ceará
-        </a>
-      </td>
-      <td align="center">Abril de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          Design de Experiência do Usuário: O que é UX?
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.egp.ce.gov.br/">
-          <img 
-            src="https://i.imgur.com/7RP4dxa.jpg" 
-            alt="Logo da Escola de Gestão Pública do Estado do Ceará" 
-            width="50" 
-          />
-          <br>
-          Escola de Gestão Pública do Estado do Ceará
-        </a>
-      </td>
-      <td align="center">Abril de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          Bootcamp Semana do Herói 3° Edição
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://herocode.com.br/">
-          <img 
-            src="https://i.imgur.com/NuSGHe9.jpg" 
-            alt="Logo da Hero Code" 
-            width="50" 
-         />
-         <br>
-         Hero Code
-        </a>
-      </td>
-      <td align="center">Feveiro de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/73c11dfa-6c1c-4240-a79b-8b8403102de7">
-          NLW Expert trilha de Java
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg"
-            alt="Logo da Rocketseat"
-            width="50"
-          />
-          <br>
-          Rocketseat
-        </a>
-      </td>
-      <td align="center">Fevereiro de 2024</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">
-          Curso de Java Online
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg"
-            alt="Logo da Rocketseat"
-            width="50"
-          />
-          <br>
-          Rocketseat
-        </a>
-      </td>
-      <td align="center">Outubro de 2023</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/93fe55ff-f966-48e7-91c5-dfe73762e82c">
-          NLW IA
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg"
-            alt="Logo da Rocketseat"
-            width="50"
-          />
-          <br>
-          Rocketseat
-        </a>
-      </td>
-      <td align="center">Setembro de 2023</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2">
-          IA para Devs
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://rocketseat.com.br">
-          <img 
-            src="https://i.imgur.com/NdMnKqg.jpg"
-            alt="Logo da Rocketseat"
-            width="50"
-          />
-          <br>
-          Rocketseat
-        </a>
-      </td>
-      <td align="center">Agosto de 2023</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">
-          AWS Academy Graduate - AWS Academy Cloud Foundations
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img 
-            src="https://i.imgur.com/KP3bFsh.jpg"
-            alt="Logo da Amazon Web Services (AWS)"
-            width="50"
-          />
-          <br>
-          Amazon Web Services (AWS)
-        </a>
-      </td>
-      <td align="center">Junho de 2023</td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          Suporte Técnico em Tecnologia da Informação
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leadfortaleza.com.br/portal">
-          <img 
-            src="https://i.imgur.com/4N8tv4Y.jpg"
-            alt="Logo da Dell Lead"
-            width="50"
-          />
-          <br>
-          Dell Lead
-        </a>
-      </td>
-      <td align="center">Abril de 2023</td>
-    </tr>
-  </tbody>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
+        Discover
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Maio de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
+        Design de Experiência do Usuário: O que é UX?
+      </a>
+    </th>
+    <td>
+      <a href="https://www.egp.ce.gov.br/">
+        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
+        <br>
+        Escola de Gestão Pública do Estado do Ceará
+      </a>
+    </td>
+    <td>
+      Abril de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
+        Design de Experiência do Usuário: Usabilidade na Prática
+      </a>
+    </th>
+    <td>
+      <a href="https://www.egp.ce.gov.br/">
+        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
+        <br>
+        Escola de Gestão Pública do Estado do Ceará
+      </a>
+    </td>
+    <td>
+      Abril de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c">
+        NLW Unite - Nodejs
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Abril de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d">
+        NLW Unite - Reactjs
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Abril de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/73c11dfa-6c1c-4240-a79b-8b8403102de7">
+        NLW Expert trilha de Java
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Fevereiro de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
+        Semana do Herói
+      </a>
+    </th>
+    <td>
+      <a href="https://herocode.com.br">
+        <img src="https://i.imgur.com/NuSGHe9.jpg" alt="Logo da Hero Code" width="50" />
+        <br>
+        Hero Code
+      </a>
+    </td>
+    <td>
+      Fevereiro de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">
+        Curso de Java Online
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Outubro de 2023
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/93fe55ff-f966-48e7-91c5-dfe73762e82c">
+        NLW AI
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Setembro de 2023
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2">
+        IA para Devs
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Agosto de 2023
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">
+        AWS Academy Graduate - AWS Academy Cloud Foundations
+      </a>
+    </th>
+    <td>
+      <a href="https://aws.amazon.com/pt/">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
+        <br>
+        Amazon Web Services (AWS)
+      </a>
+    </td>
+    <td>
+      Junho de 2023
+    </td>
+  </tr>
 </table>
 
 <h2>🛠️ Tecnologias</h2>
