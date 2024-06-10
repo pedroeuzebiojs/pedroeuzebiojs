@@ -36,7 +36,7 @@
     <td>Na Secretaria de Desenvolvimento Econômico e Social, destaquei-me pela manutenção eficiente de sistemas de TI, garantindo o bom funcionamento das operações diárias e a satisfação dos usuários finais.</td>
   </tr>
   <tr align="center">
-    <th>Técnico de TI</th>
+    <th>Desenvolvedor Full Stack</th>
     <td>
       <a href="https://ifce.edu.br/">
         <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" />
