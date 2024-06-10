@@ -350,7 +350,10 @@
   </tr>
 </table>
 
-<h2>🛠️ Tecnologias</h2>
+<h2>
+  <img src="https://i.imgur.com/XSITwEg.gif" alt="Código gif animado" width="40" align="center" />
+  Tecnologias
+</h2>
   
 <h3>Linguagens</h3>
   
