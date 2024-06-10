@@ -17,7 +17,10 @@
   Minha experiência, combinada com uma busca constante por atualização e especialização, me permite enfrentar desafios complexos e contribuir significativamente para o sucesso das organizações em que atuo. Estou sempre à procura de oportunidades para aplicar minhas habilidades e conhecimentos em projetos que façam a diferença.
 </p>
 
-<h2>🚀 Experiência Profissional</h2>
+<h2>
+  <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="40" />
+  Experiência Profissional
+</h2>
   
 <table>
   <thead>
