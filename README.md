@@ -18,7 +18,7 @@
 </p>
 
 <h2>
-  <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="40" />
+  <img src="https://i.imgur.com/GNYn0la.gif" alt="Foguete no espaço gif animado" width="40" align="center" />
   Experiência Profissional
 </h2>
   
