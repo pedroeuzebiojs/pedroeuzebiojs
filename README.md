@@ -50,7 +50,7 @@
 </table>
 
 <h2>
-  <img src="https://i.imgur.com/iIMZGLd.gif" alt="Boné de formando gif animado" width="40" />
+  <img src="https://i.imgur.com/iIMZGLd.gif" alt="Boné de formando gif animado" width="40" align="center" />
   Formação Acadêmica
 </h2>
   
