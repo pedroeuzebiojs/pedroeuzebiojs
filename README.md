@@ -209,7 +209,7 @@
   <tr align="center">
     <th>
       <a href="#">
-        Semana do Herói
+        Semana do Herói 3° Edição
       </a>
     </th>
     <td>
