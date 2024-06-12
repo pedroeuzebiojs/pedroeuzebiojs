@@ -710,7 +710,7 @@
     </th>
     <th align="center">
       <a href="https://www.tiktok.com/@pedroeuzebio.web">
-        <img src="https://i.imgur.com/fHXrYAn.jpg" alt="Logo do TikTok" width="50" />
+        <img src="https://i.imgur.com/O722PWD.png" alt="Logo do TikTok" width="50" />
         <br>
         TikTok
       </a>
