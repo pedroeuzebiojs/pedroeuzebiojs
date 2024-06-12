@@ -717,7 +717,7 @@
     </th>
     <th align="center">
       <a href="https://x.com/pedroeuzebioo">
-        <img src="https://i.imgur.com/IN6Vldy.jpg" alt="Logo do X" width="50" />
+        <img src="https://i.imgur.com/9OoZ7SY.png" alt="Logo do X" width="50" />
         <br>
         X
       </a>
