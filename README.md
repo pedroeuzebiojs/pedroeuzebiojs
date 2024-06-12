@@ -106,6 +106,23 @@
 <table>
   <tr align="center">
     <th>
+      <a href="#">
+        Semana do Herói 4° Edição
+      </a>
+    </th>
+    <td>
+      <a href="https://herocode.com.br">
+        <img src="https://i.imgur.com/NuSGHe9.jpg" alt="Logo da Hero Code" width="50" />
+        <br>
+        Hero Code
+      </a>
+    </td>
+    <td>
+      Junho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
       <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
         Discover
       </a>
