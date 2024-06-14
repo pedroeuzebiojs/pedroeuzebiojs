@@ -387,7 +387,7 @@
 
 <h2>
   <img src="https://i.imgur.com/XSITwEg.gif" alt="Código gif animado" width="40" align="center" />
-  Habilidades Técnica
+  Habilidades Técnicas
 </h2>
   
 <table>
