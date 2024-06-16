@@ -63,7 +63,7 @@
       <a href="https://estacio.br">
         <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Estácio" width="50" />
         <br>
-        Estácio
+        Universidade Estácio de Sá (UNESA)
       </a>
     </td>
     <td>
