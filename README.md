@@ -8,15 +8,44 @@
 <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="30%" />
 
 <p>
-  Sou um Desenvolvedor Full Stack com uma sólida formação acadêmica e experiência diversificada em tecnologia da informação, acumulando vários anos de atuação no setor de TI. Minha carreira inclui posições como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social e Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desempenhei papéis cruciais na manutenção de sistemas e no desenvolvimento de soluções inovadoras.
+  Sou um Desenvolvedor Full Stack com sólida formação acadêmica e uma ampla gama de competências técnicas e interpessoais. Graduado como Tecnólogo em Sistemas para Internet pela Universidade Estácio de Sá (UNESA), possuo também qualificações como Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e Técnico em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda.
 </p>
 
 <p>
-  Minha trajetória acadêmica inclui um diploma de Tecnólogo em Sistemas para Internet pela Estácio, onde adquiri competências avançadas em desenvolvimento web e programação. Além disso, possuo certificações relevantes, como AWS Cloud Practitioner Essentials e diversos cursos da Rocketseat, que comprovam minha especialização em tecnologias modernas e emergentes, como Node.js, React.js e inteligência artificial.
+  Minha experiência profissional inclui atuar como Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi sistemas web utilizando tecnologias modernas e metodologias ágeis. Também trabalhei como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social, oferecendo suporte técnico e contribuindo para a manutenção e otimização de sistemas.
 </p>
 
 <p>
-  Minha experiência, combinada com uma busca constante por atualização e especialização, me permite enfrentar desafios complexos e contribuir significativamente para o sucesso das organizações em que atuo. Estou sempre à procura de oportunidades para aplicar minhas habilidades e conhecimentos em projetos que façam a diferença.
+  Entre minhas competências destacam-se:
+  <ul>
+    <li>
+      Desenvolvimento Front-End: Proficiência em HTML5, CSS3, JavaScript e frameworks como React.js para criar interfaces de usuário responsivas e intuitivas.
+    </li>
+    <li>
+      Desenvolvimento Back-End: Expertise em Node.js, Python, Java e PHP, com experiência em frameworks como Express.js e Django para construir APIs e serviços robustos.
+    </li>
+    <li>
+      Gestão de Projetos: Capacidade de planejar, executar e monitorar projetos utilizando metodologias ágeis, como Scrum e Kanban.
+    </li>
+    <li>
+      Computação em Nuvem: Conhecimento em serviços AWS, incluindo arquitetura, segurança e modelos de implantação em nuvem.
+    </li>
+    <li>
+      Habilidades Interpessoais: Comunicação eficaz, liderança de equipes, resolução de problemas e adaptabilidade em ambientes dinâmicos.
+    </li>
+  </ul>
+</p>
+
+<p>
+  Complemento minha formação contínua com diversas certificações, como AWS Cloud Practitioner Essentials, Gestão de Projetos, Suporte Técnico em Tecnologia da Informação e cursos focados em desenvolvimento de software e experiência do usuário. Falo português nativo, inglês e espanhol em nível intermediário e francês em nível básico.
+</p>
+
+<p>
+  Meus projetos incluem "Pedro Euzebio Links", um agregador de links responsivo com troca de tema, que serve como um cartão de visitas digital, demonstrando minha habilidade em criar soluções web práticas e atrativas.
+</p>
+
+<p>
+  Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades, colaborar com equipes multidisciplinares e contribuir para o desenvolvimento de soluções inovadoras e eficazes.
 </p>
 
 <h2>
