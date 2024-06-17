@@ -134,6 +134,23 @@
   <tr align="center">
     <th>
       <a href="#">
+        Gestão de Projetos
+      </a>
+    </th>
+    <td>
+      <a href="https://www.egp.ce.gov.br/">
+        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
+        <br>
+        Escola de Gestão Pública do Estado do Ceará
+      </a>
+    </td>
+    <td>
+      Junho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
         Calc para Iniciantes
       </a>
     </th>
