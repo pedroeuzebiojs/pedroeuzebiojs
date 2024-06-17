@@ -64,7 +64,6 @@
       </a>
     </td>
     <td>Novembro de 2023 - Dezembro de 2023</td>
-    <td>Na Secretaria de Desenvolvimento Econômico e Social, destaquei-me pela manutenção eficiente de sistemas de TI, garantindo o bom funcionamento das operações diárias e a satisfação dos usuários finais.</td>
   </tr>
   <tr align="center">
     <th>Desenvolvedor Full Stack</th>
@@ -76,7 +75,6 @@
       </a>
     </td>
     <td>Agosto de 2023 - Novembro de 2023</td>
-    <td>No IFCE, fui responsável por projetos importantes, como a migração de sistemas para plataformas mais modernas e a implementação de automações que resultaram em economia significativa de tempo e recursos.</td>
   </tr>
 </table>
 
