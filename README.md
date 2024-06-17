@@ -7,17 +7,17 @@
 
 <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="30%" />
 
-<p>
+<p align="justify">
   Sou um Desenvolvedor Full Stack com sólida formação acadêmica e uma ampla gama de competências técnicas e interpessoais. Graduado como Tecnólogo em Sistemas para Internet pela Universidade Estácio de Sá (UNESA), possuo também qualificações como Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e Técnico em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda.
 </p>
 
-<p>
+<p align="justify">
   Minha experiência profissional inclui atuar como Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi sistemas web utilizando tecnologias modernas e metodologias ágeis. Também trabalhei como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social, oferecendo suporte técnico e contribuindo para a manutenção e otimização de sistemas.
 </p>
 
-<p>
+<p align="justify">
   Entre minhas competências destacam-se:
-  <ul>
+  <ul align="justify">
     <li>
       Desenvolvimento Front-End: Proficiência em HTML5, CSS3, JavaScript e frameworks como React.js para criar interfaces de usuário responsivas e intuitivas.
     </li>
@@ -36,15 +36,15 @@
   </ul>
 </p>
 
-<p>
+<p align="justify">
   Complemento minha formação contínua com diversas certificações, como AWS Cloud Practitioner Essentials, Gestão de Projetos, Suporte Técnico em Tecnologia da Informação e cursos focados em desenvolvimento de software e experiência do usuário. Falo português nativo, inglês e espanhol em nível intermediário e francês em nível básico.
 </p>
 
-<p>
+<p align="justify">
   Meus projetos incluem "Pedro Euzebio Links", um agregador de links responsivo com troca de tema, que serve como um cartão de visitas digital, demonstrando minha habilidade em criar soluções web práticas e atrativas.
 </p>
 
-<p>
+<p align="justify">
   Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades, colaborar com equipes multidisciplinares e contribuir para o desenvolvimento de soluções inovadoras e eficazes.
 </p>
 
