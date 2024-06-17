@@ -433,98 +433,130 @@
   <img src="https://i.imgur.com/XSITwEg.gif" alt="Código gif animado" width="40" align="center" />
   Habilidades Técnicas
 </h2>
-  
+
+<h3>Desenvolvimento Front-End</h3>
+
 <table>
-  <tr align="center">
-    <th colspan="9">Desenvolvimento Front-End</th>
-  </tr>
   <tr align="center">
     <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img 
-          src="https://skillicons.dev/icons?i=html"
-          alt="Logo do HTML"
-        />
-        <br>
+        <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
+        <br />
         HTML
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img 
-          src="https://skillicons.dev/icons?i=css"
-          alt="Logo do CSS"
-        />
-        <br>
+        <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
+        <br />
         CSS
       </a>
     </td>
     <td>
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript">
-        <img 
-          src="https://skillicons.dev/icons?i=js"
-          alt="Logo do JavaScript"
-        />
-        <br>
+        <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
+        <br />
         JavaScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react.dev/">
-        <img 
-          src="https://skillicons.dev/icons?i=react"
-          alt="Logo do React"
-        />
-        <br>
-        React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=nextjs"
-          alt="Logo do Next.js"
-        />
-        <br>
-        Next.js
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vitejs.dev/">
-        <img 
-          src="https://skillicons.dev/icons?i=vite"
-          alt="Logo do Vite"
-        />
-        <br>
-        Vite
       </a>
     </td>
     <td>
       <a href="https://www.typescriptlang.org/">
-        <img 
-          src="https://skillicons.dev/icons?i=ts"
-          alt="Logo do TypeScript"
-        />
-        <br>
+        <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
+        <br />
         TypeScript
       </a>
     </td>
     <td>
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
+        <br />
+        React
+      </a>
+    </td>
+    <td>
+      <a href="https://nextjs.org/">
+        <img
+          src="https://skillicons.dev/icons?i=nextjs"
+          alt="Logo do Next.js"
+        />
+        <br />
+        Next.js
+      </a>
+    </td>
+    <td>
+      <a href="https://vitejs.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
+        <br />
+        Vite
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://astro.build/">
+        <img src="https://skillicons.dev/icons?i=astro" alt="Logo do Astro" />
+        <br />
+        Astro
+      </a>
+    </td>
+    <td>
       <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=tailwind"
+          alt="Logo do Tailwind CSS"
+        />
+        <br />
         Tailwind CSS
       </a>
     </td>
     <td>
       <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Logo do Styled-components" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=styledcomponents"
+          alt="Logo do Styled-components"
+        />
+        <br />
         Styled-components
+      </a>
+    </td>
+    <td>
+      <a href="https://mui.com/material-ui/">
+        <img
+          src="https://skillicons.dev/icons?i=materialui"
+          alt="Logo do Material-UI"
+        />
+        <br />
+        Material-UI
+      </a>
+    </td>
+    <td>
+      <a href="https://materializecss.com/">
+        <img
+          src="https://i.imgur.com/qX7AikK.png"
+          alt="Logo do Materialize CSS"
+          width="50"
+        />
+        <br />
+        Materialize CSS
+      </a>
+    </td>
+    <td>
+      <a href="https://sass-lang.com/">
+        <img src="https://skillicons.dev/icons?i=sass" alt="Logo do SASS" />
+        <br />
+        SASS
+      </a>
+    </td>
+    <td>
+      <a href="https://lesscss.org/">
+        <img src="https://skillicons.dev/icons?i=less" alt="Logo do LESS" />
+        <br />
+        LESS
       </a>
     </td>
   </tr>
 </table>
+
   
 <table>
   <tr align="center">
