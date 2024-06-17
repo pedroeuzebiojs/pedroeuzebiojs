@@ -413,7 +413,7 @@
   <tr align="center">
     <th>
       <a href="#">
-        Informática Básica
+        Informática Prática
       </a>
     </th>
     <td>
