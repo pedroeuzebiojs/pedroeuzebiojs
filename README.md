@@ -557,181 +557,200 @@
   </tr>
 </table>
 
-  
+<h3>Desenvolvimento Back-End</h3>
+
 <table>
-  <tr align="center">
-    <th colspan="5">Desenvolvimento Back-End</th>
-  </tr>
   <tr align="center">
     <td align="center">
       <a href="https://nodejs.org/en">
-        <img 
+        <img
           src="https://skillicons.dev/icons?i=nodejs"
           alt="Logo do Node.js"
         />
-        <br>
+        <br />
         Node.js
       </a>
     </td>
     <td align="center">
       <a href="https://expressjs.com/pt-br/">
-        <img 
+        <img
           src="https://skillicons.dev/icons?i=express"
           alt="Logo do Express.js"
         />
-        <br>
+        <br />
         Express.js
       </a>
     </td>
     <td align="center">
       <a href="https://fastify.dev/">
-        <img 
+        <img
           src="https://i.imgur.com/E3a9JTA.png"
           alt="Logo do Fastify"
           width="50"
         />
-        <br>
+        <br />
         Fastify
       </a>
     </td>
     <td align="center">
       <a href="https://www.java.com/pt-BR/">
-        <img 
-          src="https://skillicons.dev/icons?i=java"
-          alt="Logo do Java"
-        />
-        <br>
+        <img src="https://skillicons.dev/icons?i=java" alt="Logo do Java" />
+        <br />
         Java
       </a>
     </td>
     <td align="center">
       <a href="https://spring.io/">
-        <img 
+        <img
           src="https://skillicons.dev/icons?i=spring"
           alt="Logo do Spring Boot"
         />
-        <br>
+        <br />
         Spring Boot
       </a>
     </td>
   </tr>
 </table>
-  
+
+<h3>Banco de Dados</h3>
+
 <table>
-  <tr align="center">
-    <th colspan="7">Banco de Dados</th>
-  </tr>
   <tr align="center">
     <td>
       <a href="https://www.mongodb.com/">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="Logo do MongoDB" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=mongodb"
+          alt="Logo do MongoDB"
+        />
+        <br />
         MongoDB
       </a>
     </td>
     <td>
       <a href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql" alt="Logo do MySQL" />
-        <br>
+        <br />
         MySQL
       </a>
     </td>
     <td>
       <a href="https://www.postgresql.org/">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=postgres"
+          alt="Logo do PostgreSQL"
+        />
+        <br />
         PostgreSQL
       </a>
     </td>
     <td>
       <a href="https://www.sqlite.org/">
         <img src="https://skillicons.dev/icons?i=sqlite" alt="Logo do SQLite" />
-        <br>
+        <br />
         SQLite
       </a>
     </td>
     <td>
       <a href="https://www.prisma.io/">
         <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
-        <br>
+        <br />
         Prisma
       </a>
     </td>
     <td>
       <a href="https://sequelize.org/">
-        <img src="https://skillicons.dev/icons?i=sequelize" alt="Logo do Sequelize" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=sequelize"
+          alt="Logo do Sequelize"
+        />
+        <br />
         Sequelize
       </a>
     </td>
     <td>
       <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" alt="Logo do GraphQL" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=graphql"
+          alt="Logo do GraphQL"
+        />
+        <br />
         GraphQL
       </a>
     </td>
   </tr>
 </table>
-  
+
+<h3>Ferramentas</h3>
+
 <table>
-  <tr align="center">
-    <th colspan="8">Ferramentas</th>
-  </tr>
   <tr align="center">
     <td>
       <a href="https://git-scm.com/">
         <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
-        <br>
+        <br />
         Git
       </a>
     </td>
     <td>
       <a href="https://www.docker.com/">
         <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
-        <br>
+        <br />
         Docker
       </a>
     </td>
     <td>
       <a href="https://kubernetes.io/pt-br/">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Logo do Kubernetes" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=kubernetes"
+          alt="Logo do Kubernetes"
+        />
+        <br />
         Kubernetes
       </a>
     </td>
     <td>
       <a href="https://www.jenkins.io/">
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="Logo do Jenkis" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=jenkins"
+          alt="Logo do Jenkis"
+        />
+        <br />
         Jenkis
       </a>
     </td>
+  </tr>
+  <tr align="center">
     <td>
       <a href="https://webpack.js.org/">
-        <img src="https://skillicons.dev/icons?i=webpack" alt="Logo do Webpack" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=webpack"
+          alt="Logo do Webpack"
+        />
+        <br />
         Webpack
       </a>
     </td>
     <td>
       <a href="https://jestjs.io/pt-BR/">
         <img src="https://skillicons.dev/icons?i=jest" alt="Logo do Jest" />
-        <br>
+        <br />
         Jest
       </a>
     </td>
     <td>
       <a href="https://figma.com/">
         <img src="https://skillicons.dev/icons?i=figma" alt="Logo do Figma" />
-        <br>
+        <br />
         Figma
       </a>
     </td>
     <td>
       <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
-        <br>
+        <img
+          src="https://skillicons.dev/icons?i=vscode"
+          alt="Logo do VS Code"
+        />
+        <br />
         VS Code
       </a>
     </td>
