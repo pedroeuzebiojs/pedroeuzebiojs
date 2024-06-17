@@ -413,6 +413,23 @@
   <tr align="center">
     <th>
       <a href="#">
+        Informática Básica
+      </a>
+    </th>
+    <td>
+      <a href="https://leadfortaleza.com.br/portal">
+        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50" />
+        <br>
+        Dell Lead
+      </a>
+    </td>
+    <td>
+      Junho de 2023
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
         Suporte Técnico em Tecnologia da Informação
       </a>
     </th>
