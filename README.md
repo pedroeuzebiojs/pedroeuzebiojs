@@ -528,7 +528,7 @@
   
 <table>
   <tr align="center">
-    <th colspan="4">Desenvolvimento Back-End</th>
+    <th colspan="5">Desenvolvimento Back-End</th>
   </tr>
   <tr align="center">
     <td align="center">
@@ -552,6 +552,17 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://fastify.dev/">
+        <img 
+          src="https://i.imgur.com/E3a9JTA.png"
+          alt="Logo do Fastify"
+          width="50"
+        />
+        <br>
+        Fastify
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.java.com/pt-BR/">
         <img 
           src="https://skillicons.dev/icons?i=java"
@@ -568,7 +579,7 @@
           alt="Logo do Spring Boot"
         />
         <br>
-        Sprin Boot
+        Spring Boot
       </a>
     </td>
   </tr>
