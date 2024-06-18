@@ -798,7 +798,7 @@
 </table>
 
 <h2>
-  Links
+  🔗 Links
 </h2>
   
 <table>
