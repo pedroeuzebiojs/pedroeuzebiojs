@@ -792,6 +792,10 @@
 </table>
 
 <h2>
+  📊 Estatísticas do GitHub
+</h2>
+
+<h2>
   Idiomas
 </h2>
   
