@@ -807,6 +807,12 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroeuzebioo&theme=transparent" alt="Principais linguagens usadas ​​no cartão de repositório do Pedro Euzebio" />
 
+<h3>
+  Principais linguagens nos commits
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroeuzebioo&theme=transparent" alt="Principais linguagens nos commits do Pedro Euzebio" />
+
 <h2>
   Idiomas
 </h2>
