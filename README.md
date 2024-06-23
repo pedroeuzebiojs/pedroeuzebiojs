@@ -813,6 +813,12 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroeuzebioo&theme=transparent" alt="Principais linguagens nos commits do Pedro Euzebio" />
 
+<h3>
+  Cartão de estatísticas do GitHub
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroeuzebioo&theme=transparent" alt="Cartão de estatísticas do GitHub do Pedro Euzebio" />
+
 <h2>
   Idiomas
 </h2>
