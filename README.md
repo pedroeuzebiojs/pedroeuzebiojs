@@ -799,7 +799,7 @@
   Cartão de detalhes do perfil
 </h3>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroeuzebioo&theme=transparent" alt="Cartão de detalhes do perfil do Pedro Euzebio" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroeuzebioo&theme=transparent" alt="Cartão de detalhes do perfil do Pedro Euzebio" />
 
 <h3>
   Principais linguagens usadas ​​nos repositórios
