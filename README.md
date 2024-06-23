@@ -795,6 +795,24 @@
   Projetos em Destaque
 </h2>
 
+<table>
+  <tr align="center">
+    <th width="30%">
+      <a href="https://pedroeuzebio-links.netlify.app/">
+        <img src="https://i.imgur.com/0c60eQi.png" alt="Preview do projeto Pedro Euzebio Links" />
+      </a>
+    </th>
+    <td width="20%">
+      <a href="https://pedroeuzebio-links.netlify.app/">
+        Pedro Euzebio Links
+      </a>
+    </td>
+    <td>
+      Pedro Euzebio Links é um projeto desenvolvido para servir como um cartão de visitas digital, permitindo a agregação de links importantes de forma responsiva e visualmente atraente. Este projeto facilita a organização e compartilhamento de links para redes sociais, portfólios e outros recursos online em uma única página, acessível de qualquer dispositivo.
+    </td>
+  </tr>
+</table>
+
 <h2>
   📊 Estatísticas do GitHub
 </h2>
