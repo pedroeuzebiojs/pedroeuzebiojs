@@ -792,6 +792,10 @@
 </table>
 
 <h2>
+  Projetos em Destaque
+</h2>
+
+<h2>
   📊 Estatísticas do GitHub
 </h2>
 
