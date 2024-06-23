@@ -819,6 +819,12 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroeuzebioo&theme=transparent" alt="Cartão de estatísticas do GitHub do Pedro Euzebio" />
 
+<h3>
+  Cartão de ponto produtivo
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroeuzebioo&theme=transparent" alt="Cartão de ponto produtivo do Pedro Euzebio" />
+
 <h2>
   Idiomas
 </h2>
