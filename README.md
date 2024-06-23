@@ -801,6 +801,12 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroeuzebioo&theme=transparent" alt="Cartão de detalhes do perfil do Pedro Euzebio" width="100%" />
 
+<h3>
+  Principais linguagens usadas ​​nos repositórios
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroeuzebioo&theme=transparent" alt="Principais linguagens usadas ​​no cartão de repositório do Pedro Euzebio" />
+
 <h2>
   Idiomas
 </h2>
