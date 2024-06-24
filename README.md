@@ -877,7 +877,7 @@
 <table>
   <tr>
     <th align="center">
-      <a href="https://instagram.com/pedroeuzebio.web">
+      <a href="https://instagram.com/pedroeuzebiooo">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Logo do Instagram" />
         <br>
         Instagram
