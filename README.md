@@ -130,7 +130,7 @@
   Habilidades Técnicas
 </h2>
 
-<h3>Desenvolvimento Front-End</h3>
+<h3>Front-End</h3>
 
 <table>
   <tr align="center">
@@ -253,7 +253,7 @@
   </tr>
 </table>
 
-<h3>Desenvolvimento Back-End</h3>
+<h3>Back-End</h3>
 
 <table>
   <tr align="center">
