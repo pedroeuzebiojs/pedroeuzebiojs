@@ -936,7 +936,7 @@
       </a>
     </th>
     <th>
-      <a href="https://youtube.com/@pedroeuzebioo">
+      <a href="https://youtube.com/@pedroeuzebiooo">
         <img src="https://i.imgur.com/fAMQdYt.jpg" alt="Logo do Youtube" width="50" />
         <br>
         YouTube
