@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pdmszKF.png" alt="Foto de fundo para LinkedIn" width="100%" />
+<img src="https://i.imgur.com/tajw8J4.png" alt="Capa de fundo para Twitter/X" width="100%" />
 
 <h2> 
   <img src="https://i.imgur.com/KqbSKaX.gif" alt="Ponto de interrogação gif animado" width="40" align="center" /> 
