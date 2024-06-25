@@ -901,7 +901,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pedroeuzebioo">
+      <a href="https://github.com/pedroeuzebiooo">
         <img src="https://skillicons.dev/icons?i=github" alt="Logo do GitHub" />
         <br>
         GitHub
