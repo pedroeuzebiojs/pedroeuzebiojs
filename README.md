@@ -741,6 +741,23 @@
   <tr align="center">
     <th>
       <a href="#">
+        Bootcamp de IA Generativa da AWS
+      </a>
+    </th>
+    <td>
+      <a href="https://aws.amazon.com/pt/">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
+        <br>
+        Amazon Web Services (AWS)
+      </a>
+    </td>
+    <td>
+      Junho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="#">
         AWS Cloud Practitioner Essentials
       </a>
     </th>
