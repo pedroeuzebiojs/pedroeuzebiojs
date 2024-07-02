@@ -462,40 +462,6 @@
   <tr align="center">
     <th>
       <a href="#">
-        Calc Intermediário e Avançado
-      </a>
-    </th>
-    <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
-      </a>
-    </td>
-    <td>
-      Junho de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Calc para Iniciantes
-      </a>
-    </th>
-    <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
-      </a>
-    </td>
-    <td>
-      Junho de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
         Gestão de Projetos
       </a>
     </th>
@@ -529,23 +495,6 @@
   </tr>
   <tr align="center">
     <th>
-      <a href="#">
-        Semana do Herói 4° Edição
-      </a>
-    </th>
-    <td>
-      <a href="https://herocode.com.br">
-        <img src="https://i.imgur.com/NuSGHe9.jpg" alt="Logo da Hero Code" width="50" />
-        <br>
-        Hero Code
-      </a>
-    </td>
-    <td>
-      Junho de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
       <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
         Discover
       </a>
@@ -559,40 +508,6 @@
     </td>
     <td>
       Maio de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Design de Experiência do Usuário: O que é UX?
-      </a>
-    </th>
-    <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
-      </a>
-    </td>
-    <td>
-      Abril de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Design de Experiência do Usuário: Usabilidade na Prática
-      </a>
-    </th>
-    <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
-      </a>
-    </td>
-    <td>
-      Abril de 2024
     </td>
   </tr>
   <tr align="center">
@@ -640,23 +555,6 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
         <br>
         Rocketseat
-      </a>
-    </td>
-    <td>
-      Fevereiro de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Semana do Herói 3° Edição
-      </a>
-    </th>
-    <td>
-      <a href="https://herocode.com.br">
-        <img src="https://i.imgur.com/NuSGHe9.jpg" alt="Logo da Hero Code" width="50" />
-        <br>
-        Hero Code
       </a>
     </td>
     <td>
