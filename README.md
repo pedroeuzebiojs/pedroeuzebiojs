@@ -673,23 +673,6 @@
   <tr align="center">
     <th>
       <a href="#">
-        Noções de Liderança e Gestão de Pessoas
-      </a>
-    </th>
-    <td>
-      <a href="https://www.centec.org.br/">
-        <img src="https://i.imgur.com/beLRvQ5.jpg" alt="Logo da Instituto Centro de Ensino Tecnológico (Centec)" width="50" />
-        <br>
-        Instituto Centro de Ensino Tecnológico (Centec)
-      </a>
-    </td>
-    <td>
-      Dezembro de 2023
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
         Informática Prática
       </a>
     </th>
