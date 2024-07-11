@@ -8,44 +8,19 @@
 <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="30%" />
 
 <p align="justify">
-  Sou um Desenvolvedor Full Stack com sólida formação acadêmica e uma ampla gama de competências técnicas e interpessoais. Graduado como Tecnólogo em Sistemas para Internet pela Universidade Estácio de Sá (UNESA), possuo também qualificações como Técnico em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e Técnico em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda.
+  Pedro é um desenvolvedor Full Stack e é apaixonado por educação e tecnologia, reconhecido por sua habilidade em integrar tecnologias de ponta em projetos inovadores. Com um sólido histórico acadêmico e profissional, Pedro possui formação técnica em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda e está cursando Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA). 
 </p>
 
 <p align="justify">
-  Minha experiência profissional inclui atuar como Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi sistemas web utilizando tecnologias modernas e metodologias ágeis. Também trabalhei como Técnico de TI na Secretaria de Desenvolvimento Econômico e Social, oferecendo suporte técnico e contribuindo para a manutenção e otimização de sistemas.
+  Suas certificações incluem o curso AWS Academy Cloud Foundations, AWS Cloud Practitioner Essentials e Suporte Técnico em Tecnologia da Informação pela UECE, destacando seu domínio em serviços de nuvem e suporte técnico. Ele também participou de eventos intensivos como NLW AI, NLW Expert trilha de Java e NLW Unite trilhas de ReactJS e NodeJS, todos pela Rocketseat, aprimorando suas habilidades em IA, desenvolvimento front-end e back-end.
 </p>
 
 <p align="justify">
-  Entre minhas competências destacam-se:
-  <ul align="justify">
-    <li>
-      Desenvolvimento Front-End: Proficiência em HTML5, CSS3, JavaScript e frameworks como React.js para criar interfaces de usuário responsivas e intuitivas.
-    </li>
-    <li>
-      Desenvolvimento Back-End: Expertise em Node.js, Python, Java e PHP, com experiência em frameworks como Express.js e Django para construir APIs e serviços robustos.
-    </li>
-    <li>
-      Gestão de Projetos: Capacidade de planejar, executar e monitorar projetos utilizando metodologias ágeis, como Scrum e Kanban.
-    </li>
-    <li>
-      Computação em Nuvem: Conhecimento em serviços AWS, incluindo arquitetura, segurança e modelos de implantação em nuvem.
-    </li>
-    <li>
-      Habilidades Interpessoais: Comunicação eficaz, liderança de equipes, resolução de problemas e adaptabilidade em ambientes dinâmicos.
-    </li>
-  </ul>
+  Pedro se destacou em projetos pessoais, como o desenvolvimento do Pedro Euzebio Links, um agregador de links responsivo e com troca de tema, utilizando HTML5, CSS3 e JavaScript. Durante seu estágio no IFCE como Desenvolvedor Full Stack, ele aplicou tecnologias como React e Tailwind CSS para criar soluções eficazes.
 </p>
 
 <p align="justify">
-  Complemento minha formação contínua com diversas certificações, como AWS Cloud Practitioner Essentials, Gestão de Projetos, Suporte Técnico em Tecnologia da Informação e cursos focados em desenvolvimento de software e experiência do usuário. Falo português nativo, inglês e espanhol em nível intermediário e francês em nível básico.
-</p>
-
-<p align="justify">
-  Meus projetos incluem "Pedro Euzebio Links", um agregador de links responsivo com troca de tema, que serve como um cartão de visitas digital, demonstrando minha habilidade em criar soluções web práticas e atrativas.
-</p>
-
-<p align="justify">
-  Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades, colaborar com equipes multidisciplinares e contribuir para o desenvolvimento de soluções inovadoras e eficazes.
+  Com habilidades em gestão de projetos e tempo, certificadas pela EGPCE, Pedro é um profissional organizado e focado, pronto para enfrentar desafios multiculturais graças ao seu nível intermediário de inglês e espanhol. Seu objetivo é promover a educação e tecnologia, alinhando-se à missão do Centec, onde almeja atuar como professor de TI, contribuindo para o desenvolvimento sustentável do Ceará através da inovação e inclusão tecnológica.
 </p>
 
 <h2>
