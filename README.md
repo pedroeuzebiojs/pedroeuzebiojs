@@ -638,7 +638,7 @@
 </table>
 
 <h2>
-  Projetos em Destaque
+  💼 Projetos
 </h2>
 
 <table>
