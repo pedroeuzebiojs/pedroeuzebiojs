@@ -7,7 +7,9 @@
   Sobre 
 </h2>
 
-<img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." align="right" width="30%" />
+<a href="https://pedroeuzebio-links.vercel.app">
+  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="30%" align="right" />
+</a>
 
 <p align="justify">
   Pedro é um desenvolvedor Full Stack e é apaixonado por educação e tecnologia, reconhecido por sua habilidade em integrar tecnologias de ponta em projetos inovadores. Com um sólido histórico acadêmico e profissional, Pedro possui formação técnica em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda e está cursando Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA). 
