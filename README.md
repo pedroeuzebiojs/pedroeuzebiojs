@@ -563,7 +563,7 @@
 </table>
 
 <h2>
-  Cursos
+  📚 Cursos
 </h2>
 
 <table>
