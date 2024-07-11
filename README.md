@@ -648,13 +648,13 @@
         <img src="https://i.imgur.com/ET26cTJ.png" alt="Preview do projeto Pedro Euzebio Links" />
       </a>
     </th>
-    <td width="20%">
+    <td width="30%">
       <a href="https://pedroeuzebio-links.netlify.app/">
         Pedro Euzebio Links
       </a>
     </td>
     <td>
-      Pedro Euzebio Links é um projeto pessoal desenvolvido por Pedro, criado para funcionar como um agregador de links responsivo e personalizável, ideal para ser utilizado como cartão de visitas digital em redes sociais. Este projeto destaca-se pela sua simplicidade e eficiência, permitindo aos usuários centralizar e compartilhar facilmente suas informações de contato e links importantes.
+      Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
     </td>
   </tr>
 </table>
