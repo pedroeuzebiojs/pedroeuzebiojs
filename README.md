@@ -713,7 +713,7 @@
 </table>
 
 <h2>
-  🔗 Links
+  🌐 Redes Sociais
 </h2>
   
 <table>
@@ -730,13 +730,6 @@
         <img src="https://skillicons.dev/icons?i=github" alt="Logo do GitHub" />
         <br>
         GitHub
-      </a>
-    </td>
-     <td align="center">
-      <a href="mailto:pedroeuzebio.contato@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Logo do Gmail" />
-        <br>
-        Gmail
       </a>
     </td>
     <th align="center">
