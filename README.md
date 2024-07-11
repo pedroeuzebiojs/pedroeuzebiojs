@@ -654,7 +654,7 @@
       </a>
     </td>
     <td>
-      Pedro Euzebio Links é um projeto desenvolvido para servir como um cartão de visitas digital, permitindo a agregação de links importantes de forma responsiva e visualmente atraente. Este projeto facilita a organização e compartilhamento de links para redes sociais, portfólios e outros recursos online em uma única página, acessível de qualquer dispositivo.
+      Pedro Euzebio Links é um projeto pessoal desenvolvido por Pedro, criado para funcionar como um agregador de links responsivo e personalizável, ideal para ser utilizado como cartão de visitas digital em redes sociais. Este projeto destaca-se pela sua simplicidade e eficiência, permitindo aos usuários centralizar e compartilhar facilmente suas informações de contato e links importantes.
     </td>
   </tr>
 </table>
