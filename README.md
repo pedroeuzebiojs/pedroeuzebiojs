@@ -717,37 +717,37 @@
 </h2>
   
 <table>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
       <a href="https://instagram.com/pedroeuzebiooo">
         <img src="https://skillicons.dev/icons?i=instagram" alt="Logo do Instagram" />
         <br>
         Instagram
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/pedroeuzebiooo">
         <img src="https://skillicons.dev/icons?i=github" alt="Logo do GitHub" />
         <br>
         GitHub
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://linkedin.com/in/pedroeuzebio">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="Logo do LinkedIn" />
         <br>
         LinkedIn
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@pedroeuzebio.web">
+    <td>
+      <a href="https://www.tiktok.com/@pedroeuzebiooo">
         <img src="https://i.imgur.com/O722PWD.png" alt="Logo do TikTok" width="50" />
         <br>
         TikTok
       </a>
     </td>
-    <td align="center">
-      <a href="https://x.com/pedroeuzebioo">
+    <td>
+      <a href="https://x.com/pedroeuzebiooo">
         <img src="https://i.imgur.com/9OoZ7SY.png" alt="Logo do X" width="50" />
         <br>
         X
