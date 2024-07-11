@@ -645,7 +645,7 @@
   <tr align="center">
     <th width="30%">
       <a href="https://pedroeuzebio-links.netlify.app/">
-        <img src="https://i.imgur.com/0c60eQi.png" alt="Preview do projeto Pedro Euzebio Links" />
+        <img src="https://i.imgur.com/ET26cTJ.png" alt="Preview do projeto Pedro Euzebio Links" />
       </a>
     </th>
     <td width="20%">
