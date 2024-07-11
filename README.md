@@ -694,17 +694,13 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroeuzebiooo&theme=transparent" alt="Cartão de ponto produtivo do Pedro Euzebio" />
 
 <h2>
-  Idiomas
+  🌍 Idiomas
 </h2>
   
 <table>
   <tr align="center">
    <th>Espanhol</th>
    <td>Intermediário</th>
- </tr>
- <tr align="center">
-   <th>Francês</th>
-   <td>Básico</td>
  </tr>
  <tr align="center">
    <th>Inglês</th>
