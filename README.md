@@ -644,12 +644,12 @@
 <table>
   <tr align="center">
     <th width="30%">
-      <a href="https://pedroeuzebio-links.netlify.app/">
+      <a href="https://pedroeuzebio-links.vercel.app">
         <img src="https://i.imgur.com/ET26cTJ.png" alt="Preview do projeto Pedro Euzebio Links" />
       </a>
     </th>
     <td width="30%">
-      <a href="https://pedroeuzebio-links.netlify.app/">
+      <a href="https://pedroeuzebio-links.vercel.app">
         Pedro Euzebio Links
       </a>
     </td>
