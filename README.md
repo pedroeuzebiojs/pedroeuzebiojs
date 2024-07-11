@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/tajw8J4.png" alt="Capa de fundo para Twitter/X" width="100%" />
+<a href="https://pedroeuzebio-links.vercel.app">
+  <img src="https://i.imgur.com/tajw8J4.png" alt="Capa de fundo para Twitter/X" width="100%" />
+</a>
 
 <h2> 
   <img src="https://i.imgur.com/KqbSKaX.gif" alt="Ponto de interrogação gif animado" width="40" align="center" /> 
