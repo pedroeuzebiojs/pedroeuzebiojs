@@ -448,7 +448,7 @@
   <tr align="center">
     <th>
       <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c">
-        NLW Unite - Nodejs
+        NLW Unite trilha de Node.js
       </a>
     </th>
     <td>
@@ -465,7 +465,7 @@
   <tr align="center">
     <th>
       <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d">
-        NLW Unite - Reactjs
+        NLW Unite trilha de React
       </a>
     </th>
     <td>
