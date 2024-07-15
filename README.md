@@ -73,7 +73,7 @@
       </a>
     </td>
     <td>
-      Janeiro de 2024 - Junho de 2026
+      jan de 2024 - jun de 2026
     </td>
   </tr>
   <tr align="center">
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td>
-      Janeiro de 2024 - Junho de 2025
+      jan de 2024 - jun de 2025
     </td>
   </tr>
   <tr align="center">
@@ -99,7 +99,7 @@
       </a>
     </td>
     <td>
-      Janeiro de 2021 - Dezembro de 2023
+      jan de 2021 - dez de 2023
     </td>
   </tr>
 </table>
