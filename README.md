@@ -396,6 +396,91 @@
 <table>
   <tr align="center">
     <th>
+      <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f">
+        NLW Journey trilha Full Stack
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Julho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/c1d6a80a-6e39-4e5e-b3a0-7644abe1e13a">
+        NLW Journey trilha de IA
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Julho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/c1d6a80a-6e39-4e5e-b3a0-7644abe1e13a">
+        NLW Journey trilha de Java
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Julho de 2024
+    </td>
+  </tr>
+   <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd">
+        NLW Journey trilha de Node.js
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Julho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
+      <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907">
+        NLW Journey trilha de React
+      </a>
+    </th>
+    <td>
+      <a href="https://rocketseat.com.br">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
+        <br>
+        Rocketseat
+      </a>
+    </td>
+    <td>
+      Julho de 2024
+    </td>
+  </tr>
+  <tr align="center">
+    <th>
       <a href="#">
         Gestão de Projetos
       </a>
@@ -550,7 +635,7 @@
   <tr align="center">
     <th>
       <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">
-        AWS Academy Graduate - AWS Academy Cloud Foundations
+        AWS Academy Cloud Foundations
       </a>
     </th>
     <td>
