@@ -408,7 +408,7 @@
       </a>
     </td>
     <td>
-      Julho de 2024
+      jul de 2024
     </td>
   </tr>
   <tr align="center">
@@ -425,7 +425,7 @@
       </a>
     </td>
     <td>
-      Julho de 2024
+      jul de 2024
     </td>
   </tr>
   <tr align="center">
@@ -442,7 +442,7 @@
       </a>
     </td>
     <td>
-      Julho de 2024
+      jul de 2024
     </td>
   </tr>
    <tr align="center">
@@ -459,7 +459,7 @@
       </a>
     </td>
     <td>
-      Julho de 2024
+      jul de 2024
     </td>
   </tr>
   <tr align="center">
@@ -476,7 +476,7 @@
       </a>
     </td>
     <td>
-      Julho de 2024
+      jul de 2024
     </td>
   </tr>
   <tr align="center">
@@ -493,7 +493,7 @@
       </a>
     </td>
     <td>
-      Junho de 2024
+      jun  de 2024
     </td>
   </tr>
   <tr align="center">
@@ -510,7 +510,7 @@
       </a>
     </td>
     <td>
-      Junho de 2024
+      jun de 2024
     </td>
   </tr>
   <tr align="center">
@@ -527,7 +527,7 @@
       </a>
     </td>
     <td>
-      Maio de 2024
+      mai de 2024
     </td>
   </tr>
   <tr align="center">
@@ -544,7 +544,7 @@
       </a>
     </td>
     <td>
-      Abril de 2024
+      abr de 2024
     </td>
   </tr>
   <tr align="center">
@@ -561,7 +561,7 @@
       </a>
     </td>
     <td>
-      Abril de 2024
+      abr de 2024
     </td>
   </tr>
   <tr align="center">
@@ -578,7 +578,7 @@
       </a>
     </td>
     <td>
-      Fevereiro de 2024
+      fev de 2024
     </td>
   </tr>
   <tr align="center">
@@ -595,7 +595,7 @@
       </a>
     </td>
     <td>
-      Outubro de 2023
+      out de 2023
     </td>
   </tr>
   <tr align="center">
@@ -612,7 +612,7 @@
       </a>
     </td>
     <td>
-      Setembro de 2023
+      set de 2023
     </td>
   </tr>
   <tr align="center">
@@ -629,7 +629,7 @@
       </a>
     </td>
     <td>
-      Agosto de 2023
+      ago de 2023
     </td>
   </tr>
   <tr align="center">
@@ -646,7 +646,7 @@
       </a>
     </td>
     <td>
-      Junho de 2023
+      jun de 2023
     </td>
   </tr>
 </table>
