@@ -42,7 +42,7 @@
         Secretária do Desenvolvimento Econômico e Social
       </a>
     </td>
-    <td>Novembro de 2023 - Dezembro de 2023</td>
+    <td>nov de 2023 - dez de 2023</td>
   </tr>
   <tr align="center">
     <th>Desenvolvedor Full Stack</th>
@@ -53,7 +53,7 @@
         Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
       </a>
     </td>
-    <td>Agosto de 2023 - Novembro de 2023</td>
+    <td>ago de 2023 - nov de 2023</td>
   </tr>
 </table>
 
