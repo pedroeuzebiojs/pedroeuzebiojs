@@ -143,7 +143,7 @@
       <a href="https://vitejs.dev/">
         <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
         <br />
-        Vite
+        Vite.js
       </a>
     </td>
     <td width="150px">
@@ -260,7 +260,7 @@
           alt="Logo do Spring Boot"
         />
         <br />
-        Spring Boot
+        Spring
       </a>
     </td>
     <td width="150px">
