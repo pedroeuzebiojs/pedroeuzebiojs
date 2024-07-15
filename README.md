@@ -670,7 +670,7 @@
       </a>
     </td>
     <td>
-      Junho de 2024
+      jun de 2024
     </td>
   </tr>
   <tr align="center">
@@ -687,7 +687,7 @@
       </a>
     </td>
     <td>
-      Junho de 2024
+      jun de 2024
     </td>
   </tr>
   <tr align="center">
@@ -704,7 +704,7 @@
       </a>
     </td>
     <td>
-      Junho de 2023
+      jun de 2023
     </td>
   </tr>
   <tr align="center">
@@ -721,7 +721,7 @@
       </a>
     </td>
     <td>
-      Abril de 2023
+      abr de 2023
     </td>
   </tr>
 </table>
