@@ -279,261 +279,110 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 </table>
 
 # Certificados
-  
+
 <table>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f">
-        NLW Journey trilha Full Stack
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jul de 2024
+      NLW Journey trilha Full Stack <br>
+      Rockeseat <br>
+      Verificação emitida em jul de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/c1d6a80a-6e39-4e5e-b3a0-7644abe1e13a">
-        NLW Journey trilha de IA
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jul de 2024
+      NLW Journey trilha de Node.js <br>
+      Rockeseat <br>
+      Verificação emitida em jul de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/c1d6a80a-6e39-4e5e-b3a0-7644abe1e13a">
-        NLW Journey trilha de Java
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jul de 2024
+      NLW Journey trilha de React <br>
+      Rockeseat <br>
+      Verificação emitida em jul de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907" target="">Exibir credencial</a>
     </td>
   </tr>
-   <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd">
-        NLW Journey trilha de Node.js
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jul de 2024
+      Discover <br>
+      Rockeseat <br>
+      Verificação emitida em mai de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907">
-        NLW Journey trilha de React
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jul de 2024
+      NLW Unite trilha de Node.js <br>
+      Rockeseat <br>
+      Verificação emitida em abr de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Gestão de Projetos
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jun  de 2024
+      NLW Unite trilha de React <br>
+      Rockeseat <br>
+      Verificação emitida em abr de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Gestão do Tempo
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://www.egp.ce.gov.br/">
-        <img src="https://i.imgur.com/7RP4dxa.jpg" alt="Logo da Escola de Gestão Pública do Estado do Ceará" width="50" />
-        <br>
-        Escola de Gestão Pública do Estado do Ceará
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
     <td>
-      jun de 2024
+      IA para Devs <br>
+      Rockeseat <br>
+      Verificação emitida em ago de 2023 <br>
+      <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2" target="">Exibir credencial</a>
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">
-        Discover
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
+      <a href="" target="_blank">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
     <td>
-      mai de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c">
-        NLW Unite trilha de Node.js
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      abr de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d">
-        NLW Unite trilha de React
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      abr de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/73c11dfa-6c1c-4240-a79b-8b8403102de7">
-        NLW Expert trilha de Java
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      fev de 2024
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">
-        Curso de Java Online
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      out de 2023
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/93fe55ff-f966-48e7-91c5-dfe73762e82c">
-        NLW AI
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      set de 2023
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2">
-        IA para Devs
-      </a>
-    </th>
-    <td>
-      <a href="https://rocketseat.com.br">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" />
-        <br>
-        Rocketseat
-      </a>
-    </td>
-    <td>
-      ago de 2023
-    </td>
-  </tr>
-  <tr align="center">
-    <th>
-      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">
-        AWS Academy Cloud Foundations
-      </a>
-    </th>
-    <td>
-      <a href="https://aws.amazon.com/pt/">
-        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
-        <br>
-        Amazon Web Services (AWS)
-      </a>
-    </td>
-    <td>
-      jun de 2023
+      AWS Academy Cloud Foundations <br>
+      Amazon Web Services (AWS) <br>
+      Verificação emitida em jun de 2023 <br>
+      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print" target="">Exibir credencial</a>
     </td>
   </tr>
 </table>
