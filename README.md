@@ -390,71 +390,40 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 # Cursos
 
 <table>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Bootcamp de IA Generativa da AWS
-      </a>
-    </th>
+  <tr>
     <td>
-      <a href="https://aws.amazon.com/pt/">
-        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
-        <br>
-        Amazon Web Services (AWS)
+      <a href="https://aws.amazon.com/pt" target="_blank">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
     <td>
+      AWS Cloud Practitioner Essentials <br>
+      Amazon Web Services (AWS) <br>
       jun de 2024
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        AWS Cloud Practitioner Essentials
-      </a>
-    </th>
+   <tr>
     <td>
-      <a href="https://aws.amazon.com/pt/">
-        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" />
-        <br>
-        Amazon Web Services (AWS)
+      <a href="https://aws.amazon.com/pt" target="_blank">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
     <td>
+      Bootcamp de IA Generativa da AWS <br>
+      Amazon Web Services (AWS) <br>
       jun de 2024
     </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Informática Prática
-      </a>
-    </th>
-    <td>
-      <a href="https://leadfortaleza.com.br/portal">
-        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50" />
-        <br>
-        Dell Lead
-      </a>
-    </td>
-    <td>
-      jun de 2023
-    </td>
   </tr>
-  <tr align="center">
-    <th>
-      <a href="#">
-        Suporte Técnico em Tecnologia da Informação
-      </a>
-    </th>
+   <tr>
     <td>
-      <a href="https://leadfortaleza.com.br/portal">
-        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50" />
-        <br>
-        Dell Lead
+      <a href="https://leadfortaleza.com.br/portal" target="_blank">
+        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50px">
       </a>
     </td>
     <td>
+      Suporte Técnico em Tecnologia da Informação <br>
+      Dell Lead <br>
       abr de 2023
     </td>
   </tr>
