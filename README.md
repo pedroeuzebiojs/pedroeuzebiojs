@@ -5,7 +5,7 @@
 # Sobre
 
 <a href="https://pedroeuzebio-links.vercel.app">
-  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="30%" align="right" />
+  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="300px" align="right" />
 </a>
 
 <p align="justify">
