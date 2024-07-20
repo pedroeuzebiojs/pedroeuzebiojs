@@ -457,40 +457,6 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 </table>
 
 <h2>
-  📊 Estatísticas do GitHub
-</h2>
-
-<h3>
-  Cartão de detalhes do perfil
-</h3>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroeuzebiooo&theme=transparent" alt="Cartão de detalhes do perfil do Pedro Euzebio" />
-
-<h3>
-  Principais linguagens usadas ​​nos repositórios
-</h3>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroeuzebiooo&theme=transparent" alt="Principais linguagens usadas ​​no cartão de repositório do Pedro Euzebio" />
-
-<h3>
-  Principais linguagens nos commits
-</h3>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroeuzebiooo&theme=transparent" alt="Principais linguagens nos commits do Pedro Euzebio" />
-
-<h3>
-  Cartão de estatísticas do GitHub
-</h3>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroeuzebiooo&theme=transparent" alt="Cartão de estatísticas do GitHub do Pedro Euzebio" />
-
-<h3>
-  Cartão de ponto produtivo
-</h3>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroeuzebiooo&theme=transparent" alt="Cartão de ponto produtivo do Pedro Euzebio" />
-
-<h2>
   🌍 Idiomas
 </h2>
   
