@@ -374,7 +374,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
   <tr>
     <td>
-      <a href="" target="_blank">
+      <a href="https://aws.amazon.com/pt" target="_blank">
         <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
