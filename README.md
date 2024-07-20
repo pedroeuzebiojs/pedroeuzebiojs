@@ -9,19 +9,11 @@
 </a>
 
 <p align="justify">
-  Pedro é um desenvolvedor Full Stack e é apaixonado por educação e tecnologia, reconhecido por sua habilidade em integrar tecnologias de ponta em projetos inovadores. Com um sólido histórico acadêmico e profissional, Pedro possui formação técnica em Informática pela Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda e está cursando Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA). 
-</p>
+  Pedro Euzebio é um profissional dinâmico e inovador no campo da tecnologia da informação, com uma formação sólida e diversas conquistas acadêmicas e práticas. Ele possui experiência em desenvolvimento Full Stack e suporte técnico, adquirida em estágios no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e na Secretaria de Desenvolvimento Econômico e Social. Pedro é certificado em AWS Academy Cloud Foundations, AWS Cloud Practitioner Essentials e participou de eventos renomados como IA para Devs, NLW Unite e NLW Journey, onde aprofundou suas habilidades em React, Node.js e Full Stack.
 
-<p align="justify">
-  Suas certificações incluem o curso AWS Academy Cloud Foundations, AWS Cloud Practitioner Essentials e Suporte Técnico em Tecnologia da Informação pela UECE, destacando seu domínio em serviços de nuvem e suporte técnico. Ele também participou de eventos intensivos como NLW AI, NLW Expert trilha de Java e NLW Unite trilhas de ReactJS e NodeJS, todos pela Rocketseat, aprimorando suas habilidades em IA, desenvolvimento front-end e back-end.
-</p>
+Seu projeto pessoal, Pedro Euzebio Links, demonstra sua capacidade de criar soluções web responsivas e personalizáveis, evidenciando proficiência em HTML, CSS e JavaScript. Além disso, ele possui conhecimento intermediário de Inglês e Espanhol, o que amplia sua capacidade de colaborar em projetos internacionais e acessar conteúdos especializados.
 
-<p align="justify">
-  Pedro se destacou em projetos pessoais, como o desenvolvimento do Pedro Euzebio Links, um agregador de links responsivo e com troca de tema, utilizando HTML5, CSS3 e JavaScript. Durante seu estágio no IFCE como Desenvolvedor Full Stack, ele aplicou tecnologias como React e Tailwind CSS para criar soluções eficazes.
-</p>
-
-<p align="justify">
-  Com habilidades em gestão de projetos e tempo, certificadas pela EGPCE, Pedro é um profissional organizado e focado, pronto para enfrentar desafios multiculturais graças ao seu nível intermediário de inglês e espanhol. Seu objetivo é promover a educação e tecnologia, alinhando-se à missão do Centec, onde almeja atuar como professor de TI, contribuindo para o desenvolvimento sustentável do Ceará através da inovação e inclusão tecnológica.
+Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, destacando seu compromisso com a educação contínua. Seu objetivo profissional é compartilhar seus conhecimentos através de metodologias práticas, inspirando e gerando esperança para as pessoas, e deixando um legado significativo em suas vidas. Com uma abordagem focada na inovação e no impacto positivo, Pedro está preparado para transformar desafios tecnológicos em oportunidades de crescimento e desenvolvimento.
 </p>
 
 <h2>
