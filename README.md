@@ -2,10 +2,7 @@
   <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
 </a>
 
-<h2> 
-  <img src="https://i.imgur.com/KqbSKaX.gif" alt="Ponto de interrogação gif animado" width="40" align="center" /> 
-  Sobre 
-</h2>
+# Sobre
 
 <a href="https://pedroeuzebio-links.vercel.app">
   <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="30%" align="right" />
