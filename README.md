@@ -19,27 +19,31 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 # Experiência
 
 <table>
-  <tr align="center">
-    <th>Técnico de TI</th>
+  <tr>
     <td>
-      <a href="https://baturite.ce.gov.br/secretaria.php?sec=6">
-        <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária do Desenvolvimento Econômico e Social" width="50" />
-        <br>
-        Secretária do Desenvolvimento Econômico e Social
+      <a href="https://baturite.ce.gov.br/secretaria.php?sec=6" target="_blank">
+        <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária do Desenvolvimento Econômico e Social" width="50px">
       </a>
     </td>
-    <td>nov de 2023 - dez de 2023</td>
+    <td>
+      Técnico de TI <br>
+      Secretária do Desenvolvimento Econômico e Social · Estágio <br>
+      nov de 2023 - dez de 2023 · 2 meses <br>
+      Baturité, Ceará, Brasil · Presencial
+    </td>
   </tr>
-  <tr align="center">
-    <th>Desenvolvedor Full Stack</th>
+  <tr>
     <td>
-      <a href="https://ifce.edu.br/">
-        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" />
-        <br>
-        Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+      <a href="https://ifce.edu.br" target="_blank">
+        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
       </a>
     </td>
-    <td>ago de 2023 - nov de 2023</td>
+    <td>
+      Desenvolvedor Full Stack <br>
+      Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
+      ago de 2023 - nov de 2023 · 4 meses <br>
+      Baturité, Ceará, Brasil · Presencial
+    </td>
   </tr>
 </table>
 
