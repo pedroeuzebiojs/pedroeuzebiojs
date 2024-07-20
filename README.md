@@ -16,10 +16,7 @@ Seu projeto pessoal, Pedro Euzebio Links, demonstra sua capacidade de criar solu
 Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, destacando seu compromisso com a educação contínua. Seu objetivo profissional é compartilhar seus conhecimentos através de metodologias práticas, inspirando e gerando esperança para as pessoas, e deixando um legado significativo em suas vidas. Com uma abordagem focada na inovação e no impacto positivo, Pedro está preparado para transformar desafios tecnológicos em oportunidades de crescimento e desenvolvimento.
 </p>
 
-<h2>
-  <img src="https://i.imgur.com/sEUtGSw.gif" alt="Foguete no espaço gif animado" width="40" align="center" />
-  Experiência Profissional
-</h2>
+# Experiência
 
 <table>
   <tr align="center">
