@@ -1,5 +1,5 @@
 <a href="https://pedroeuzebio-links.vercel.app">
-  <img src="https://i.imgur.com/tajw8J4.png" alt="Capa de fundo para Twitter/X" width="100%" />
+  <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
 </a>
 
 <h2> 
