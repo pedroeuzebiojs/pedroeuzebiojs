@@ -278,10 +278,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
 </table>
 
-<h2>
-  <img src="https://i.imgur.com/94dF727.gif" alt="Certificado gif animado" width="40" align="center" />
-  Certificados
-</h2>
+# Certificados
   
 <table>
   <tr align="center">
