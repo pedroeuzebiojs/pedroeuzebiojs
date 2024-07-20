@@ -50,42 +50,39 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 # Formação Acadêmica
 
 <table>
-  <tr align="center">
-    <th>Tecnólogo em Sistemas para Internet</th>
+  <tr>
     <td>
-      <a href="https://estacio.br">
-        <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Estácio" width="50" />
-        <br>
-        Universidade Estácio de Sá (UNESA)
+      <a href="https://estacio.br" target="_blank">
+        <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50px">
       </a>
     </td>
     <td>
+      Universidade Estácio de Sá (UNESA) <br>
+      Tecnólogo em Sistemas para Internet <br>
       jan de 2024 - jun de 2026
     </td>
   </tr>
-  <tr align="center">
-    <th>Técnico em Informática para Internet</th>
+  <tr>
     <td>
-      <a href="https://ifce.edu.br/">
-        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará" width="50" />
-        <br>
-        Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+      <a href="https://ifce.edu.br" target="_blank">
+        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
       </a>
     </td>
     <td>
+      Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br>
+      Técnico em Informática para Internet <br>
       jan de 2024 - jun de 2025
     </td>
   </tr>
-  <tr align="center">
-    <th>Técnico em Informática</th>
+  <tr>
     <td>
-      <a href="https://www.eeepdebaturite.com/">
-        <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50" />
-        <br>
-        Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda
+      <a href="https://www.eeepdebaturite.com" target="_blank">
+        <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50px">
       </a>
     </td>
     <td>
+      Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda <br>
+      Técnico em Informática <br>
       jan de 2021 - dez de 2023
     </td>
   </tr>
