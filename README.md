@@ -47,10 +47,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
 </table>
 
-<h2>
-  <img src="https://i.imgur.com/iIMZGLd.gif" alt="Boné de formando gif animado" width="40" align="center" />
-  Formação Acadêmica
-</h2>
+# Formação Acadêmica
 
 <table>
   <tr align="center">
