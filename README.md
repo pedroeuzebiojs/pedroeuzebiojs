@@ -88,10 +88,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
 </table>
 
-<h2>
-  <img src="https://i.imgur.com/XSITwEg.gif" alt="Código gif animado" width="40" align="center" />
-  Habilidades Técnicas
-</h2>
+# Habilidades
 
 <table>
   <tr align="center">
