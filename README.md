@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-# Educação
+# Formação Acadêmica
 
 <table>
   <tr>
