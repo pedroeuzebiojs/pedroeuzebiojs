@@ -22,7 +22,7 @@
       </a>
     </td>
     <td>
-      Técnico de TI <br>
+      <strong>Técnico de TI</strong> <br>
       Secretária do Desenvolvimento Econômico e Social · Estágio <br>
       nov de 2023 - dez de 2023 · 2 meses <br>
       Baturité, Ceará, Brasil · Presencial
@@ -35,7 +35,7 @@
       </a>
     </td>
     <td>
-      Desenvolvedor Full Stack <br>
+      <strong>Desenvolvedor Full Stack</strong> <br>
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
       ago de 2023 - nov de 2023 · 4 meses <br>
       Baturité, Ceará, Brasil · Presencial
