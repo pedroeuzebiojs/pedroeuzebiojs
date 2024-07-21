@@ -393,7 +393,7 @@
       </a>
     </td>
     <td>
-      AWS Cloud Practitioner Essentials <br>
+      <strong>AWS Cloud Practitioner Essentials</strong> <br>
       Amazon Web Services (AWS) <br>
       jun de 2024
     </td>
@@ -405,7 +405,7 @@
       </a>
     </td>
     <td>
-      Bootcamp de IA Generativa da AWS <br>
+      <strong>Bootcamp de IA Generativa da AWS</strong> <br>
       Amazon Web Services (AWS) <br>
       jun de 2024
     </td>
@@ -418,7 +418,7 @@
       </a>
     </td>
     <td>
-      Suporte Técnico em Tecnologia da Informação <br>
+      <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
       Dell Lead <br>
       abr de 2023
     </td>
