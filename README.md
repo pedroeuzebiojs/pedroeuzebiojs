@@ -284,7 +284,7 @@
       </a>
     </td>
     <td>
-      NLW Journey trilha Full Stack <br>
+      <strong>NLW Journey trilha Full Stack</strong> <br>
       Rockeseat <br>
       Verificação emitida em jul de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f" target="">Exibir credencial</a>
@@ -297,7 +297,7 @@
       </a>
     </td>
     <td>
-      NLW Journey trilha de Node.js <br>
+      <strong>NLW Journey trilha de Node.js</strong> <br>
       Rockeseat <br>
       Verificação emitida em jul de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd" target="">Exibir credencial</a>
@@ -310,7 +310,7 @@
       </a>
     </td>
     <td>
-      NLW Journey trilha de React <br>
+      <strong>NLW Journey trilha de React</strong> <br>
       Rockeseat <br>
       Verificação emitida em jul de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907" target="">Exibir credencial</a>
@@ -323,7 +323,7 @@
       </a>
     </td>
     <td>
-      Discover <br>
+      <strong>Discover</strong> <br>
       Rockeseat <br>
       Verificação emitida em mai de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="">Exibir credencial</a>
@@ -336,7 +336,7 @@
       </a>
     </td>
     <td>
-      NLW Unite trilha de Node.js <br>
+      <strong>NLW Unite trilha de Node.js</strong> <br>
       Rockeseat <br>
       Verificação emitida em abr de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c" target="">Exibir credencial</a>
@@ -349,7 +349,7 @@
       </a>
     </td>
     <td>
-      NLW Unite trilha de React <br>
+      <strong>NLW Unite trilha de React</strong> <br>
       Rockeseat <br>
       Verificação emitida em abr de 2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d" target="">Exibir credencial</a>
@@ -362,7 +362,7 @@
       </a>
     </td>
     <td>
-      IA para Devs <br>
+      <strong>IA para Devs</strong> <br>
       Rockeseat <br>
       Verificação emitida em ago de 2023 <br>
       <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2" target="">Exibir credencial</a>
@@ -375,7 +375,7 @@
       </a>
     </td>
     <td>
-      AWS Academy Cloud Foundations <br>
+      <strong>AWS Academy Cloud Foundations</strong> <br>
       Amazon Web Services (AWS) <br>
       Verificação emitida em jun de 2023 <br>
       <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print" target="">Exibir credencial</a>
