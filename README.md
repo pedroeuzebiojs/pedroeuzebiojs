@@ -456,9 +456,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
 </table>
 
-<h2>
-  🌍 Idiomas
-</h2>
+# Linguagens
   
 <table>
   <tr align="center">
