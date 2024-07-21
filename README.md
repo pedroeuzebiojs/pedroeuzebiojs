@@ -459,18 +459,39 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 # Linguagens
   
 <table>
-  <tr align="center">
-   <th>Espanhol</th>
-   <td>Intermediário</th>
- </tr>
- <tr align="center">
-   <th>Inglês</th>
-   <td>Intermediário</td>
- </tr>
- <tr align="center">
-   <th>Português</th>
-   <td>Nativo</td>
- </tr>
+  <tr>
+    <td>
+      <a href="https://www.gov.br/pt-br" target="_blank">
+        <img src="https://i.imgur.com/9AFUX3W.png" alt="Bandeira do Brasil" width="50px">
+      </a>
+    </td>
+    <td>
+      Português <br>
+      Nativo
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://br.usembassy.gov/pt" target="_blank">
+        <img src="https://i.imgur.com/eL0xsib.jpg" alt="Bandeira dos Estados Unidos (EUA)" width="50px">
+      </a>
+    </td>
+    <td>
+      Inglês <br>
+      B1
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.spain.info/pt_BR" target="_blank">
+        <img src="https://i.imgur.com/JHtrfYR.png" alt="bandeira da Espanha" width="50px">
+      </a>
+    </td>
+    <td>
+      Espanhol <br>
+      B1
+    </td>
+  </tr>
 </table>
 
 <h2>
