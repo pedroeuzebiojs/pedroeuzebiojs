@@ -53,7 +53,7 @@
       </a>
     </td>
     <td>
-      Universidade Estácio de Sá (UNESA) <br>
+      <strong>Universidade Estácio de Sá (UNESA)</strong> <br>
       Tecnólogo em Sistemas para Internet <br>
       jan de 2024 - jun de 2026
     </td>
@@ -65,7 +65,7 @@
       </a>
     </td>
     <td>
-      Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) <br>
+      <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br>
       Técnico em Informática para Internet <br>
       jan de 2024 - jun de 2025
     </td>
@@ -77,7 +77,7 @@
       </a>
     </td>
     <td>
-      Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda <br>
+      <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br>
       Técnico em Informática <br>
       jan de 2021 - dez de 2023
     </td>
