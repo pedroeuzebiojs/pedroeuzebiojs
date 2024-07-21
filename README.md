@@ -437,7 +437,7 @@
   </tr>
   <tr>
     <td align="center">
-      Pedro Euzebio Links
+      <strong>Pedro Euzebio Links</strong>
     </td>
   </tr>
   <tr>
