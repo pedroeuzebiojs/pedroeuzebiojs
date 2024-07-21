@@ -454,7 +454,7 @@
   </tr>
 </table>
 
-# Linguagens
+# Idiomas
   
 <table>
   <tr>
