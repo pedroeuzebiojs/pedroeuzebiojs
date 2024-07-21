@@ -495,53 +495,11 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
 </table>
 
 # Contato
-  
-<table>
-  <tr align="center">
-    <td width="150px">
-      <a href="https://instagram.com/pedroeuzebiooo">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="Logo do Instagram" />
-        <br>
-        Instagram
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://github.com/pedroeuzebiooo">
-        <img src="https://skillicons.dev/icons?i=github" alt="Logo do GitHub" />
-        <br>
-        GitHub
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://linkedin.com/in/pedroeuzebio">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="Logo do LinkedIn" />
-        <br>
-        LinkedIn
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://www.tiktok.com/@pedroeuzebiooo">
-        <img src="https://i.imgur.com/O722PWD.png" alt="Logo do TikTok" width="50" />
-        <br>
-        TikTok
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://x.com/pedroeuzebiooo">
-        <img src="https://i.imgur.com/9OoZ7SY.png" alt="Logo do X" width="50" />
-        <br>
-        X
-      </a>
-    </td>
-    <td width="150px">
-      <a href="https://youtube.com/@pedroeuzebiooo">
-        <img src="https://i.imgur.com/fAMQdYt.jpg" alt="Logo do Youtube" width="50" />
-        <br>
-        YouTube
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=f8fafc&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebio-020817?style=flat-square&logo=Github&logoColor=f8fafc&link=https://github.com/pedroeuzebiooo)](https://github.com/pedroeuzebiooo)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=f8fafc&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
+[![YouTube Badge](https://img.shields.io/badge/-youtube.com&frasl;@pedroeuzebiooo-020817?style=flat-square&logo=YouTube&logoColor=f8fafc&link=[https://www.linkedin.com/in/pedroeuzebio](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiooo)
 
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
