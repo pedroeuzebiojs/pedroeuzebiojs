@@ -2,18 +2,14 @@
   <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
 </a>
 
-# Sobre
-
 <a href="https://pedroeuzebio-links.vercel.app">
   <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="300px" align="right" />
 </a>
 
+# Sobre
+
 <p align="justify">
-  Pedro Euzebio é um profissional dinâmico e inovador no campo da tecnologia da informação, com uma formação sólida e diversas conquistas acadêmicas e práticas. Ele possui experiência em desenvolvimento Full Stack e suporte técnico, adquirida em estágios no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) e na Secretaria de Desenvolvimento Econômico e Social. Pedro é certificado em AWS Academy Cloud Foundations, AWS Cloud Practitioner Essentials e participou de eventos renomados como IA para Devs, NLW Unite e NLW Journey, onde aprofundou suas habilidades em React, Node.js e Full Stack.
-
-Seu projeto pessoal, Pedro Euzebio Links, demonstra sua capacidade de criar soluções web responsivas e personalizáveis, evidenciando proficiência em HTML, CSS e JavaScript. Além disso, ele possui conhecimento intermediário de Inglês e Espanhol, o que amplia sua capacidade de colaborar em projetos internacionais e acessar conteúdos especializados.
-
-Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, destacando seu compromisso com a educação contínua. Seu objetivo profissional é compartilhar seus conhecimentos através de metodologias práticas, inspirando e gerando esperança para as pessoas, e deixando um legado significativo em suas vidas. Com uma abordagem focada na inovação e no impacto positivo, Pedro está preparado para transformar desafios tecnológicos em oportunidades de crescimento e desenvolvimento.
+  Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência prática em React e Node.js. Competente na construção de aplicações web robustas e responsivas, com um forte compromisso com a qualidade do código e melhores práticas. Objetivo de compartilhar conhecimentos, inspirar e deixar um legado positivo através de metodologias práticas.
 </p>
 
 # Experiência
