@@ -428,14 +428,6 @@
 # Projetos
 
 <table>
-  <tr width="500">
-    <th>Pedro Euzebio Links</th>
-  </tr>
-  <tr>
-    <td align="justify" width="500">
-      Pedro Euzebio Links é um projeto pessoal inovador desenvolvido por ele, que funciona como um agregador de links responsivo e personalizável, ideal para ser utilizado como cartão de visitas nas redes sociais. Utilizando HTML, CSS e JavaScript, ele criou uma plataforma que permite aos usuários centralizar todos os seus links importantes em um único lugar, facilitando o acesso e compartilhamento de informações.
-    </td>
-  </tr>
   <tr>
     <td width="500">
       <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
@@ -444,7 +436,17 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="500">
+    <td align="center">
+      Pedro Euzebio Links
+    </td>
+  </tr>
+  <tr>
+    <td align="justify">
+      Desenvolveu um agregador de links responsivo com troca de tema, utilizado como cartão de visitas digital.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
         Exibir projeto
       </a>
