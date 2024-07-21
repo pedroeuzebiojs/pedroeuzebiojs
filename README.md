@@ -489,7 +489,7 @@
 # Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=f8fafc&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebio-020817?style=flat-square&logo=Github&logoColor=f8fafc&link=https://github.com/pedroeuzebiooo)](https://github.com/pedroeuzebiooo)
+[![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiooo-020817?style=flat-square&logo=Github&logoColor=f8fafc&link=https://github.com/pedroeuzebiooo)](https://github.com/pedroeuzebiooo)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=f8fafc&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
 [![YouTube Badge](https://img.shields.io/badge/-youtube.com&frasl;@pedroeuzebiooo-020817?style=flat-square&logo=YouTube&logoColor=f8fafc&link=[https://www.linkedin.com/in/pedroeuzebio](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiooo)
 
