@@ -47,7 +47,7 @@ Pedro é atualmente estudante de Técnico em Informática para Internet no IFCE 
   </tr>
 </table>
 
-# Formação Acadêmica
+# Educação
 
 <table>
   <tr>
