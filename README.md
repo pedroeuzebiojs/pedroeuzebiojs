@@ -12,7 +12,7 @@
   Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência prática em React e Node.js. Competente na construção de aplicações web robustas e responsivas, com um forte compromisso com a qualidade do código e melhores práticas. Objetivo de compartilhar conhecimentos, inspirar e deixar um legado positivo através de metodologias práticas.
 </p>
 
-# Experiência
+# Experiência Profissional
 
 <table>
   <tr>
