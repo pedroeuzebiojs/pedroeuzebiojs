@@ -1,4 +1,4 @@
-<a href="https://pedroeuzebio-links.vercel.app">
+<a href="https://pedroeuzebio.notion.site/Pedro-Euzebio-36c2573eaccb448bb75a990923e28c67">
   <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
 </a>
 
