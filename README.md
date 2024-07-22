@@ -274,7 +274,7 @@
   </tr>
 </table>
 
-# Certificados
+# Certificações
 
 <table>
   <tr>
