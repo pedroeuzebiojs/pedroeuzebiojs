@@ -279,6 +279,19 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.rocketseat.com.br" target="_blank">
+        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
+      </a>
+    </td>
+    <td>
+      <strong>Discover</strong> <br>
+      Rockeseat <br>
+      Verificação emitida em mai de 2024 <br>
+      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="">Exibir credencial</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://aws.amazon.com/pt" target="_blank">
         <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
