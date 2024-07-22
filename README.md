@@ -435,7 +435,7 @@
     </td>
     <td>
       Inglês <br>
-      B1
+      Básico a Intermediário
     </td>
   </tr>
   <tr>
@@ -444,7 +444,7 @@
     </td>
     <td>
       Espanhol <br>
-      B1
+      Básico a Intermediário
     </td>
   </tr>
 </table>
