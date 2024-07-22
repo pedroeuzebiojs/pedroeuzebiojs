@@ -279,93 +279,15 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
+      <a href="https://aws.amazon.com/pt" target="_blank">
+        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Journey trilha Full Stack</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>NLW Journey trilha de Node.js</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>NLW Journey trilha de React</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>Discover</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em mai de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>NLW Unite trilha de Node.js</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em abr de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>NLW Unite trilha de React</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em abr de 2024 <br>
-      <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d" target="">Exibir credencial</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.rocketseat.com.br" target="_blank">
-        <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>IA para Devs</strong> <br>
-      Rockeseat <br>
-      Verificação emitida em ago de 2023 <br>
-      <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2" target="">Exibir credencial</a>
+    <td width="800">
+      <strong>AWS Cloud Practitioner Essentials</strong> <br>
+      Amazon Web Services (AWS) <br>
+      jun de 2024 <br>
+      •  Conteúdo: Introdução à AWS, Computação na Nuvem, Infraestrutura Global, Redes, Armazenamento e Bancos de Dados, Segurança, Monitoramento e Análise, Definição de Preços e Suporte, Migração e Inovação, Jornada para a Nuvem, Noções Básicas do AWS Certified Cloud Practitioner.
     </td>
   </tr>
   <tr>
@@ -378,7 +300,7 @@
       <strong>AWS Academy Cloud Foundations</strong> <br>
       Amazon Web Services (AWS) <br>
       Verificação emitida em jun de 2023 <br>
-      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print" target="">Exibir credencial</a>
+      •  Habilidades: AWS Architecture, AWS Cloud, AWS Core Services, AWS Pricing, AWS Support
     </td>
   </tr>
 </table>
@@ -386,18 +308,6 @@
 # Cursos
 
 <table>
-  <tr>
-    <td>
-      <a href="https://aws.amazon.com/pt" target="_blank">
-        <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
-      </a>
-    </td>
-    <td>
-      <strong>AWS Cloud Practitioner Essentials</strong> <br>
-      Amazon Web Services (AWS) <br>
-      jun de 2024
-    </td>
-  </tr>
    <tr>
     <td>
       <a href="https://aws.amazon.com/pt" target="_blank">
