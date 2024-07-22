@@ -431,7 +431,7 @@
   <tr>
     <td width="500">
       <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
-        <img src="https://i.imgur.com/ET26cTJ.png" alt="Preview do projeto Pedro Euzebio Links" />
+        <img src="https://i.imgur.com/fiJBQHG.png" alt="Preview do projeto Pedro Euzebio Links" />
       </a>
     </td>
   </tr>
