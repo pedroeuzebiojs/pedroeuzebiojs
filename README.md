@@ -305,7 +305,7 @@
   </tr>
 </table>
 
-# Eventos e Participações
+## Eventos e Participações
 
 <table>
   <tr>
