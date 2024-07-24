@@ -449,7 +449,7 @@
   </tr>
 </table>
 
-# Contato
+## Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=f8fafc&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiooo-020817?style=flat-square&logo=Github&logoColor=f8fafc&link=https://github.com/pedroeuzebiooo)](https://github.com/pedroeuzebiooo)
