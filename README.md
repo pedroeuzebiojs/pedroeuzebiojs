@@ -84,7 +84,7 @@
   </tr>
 </table>
 
-# Habilidades Técnicas
+## Habilidades Técnicas
 
 <table>
   <tr align="center">
