@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-# Formação Acadêmica
+## Formação Acadêmica
 
 <table>
   <tr>
