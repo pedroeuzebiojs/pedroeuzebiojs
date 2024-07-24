@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="300px" align="right" />
 </a>
 
-# Sobre
+## Sobre
 
 <p align="justify">
   Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência prática em React e Node.js. Competente na construção de aplicações web robustas e responsivas, com um forte compromisso com a qualidade do código e melhores práticas. Objetivo de compartilhar conhecimentos, inspirar e deixar um legado positivo através de metodologias práticas.
