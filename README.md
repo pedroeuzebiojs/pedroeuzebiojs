@@ -417,7 +417,7 @@
   </tr>
 </table>
 
-# Idiomas
+## Idiomas
   
 <table>
   <tr>
