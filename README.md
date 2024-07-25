@@ -305,6 +305,23 @@
   </tr>
 </table>
 
+## Cursos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://leadfortaleza.com.br/portal" target="_blank">
+        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50px">
+      </a>
+    </td>
+    <td>
+      <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
+      Dell Lead <br>
+      Número de validação 4050 <br>
+    </td>
+  </tr>
+</table>
+
 ## Eventos e Participações
 
 <table>
