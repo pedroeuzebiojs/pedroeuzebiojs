@@ -22,7 +22,7 @@
       </a>
     </td>
     <td>
-      <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
+      <strong>Suporte Técnico de Tecnologia da Informação</strong> <br>
       Secretária do Desenvolvimento Econômico e Social · Estágio <br>
       nov de 2023 - dez de 2023 · 2 meses <br>
       Baturité, Ceará, Brasil · Presencial
