@@ -9,7 +9,7 @@
 ## Sobre
 
 <p align="justify">
-  Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com experiência prática em React e Node.js. Competente na construção de aplicações web robustas e responsivas, com um forte compromisso com a qualidade do código e melhores práticas. Objetivo de compartilhar conhecimentos, inspirar e deixar um legado positivo através de metodologias práticas.
+  Pedro Euzebio é um profissional dinâmico e inovador no campo da tecnologia da informação, com uma sólida formação e diversas conquistas acadêmicas e práticas. Com experiência em desenvolvimento Full Stack e suporte técnico, Pedro se destaca pelo domínio de tecnologias como React, Node.js, HTML, CSS e JavaScript. Ele possui certificações relevantes, incluindo AWS Academy Cloud Foundations, e participou de eventos renomados como IA para Devs, NLW Unite e NLW Journey, aprofundando suas habilidades em React, Node.js e desenvolvimento Full Stack. Atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, Pedro busca continuamente aprimorar seus conhecimentos. Seu objetivo é conseguir sua primeira vaga como Desenvolvedor Full Stack React e Node.js, resolvendo problemas através das linhas de código e transformando desafios tecnológicos em oportunidades de crescimento e desenvolvimento.
 </p>
 
 ## Experiência Profissional
