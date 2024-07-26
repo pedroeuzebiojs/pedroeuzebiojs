@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/pedroeuzebiooo">
-  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="250px" align="right" />
+  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="300px" align="right" />
 </a>
 
 ## Sobre
