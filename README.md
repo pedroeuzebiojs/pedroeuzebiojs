@@ -51,36 +51,36 @@
 
 <table>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://estacio.br" target="_blank">
         <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50px">
       </a>
     </td>
-    <td>
+    <td width="700">
       <strong>Universidade Estácio de Sá (UNESA)</strong> <br>
       Tecnólogo em Sistemas para Internet <br>
       jan de 2024 - jun de 2026
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://ifce.edu.br" target="_blank">
         <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
       </a>
     </td>
-    <td>
+    <td width="700">
       <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br>
       Técnico em Informática para Internet <br>
       jan de 2024 - jun de 2025
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.eeepdebaturite.com" target="_blank">
         <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50px">
       </a>
     </td>
-    <td>
+    <td width="700">
       <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br>
       Técnico em Informática <br>
       jan de 2021 - dez de 2023
