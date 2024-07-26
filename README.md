@@ -422,7 +422,7 @@
   </tr>
   <tr>
     <td align="justify">
-      Desenvolveu um agregador de links responsivo com troca de tema, utilizado como cartão de visitas digital.
+      Desenvolveu um agregador de links responsivo e com troca de tema, atuando como cartão de visitas para redes sociais. Utilizou tecnologias como HTML, CSS e JavaScript, destacando-se pela criação de uma interface intuitiva e personalizável, com foco na experiência do usuário e na compatibilidade móvel.
     </td>
   </tr>
   <tr>
