@@ -442,30 +442,27 @@
   
 <table>
   <tr>
-    <td>
+    <td width="100" align="center">
       <img src="https://i.imgur.com/9AFUX3W.png" alt="Bandeira do Brasil" width="50px">
     </td>
-    <td>
-      <strong>Português</strong> <br>
-      Nativo
+    <td width="500">
+      Português - Nativo
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <img src="https://i.imgur.com/eL0xsib.jpg" alt="Bandeira dos Estados Unidos (EUA)" width="50px">
     </td>
-    <td>
-      <strong>Inglês</strong> <br>
-      Básico a Intermediário
+    <td width="500">
+      Inglês - Básico a Intermediário
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <img src="https://i.imgur.com/JHtrfYR.png" alt="bandeira da Espanha" width="50px">
     </td>
-    <td>
-      <strong>Espanhol</strong> <br>
-      Básico a Intermediário
+    <td width="500">
+      Espanhol - Básico a Intermediário
     </td>
   </tr>
 </table>
