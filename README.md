@@ -330,80 +330,80 @@
 
 <table>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Journey trilha Full Stack</strong> <br>
+    <td width="500">
+      <strong>NLW Journey - Fullstack</strong> <br>
       Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
+      08/07/2024 a 14/07/2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/51f6916b-0923-4c85-a259-264d3c10410f" target="">Exibir credencial</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Journey trilha de Node.js</strong> <br>
+    <td width="500">
+      <strong>NLW Journey - Nodejs</strong> <br>
       Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
+      08/07/2024 a 14/07/2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/3cba5c1f-6bc0-4a84-a769-f6135467befd" target="">Exibir credencial</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Journey trilha de React</strong> <br>
+    <td width="500">
+      <strong>NLW Journey - Reactjs</strong> <br>
       Rockeseat <br>
-      Verificação emitida em jul de 2024 <br>
+      08/07/2024 a 14/07/2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/a3eba54f-d90f-48e5-8a59-f193773d2907" target="">Exibir credencial</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Unite trilha de Node.js</strong> <br>
+    <td width="500">
+      <strong>NLW Unite - Nodejs</strong> <br>
       Rockeseat <br>
-      Verificação emitida em abr de 2024 <br>
+      01/04/2024 a 07/04/2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/1084043e-6382-40e6-9947-88b551465b2c" target="">Exibir credencial</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
-      <strong>NLW Unite trilha de React</strong> <br>
+    <td width="500">
+      <strong>NLW Unite - Reactjs</strong> <br>
       Rockeseat <br>
-      Verificação emitida em abr de 2024 <br>
+      01/04/2024 a 07/04/2024 <br>
       <a href="https://app.rocketseat.com.br/certificates/1b92035d-8c51-4b4c-863f-f4c1f795251d" target="">Exibir credencial</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://www.rocketseat.com.br" target="_blank">
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td>
+    <td width="500">
       <strong>IA para Devs</strong> <br>
       Rockeseat <br>
-      Verificação emitida em ago de 2023 <br>
+      14 a 16 de ago de 2023 <br>
       <a href="https://app.rocketseat.com.br/certificates/f66f5f1f-22ad-4914-ba0b-3dc6a91e77c2" target="">Exibir credencial</a>
     </td>
   </tr>
