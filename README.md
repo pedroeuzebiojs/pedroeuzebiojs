@@ -20,12 +20,12 @@
 
 <table>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://baturite.ce.gov.br/secretaria.php?sec=6" target="_blank">
         <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária do Desenvolvimento Econômico e Social" width="50px">
       </a>
     </td>
-    <td>
+    <td width="700">
       <strong>Suporte Técnico de Tecnologia da Informação</strong> <br>
       Secretária do Desenvolvimento Econômico e Social · Estágio <br>
       nov de 2023 - dez de 2023 · 2 meses <br>
@@ -33,12 +33,12 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="100" align="center">
       <a href="https://ifce.edu.br" target="_blank">
         <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
       </a>
     </td>
-    <td>
+    <td width="700">
       <strong>Desenvolvedor Full Stack</strong> <br>
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
       ago de 2023 - nov de 2023 · 4 meses <br>
