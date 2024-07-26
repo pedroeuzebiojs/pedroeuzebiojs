@@ -413,7 +413,7 @@
 
 <table>
   <tr>
-    <td width="500">
+    <td width="700">
       <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
         <img src="https://i.imgur.com/fiJBQHG.png" alt="Preview do projeto Pedro Euzebio Links" />
       </a>
