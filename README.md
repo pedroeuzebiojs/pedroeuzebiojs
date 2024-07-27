@@ -410,7 +410,7 @@
   </tr>
 </table>
 
-## Projetos
+## Projetos Pessoais
 
 <table>
   <tr>
