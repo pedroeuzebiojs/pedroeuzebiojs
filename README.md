@@ -92,35 +92,35 @@
 
 <table>
   <tr align="center">
-    <td width="150">
+    <td width="160">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
       </a>
       <br>
       HTML
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
         <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
       </a>
       <br>
       CSS
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" />
         <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
       </a>
       <br>
       JavaScript
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.typescriptlang.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
       </a>
       <br>
       TypeScript
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://react.dev" target="_blank">
         <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
       </a>
@@ -129,35 +129,35 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="150">
+    <td width="160">
       <a href="https://vitejs.dev" target="_blank">
         <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite.js" />
       </a>
       <br>
       Vite.js
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://nextjs.org">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Logo do Next.js" />
       </a>
       <br>
       Next.js
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://tailwindcss.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
       </a>
       <br>
       Tailwind CSS
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://styled-components.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Logo do Styled Components" />
       </a>
       <br>
       CSS-in-JS
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://sass-lang.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=sass" alt="Logo do SASS" />
       </a>
@@ -166,35 +166,35 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="150">
+    <td width="160">
       <a href="https://nodejs.org/en" target="_blank">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Logo do Node.js" />
       </a>
       <br>
       Node.js
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://fastify.dev" target="_blank">
         <img src="https://i.imgur.com/E3a9JTA.png" alt="Logo do Fastify" width="50" />
       </a>
       <br>
       Fastify
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.prisma.io" target="_blank">
         <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
       </a>
       <br>
       Prisma
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.docker.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
       </a>
       <br>
       Docker
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://nestjs.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=nestjs" alt="Logo do Nest.js" />
       </a>
@@ -203,35 +203,35 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="150">
+    <td width="160">
       <a href="https://knexjs.org" target="_blank">
         <img src="https://i.imgur.com/6Mynf7J.png" alt="Logo do Knex.js" width="50" />
       </a>
        <br>
       Knex.js
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://vitest.dev/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
       </a>
       <br>
       Vitest
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://swc.rs" target="_blank">
         <img src="https://i.imgur.com/UrDuGfj.png" alt="Logo do SWC" width="50" />
       </a>
       <br>
       SWC
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.mysql.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=mysql" alt="Logo do MySQL" />
       </a>
       <br>
       MySQL
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.postgresql.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
       </a>
@@ -240,35 +240,35 @@
     </td>
   </tr>
   <tr align="center">
-    <td width="150">
+    <td width="160">
       <a href="https://www.mongodb.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="Logo do MongoDB" />
       </a>
       <br>
       MongoDB
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://git-scm.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
       </a>
       <br>
       Git
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
       </a>
       <br>
       VS Code
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.postman.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=postman" alt="Logo do Postman" />
       </a>
       <br>
       Postman
     </td>
-    <td width="150">
+    <td width="160">
       <a href="https://www.figma.com/pt-br" target="_blank">
         <img src="https://skillicons.dev/icons?i=figma" alt="Logo do Figma" />
       </a>
