@@ -321,6 +321,7 @@
     <td width="500">
       <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
       Dell Lead <br>
+      Verificação emitida em abr de 2023 <br>
       Número de validação 4050 <br>
     </td>
   </tr>
