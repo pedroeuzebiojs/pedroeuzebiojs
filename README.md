@@ -287,7 +287,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>Discover</strong> <br>
       Rockeseat <br>
       Verificação emitida em mai de 2024 <br>
@@ -300,7 +300,7 @@
         <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br>
       Amazon Web Services (AWS) <br>
       Verificação emitida em jun de 2023 <br>
@@ -318,7 +318,7 @@
         <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
       Dell Lead <br>
       Verificação emitida em abr de 2023 <br>
@@ -336,7 +336,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>NLW Journey - Fullstack</strong> <br>
       Rockeseat <br>
       08/07/2024 a 14/07/2024 <br>
@@ -349,7 +349,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>NLW Journey - Nodejs</strong> <br>
       Rockeseat <br>
       08/07/2024 a 14/07/2024 <br>
@@ -362,7 +362,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>NLW Journey - Reactjs</strong> <br>
       Rockeseat <br>
       08/07/2024 a 14/07/2024 <br>
@@ -375,7 +375,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>NLW Unite - Nodejs</strong> <br>
       Rockeseat <br>
       01/04/2024 a 07/04/2024 <br>
@@ -388,7 +388,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>NLW Unite - Reactjs</strong> <br>
       Rockeseat <br>
       01/04/2024 a 07/04/2024 <br>
@@ -401,7 +401,7 @@
         <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50px">
       </a>
     </td>
-    <td width="500">
+    <td width="700">
       <strong>IA para Devs</strong> <br>
       Rockeseat <br>
       14 a 16 de ago de 2023 <br>
