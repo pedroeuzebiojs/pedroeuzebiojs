@@ -175,7 +175,7 @@
     </td>
     <td width="160">
       <a href="https://fastify.dev" target="_blank">
-        <img src="https://i.imgur.com/E3a9JTA.png" alt="Logo do Fastify" width="50" />
+        <img src="https://i.imgur.com/Abj3KJe.jpg" alt="Logo do Fastify" width="50" />
       </a>
       <br>
       Fastify
@@ -205,7 +205,7 @@
   <tr align="center">
     <td width="160">
       <a href="https://knexjs.org" target="_blank">
-        <img src="https://i.imgur.com/6Mynf7J.png" alt="Logo do Knex.js" width="50" />
+        <img src="https://i.imgur.com/fqQ861T.png" alt="Logo do Knex.js" width="50" />
       </a>
        <br>
       Knex.js
@@ -219,7 +219,7 @@
     </td>
     <td width="160">
       <a href="https://swc.rs" target="_blank">
-        <img src="https://i.imgur.com/UrDuGfj.png" alt="Logo do SWC" width="50" />
+        <img src="https://i.imgur.com/x0yrYxm.png" alt="Logo do SWC" width="50" />
       </a>
       <br>
       SWC
