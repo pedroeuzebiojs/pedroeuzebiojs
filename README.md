@@ -2,20 +2,6 @@
   <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
 </a>
 
-<a href="https://github.com/pedroeuzebiooo">
-  <img src="https://i.imgur.com/IaVEnZT.png" alt="Foto do Pedro Euzebio sorrindo de braços cruzados usando uma camisa social azul claro com o fundo o mar aberto." width="300px" align="right" />
-</a>
-
-## Sobre
-
-<p align="justify">
-  Pedro Euzebio é um profissional dinâmico e inovador no campo da tecnologia da informação, com uma sólida formação e diversas conquistas acadêmicas e práticas. Com experiência em desenvolvimento Full Stack e suporte técnico, Pedro se destaca pelo domínio de tecnologias como React, Node.js, HTML, CSS e JavaScript. 
-  
-  Ele possui certificações relevantes, incluindo AWS Academy Graduate - AWS Academy Cloud Foundations, e participou de eventos renomados como IA para Devs, NLW Unite e NLW Journey, aprofundando suas habilidades em React, Node.js e desenvolvimento Full Stack. 
-  
-  Atualmente cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, Pedro busca continuamente aprimorar seus conhecimentos. Seu objetivo é conseguir sua primeira vaga como Desenvolvedor Full Stack React e Node.js, resolvendo problemas através das linhas de código e transformando desafios tecnológicos em oportunidades de crescimento e desenvolvimento.
-</p>
-
 ## Experiência Profissional
 
 <table>
