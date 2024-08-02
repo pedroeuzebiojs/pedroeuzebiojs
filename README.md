@@ -29,10 +29,22 @@ Baturité, Ceará, Brasil · Presencial
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
+- Cursando Tecnólogo em Sistemas para Internet, com ênfase em desenvolvimento e gestão de aplicações web.
+- Estudo aprofundado de linguagens de programação, incluindo JavaScript, PHP e frameworks modernos.
+- Desenvolvimento de projetos web inovadores, desde a concepção até a implementação e manutenção.
+- Participação em estágios e projetos práticos, aplicando conhecimentos em ambientes reais.
+- Fortalecimento de habilidades em UX/UI design, segurança da informação e otimização de performance.
+- Colaboração com equipes multidisciplinares, promovendo a inovação e o trabalho em equipe.
 
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
+- Cursando Técnico em Informática para Internet, focando em desenvolvimento web e tecnologias emergentes.
+- Aprofundamento em linguagens de programação como JavaScript, PHP e frameworks modernos.
+- Desenvolvimento de projetos web completos, desde o design até a implementação e manutenção.
+- Participação em laboratórios práticos e workshops, aplicando teoria em ambientes simulados.
+- Aprimoramento de habilidades em segurança da informação e otimização de desempenho de websites.
+- Colaboração em projetos interdisciplinares, fortalecendo trabalho em equipe e inovação tecnológica.
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
