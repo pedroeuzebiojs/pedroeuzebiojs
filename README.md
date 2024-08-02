@@ -215,7 +215,7 @@ Dell Lead <br>
 Verificação emitida em Abril de 2023 <br>
 Número de validação 4050
 
-## Projetos Pessoais
+## Projetos
 
 <table>
   <tr>
