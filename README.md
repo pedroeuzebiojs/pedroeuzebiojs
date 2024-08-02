@@ -29,31 +29,26 @@ Baturité, Ceará, Brasil · Presencial
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
-- Cursando Tecnólogo em Sistemas para Internet, com ênfase em desenvolvimento e gestão de aplicações web.
-- Estudo aprofundado de linguagens de programação, incluindo JavaScript, PHP e frameworks modernos.
-- Desenvolvimento de projetos web inovadores, desde a concepção até a implementação e manutenção.
-- Participação em estágios e projetos práticos, aplicando conhecimentos em ambientes reais.
-- Fortalecimento de habilidades em UX/UI design, segurança da informação e otimização de performance.
-- Colaboração com equipes multidisciplinares, promovendo a inovação e o trabalho em equipe.
+- Atualmente cursando Tecnólogo em Sistemas para Internet, com foco em desenvolvimento de sistemas e aplicações web.
+- Estudo aprofundado de linguagens de programação como JavaScript, PHP e Python.
+- Desenvolvimento de projetos práticos, incluindo sites, sistemas de gestão e e-commerce.
+- Ênfase em segurança da informação, banco de dados e arquitetura de software.
 
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
-- Cursando Técnico em Informática para Internet, focando em desenvolvimento web e tecnologias emergentes.
-- Aprofundamento em linguagens de programação como JavaScript, PHP e frameworks modernos.
-- Desenvolvimento de projetos web completos, desde o design até a implementação e manutenção.
-- Participação em laboratórios práticos e workshops, aplicando teoria em ambientes simulados.
-- Aprimoramento de habilidades em segurança da informação e otimização de desempenho de websites.
-- Colaboração em projetos interdisciplinares, fortalecendo trabalho em equipe e inovação tecnológica.
+- Atualmente cursando Técnico em Informática para Internet, focando em desenvolvimento web e aplicações para a internet.
+- Aprofundamento em tecnologias como HTML, CSS, JavaScript, e frameworks modernos.
+- Participação em projetos colaborativos que simulam ambientes profissionais.
+- Aprimoramento de habilidades em design responsivo, UX/UI e segurança web.
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
 Janeiro de 2021 - Dezembro de 2023
-- Concluí o curso Técnico em Informática, adquirindo uma sólida base em programação, redes e manutenção de computadores.
-- Desenvolvi projetos práticos, aplicando conhecimentos em linguagens como Java, Python e HTML/CSS.
-- Participei de atividades extracurriculares, incluindo competições de programação e feiras de tecnologia.
-- Realizei estágios supervisionados, onde coloquei em prática habilidades técnicas em ambientes reais.
-- Fortaleci competências em resolução de problemas, trabalho em equipe e comunicação eficaz.
+- Concluí o curso de Técnico em Informática, adquirindo conhecimentos sólidos em programação, redes e manutenção de sistemas.
+- Desenvolvi projetos práticos que reforçaram habilidades em linguagens de programação como Java e Python.
+- Realizei estágios supervisionados, aplicando teorias aprendidas em situações reais.
+- Aprimorei habilidades em solução de problemas e trabalho em equipe.
 
 ## Habilidades Técnicas
 
