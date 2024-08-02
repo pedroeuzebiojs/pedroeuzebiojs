@@ -2,21 +2,16 @@
 
 ## Experiência Profissional
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://baturite.ce.gov.br/secretaria.php?sec=6" target="_blank">
-        <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária do Desenvolvimento Econômico e Social" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Técnico de Tecnologia da Informação</strong> <br>
-      Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-      Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
-      Baturité, Ceará, Brasil · Presencial
-    </td>
-  </tr>
-</table>
+**Técnico de Tecnologia da Informação** <br>
+Secretária do Desenvolvimento Econômico e Social · Estágio <br>
+Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
+Baturité, Ceará, Brasil · Presencial
+- Gerenciei a infraestrutura de TI, assegurando a disponibilidade e segurança dos sistemas críticos.
+- Otimizei processos de suporte técnico, reduzindo o tempo de resposta em 40%.
+- Implantei atualizações e melhorias em sistemas de rede, aumentando a eficiência operacional.
+- Forneci suporte técnico especializado para resolução de problemas complexos, garantindo a continuidade das operações.
+- Desenvolvi e implementei políticas de segurança de TI, protegendo dados sensíveis.
+- Aprimorei habilidades em gestão de servidores, redes e suporte ao usuário final.
 
 <hr>
 
