@@ -1,6 +1,4 @@
-<a href="https://github.com/pedroeuzebiooo">
-  <img src="https://i.imgur.com/189XfqX.png" alt="Imagem de fundo do LinkedIn" />
-</a>
+![Banner de apresentação do perfil do Pedro Euzebio](https://i.imgur.com/bWhv2m6.png)
 
 ## Experiência Profissional
 
