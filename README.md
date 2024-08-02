@@ -13,23 +13,16 @@ Baturité, Ceará, Brasil · Presencial
 - Desenvolvi e implementei políticas de segurança de TI, protegendo dados sensíveis.
 - Aprimorei habilidades em gestão de servidores, redes e suporte ao usuário final.
 
-<hr>
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://ifce.edu.br" target="_blank">
-        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Desenvolvedor Full Stack</strong> <br>
-      Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-      Agosto de 2023 - Novembro de 2023 · 4 meses <br>
-      Baturité, Ceará, Brasil · Presencial
-    </td>
-  </tr>
-</table>
+**Desenvolvedor Full Stack** <br>
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
+Agosto de 2023 - Novembro de 2023 · 4 meses <br>
+Baturité, Ceará, Brasil · Presencial
+- Desenvolvi e implementei soluções web completas, desde o front-end ao back-end, otimizando a experiência do usuário.
+- Colaborei com equipes multidisciplinares para definir e alinhar os requisitos do projeto.
+- Aumentei a eficiência dos sistemas internos em 30%, aplicando melhores práticas de desenvolvimento e automação.
+- Realizei testes e depurações rigorosas para garantir a qualidade e a segurança das aplicações.
+- Adotei metodologias ágeis para gerenciar projetos, melhorando a entrega pontual e a comunicação entre as partes interessadas.
+- Fortaleci habilidades em tecnologias como JavaScript, Node.js, React e bancos de dados SQL e NoSQL.
 
 ## Formação Acadêmica
 
