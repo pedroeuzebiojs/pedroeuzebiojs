@@ -26,54 +26,22 @@ Baturité, Ceará, Brasil · Presencial
 
 ## Formação Acadêmica
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://estacio.br" target="_blank">
-        <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Universidade Estácio de Sá (UNESA)</strong> <br>
-      Tecnólogo em Sistemas para Internet <br>
-      Janeiro de 2024 - Junho de 2026
-    </td>
-  </tr>
-</table>
+**Universidade Estácio de Sá (UNESA)** <br>
+Tecnólogo em Sistemas para Internet <br>
+Janeiro de 2024 - Junho de 2026
 
----
+**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
+Técnico em Informática para Internet <br>
+Janeiro de 2024 - Junho de 2025
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://ifce.edu.br" target="_blank">
-        <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br>
-      Técnico em Informática para Internet <br>
-      Janeiro de 2024 - Junho de 2025
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://www.eeepdebaturite.com" target="_blank">
-        <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br>
-      Técnico em Informática <br>
-      Janeiro de 2021 - Dezembro de 2023
-    </td>
-  </tr>
-</table>
+**Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
+Técnico em Informática <br>
+Janeiro de 2021 - Dezembro de 2023
+- Concluí o curso Técnico em Informática, adquirindo uma sólida base em programação, redes e manutenção de computadores.
+- Desenvolvi projetos práticos, aplicando conhecimentos em linguagens como Java, Python e HTML/CSS.
+- Participei de atividades extracurriculares, incluindo competições de programação e feiras de tecnologia.
+- Realizei estágios supervisionados, onde coloquei em prática habilidades técnicas em ambientes reais.
+- Fortaleci competências em resolução de problemas, trabalho em equipe e comunicação eficaz.
 
 ## Habilidades Técnicas
 
