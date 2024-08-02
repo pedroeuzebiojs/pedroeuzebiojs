@@ -29,26 +29,14 @@ Baturité, Ceará, Brasil · Presencial
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
-- Atualmente cursando Tecnólogo em Sistemas para Internet, com foco em desenvolvimento de sistemas e aplicações web.
-- Estudo aprofundado de linguagens de programação como JavaScript, PHP e Python.
-- Desenvolvimento de projetos práticos, incluindo sites, sistemas de gestão e e-commerce.
-- Ênfase em segurança da informação, banco de dados e arquitetura de software.
 
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
-- Atualmente cursando Técnico em Informática para Internet, focando em desenvolvimento web e aplicações para a internet.
-- Aprofundamento em tecnologias como HTML, CSS, JavaScript, e frameworks modernos.
-- Participação em projetos colaborativos que simulam ambientes profissionais.
-- Aprimoramento de habilidades em design responsivo, UX/UI e segurança web.
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
 Janeiro de 2021 - Dezembro de 2023
-- Concluí o curso de Técnico em Informática, adquirindo conhecimentos sólidos em programação, redes e manutenção de sistemas.
-- Desenvolvi projetos práticos que reforçaram habilidades em linguagens de programação como Java e Python.
-- Realizei estágios supervisionados, aplicando teorias aprendidas em situações reais.
-- Aprimorei habilidades em solução de problemas e trabalho em equipe.
 
 ## Habilidades Técnicas
 
