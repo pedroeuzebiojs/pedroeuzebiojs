@@ -215,30 +215,6 @@ Dell Lead <br>
 Verificação emitida em Abril de 2023 <br>
 Número de validação 4050
 
-## Projetos
-
-<table>
-  <tr>
-    <td width="800">
-      <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
-        <img src="https://i.imgur.com/fiJBQHG.png" alt="Preview do projeto Pedro Euzebio Links" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Pedro Euzebio Links</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://pedroeuzebio-links.vercel.app" target="_blank">
-        Exibir projeto
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Idiomas
   
 - Português - Nativo
