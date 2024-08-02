@@ -252,10 +252,16 @@
     <td width="700">
       <strong>Discover</strong> <br>
       Rockeseat <br>
-      Verificação emitida em mai de 2024 <br>
+      Verificação emitida em Maio de 2024 <br>
+      Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br>
       <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="">Exibir credencial</a>
     </td>
   </tr>
+</table>
+
+---
+
+<table>
   <tr>
     <td width="100" align="center">
       <a href="https://aws.amazon.com/pt" target="_blank">
@@ -265,7 +271,8 @@
     <td width="700">
       <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br>
       Amazon Web Services (AWS) <br>
-      Verificação emitida em jun de 2023 <br>
+      Verificação emitida em Junho de 2023 <br>
+      Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
       <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print" target="">Exibir credencial</a>
     </td>
   </tr>
