@@ -210,21 +210,10 @@ Verificação emitida em Junho de 2023 <br>
 
 ## Cursos
 
-<table>
-  <tr>
-    <td width="100" align="center">
-      <a href="https://leadfortaleza.com.br/portal" target="_blank">
-        <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50px">
-      </a>
-    </td>
-    <td width="700">
-      <strong>Suporte Técnico em Tecnologia da Informação</strong> <br>
-      Dell Lead <br>
-      Verificação emitida em Abril de 2023 <br>
-      Número de validação 4050 <br>
-    </td>
-  </tr>
-</table>
+**Suporte Técnico em Tecnologia da Informação** <br>
+Dell Lead <br>
+Verificação emitida em Abril de 2023 <br>
+Número de validação 4050
 
 ## Projetos Pessoais
 
