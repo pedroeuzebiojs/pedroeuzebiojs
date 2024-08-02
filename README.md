@@ -16,6 +16,11 @@
       Baturité, Ceará, Brasil · Presencial
     </td>
   </tr>
+</table>
+
+<hr>
+
+<table>
   <tr>
     <td width="100" align="center">
       <a href="https://ifce.edu.br" target="_blank">
