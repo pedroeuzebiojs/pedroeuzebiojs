@@ -6,23 +6,11 @@
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
 Baturité, Ceará, Brasil · Presencial
-- Gerenciei a infraestrutura de TI, assegurando a disponibilidade e segurança dos sistemas críticos.
-- Otimizei processos de suporte técnico, reduzindo o tempo de resposta em 40%.
-- Implantei atualizações e melhorias em sistemas de rede, aumentando a eficiência operacional.
-- Forneci suporte técnico especializado para resolução de problemas complexos, garantindo a continuidade das operações.
-- Desenvolvi e implementei políticas de segurança de TI, protegendo dados sensíveis.
-- Aprimorei habilidades em gestão de servidores, redes e suporte ao usuário final.
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
 Agosto de 2023 - Novembro de 2023 · 4 meses <br>
 Baturité, Ceará, Brasil · Presencial
-- Desenvolvi e implementei soluções web completas, desde o front-end ao back-end, otimizando a experiência do usuário.
-- Colaborei com equipes multidisciplinares para definir e alinhar os requisitos do projeto.
-- Aumentei a eficiência dos sistemas internos em 30%, aplicando melhores práticas de desenvolvimento e automação.
-- Realizei testes e depurações rigorosas para garantir a qualidade e a segurança das aplicações.
-- Adotei metodologias ágeis para gerenciar projetos, melhorando a entrega pontual e a comunicação entre as partes interessadas.
-- Fortaleci habilidades em tecnologias como JavaScript, Node.js, React e bancos de dados SQL e NoSQL.
 
 ## Formação Acadêmica
 
