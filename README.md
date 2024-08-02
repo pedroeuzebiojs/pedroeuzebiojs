@@ -48,9 +48,14 @@
     <td width="700">
       <strong>Universidade Estácio de Sá (UNESA)</strong> <br>
       Tecnólogo em Sistemas para Internet <br>
-      jan de 2024 - jun de 2026
+      Janeiro de 2024 - Junho de 2026
     </td>
   </tr>
+</table>
+
+---
+
+<table>
   <tr>
     <td width="100" align="center">
       <a href="https://ifce.edu.br" target="_blank">
@@ -60,9 +65,14 @@
     <td width="700">
       <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br>
       Técnico em Informática para Internet <br>
-      jan de 2024 - jun de 2025
+      Janeiro de 2024 - Junho de 2025
     </td>
   </tr>
+</table>
+
+---
+
+<table>
   <tr>
     <td width="100" align="center">
       <a href="https://www.eeepdebaturite.com" target="_blank">
@@ -72,7 +82,7 @@
     <td width="700">
       <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br>
       Técnico em Informática <br>
-      jan de 2021 - dez de 2023
+      Janeiro de 2021 - Dezembro de 2023
     </td>
   </tr>
 </table>
