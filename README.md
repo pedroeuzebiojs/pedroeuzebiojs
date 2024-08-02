@@ -10,9 +10,9 @@
       </a>
     </td>
     <td width="700">
-      <strong>Suporte Técnico de Tecnologia da Informação</strong> <br>
+      <strong>Técnico de Tecnologia da Informação</strong> <br>
       Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-      nov de 2023 - dez de 2023 · 2 meses <br>
+      Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
       Baturité, Ceará, Brasil · Presencial
     </td>
   </tr>
@@ -25,7 +25,7 @@
     <td width="700">
       <strong>Desenvolvedor Full Stack</strong> <br>
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-      ago de 2023 - nov de 2023 · 4 meses <br>
+      Agosto de 2023 - Novembro de 2023 · 4 meses <br>
       Baturité, Ceará, Brasil · Presencial
     </td>
   </tr>
