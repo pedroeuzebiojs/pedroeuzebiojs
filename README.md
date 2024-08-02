@@ -241,45 +241,9 @@ Número de validação 4050
 
 ## Idiomas
   
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://i.imgur.com/9AFUX3W.png" alt="Bandeira do Brasil" width="50px">
-    </td>
-    <td width="700">
-      Português <br>
-      Nativo
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://i.imgur.com/eL0xsib.jpg" alt="Bandeira dos Estados Unidos (EUA)" width="50px">
-    </td>
-    <td width="700">
-      Inglês <br>
-      Básico a Intermediário
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
-    <td width="100" align="center">
-      <img src="https://i.imgur.com/JHtrfYR.png" alt="bandeira da Espanha" width="50px">
-    </td>
-    <td width="700">
-      Espanhol <br>
-      Básico a Intermediário
-    </td>
-  </tr>
-</table>
+- Português - Nativo
+- Inglês - Básico a Intermediário
+- Espanhol - Básico a Intermediário
 
 ## Contato
 
