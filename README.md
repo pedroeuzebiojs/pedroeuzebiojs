@@ -22,13 +22,25 @@ Baturité, Ceará, Brasil · Presencial
 
 ## Formação Acadêmica
 
+<a href="https://estacio.br">
+  <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="80" align="left" />
+</a>
+
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
 
+<a href="https://ifce.edu.br">
+  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+</a>
+
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
+
+<a href="https://www.eeepdebaturite.com">
+  <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
+</a>
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
