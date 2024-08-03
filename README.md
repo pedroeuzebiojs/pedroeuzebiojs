@@ -199,15 +199,21 @@ Janeiro de 2021 - Dezembro de 2023
 
 ## Certificados
 
+<a href="https://rocketseat.com.br" target="_blank">
+  <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" align="left" />
+</a>
+
 **Discover** <br>
 Rocketseat <br>
-Verificação emitida em Maio de 2024 <br>
-[Exibir credencial](https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b)
+Verificação emitida em Maio de 2024
+
+<a href="https://aws.amazon.com/pt" target="_blank">
+  <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" align="left" />
+</a>
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
 Amazon Web Services (AWS) <br>
-Verificação emitida em Junho de 2023 <br>
-[Exibir credencial](https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print)
+Verificação emitida em Junho de 2023
 
 ## Cursos
 
