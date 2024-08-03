@@ -182,7 +182,7 @@ Janeiro de 2021 - Dezembro de 2023
 ## Certificados
 
 **Discover** <br>
-Rockeseat <br>
+Rocketseat <br>
 Verificação emitida em Maio de 2024 <br>
 [Exibir credencial](https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b)
 
