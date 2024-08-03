@@ -3,47 +3,41 @@
 ## Experiência Profissional
 
 <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
-  <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="80" align="left" />
+  <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="50" align="left" />
 </a>
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
-Baturité, Ceará, Brasil · Presencial
+Novembro de 2023 - Dezembro de 2023 · 2 meses
 
 <a href="https://ifce.edu.br">
-  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
 </a>
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-Agosto de 2023 - Novembro de 2023 · 4 meses <br>
-Baturité, Ceará, Brasil · Presencial
+Agosto de 2023 - Novembro de 2023 · 4 meses
 
 ## Formação Acadêmica
 
 <a href="https://estacio.br">
-  <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="80" align="left" />
+  <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50" align="left" />
 </a>
 
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
 
-<br>
-
 <a href="https://ifce.edu.br">
-  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
 </a>
 
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
 
-<br>
-
 <a href="https://www.eeepdebaturite.com">
-  <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
+  <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50" align="left" />
 </a>
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
