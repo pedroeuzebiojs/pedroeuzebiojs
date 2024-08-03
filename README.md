@@ -115,7 +115,7 @@ Janeiro de 2021 - Dezembro de 2023
     </td>
     <td width="160">
       <a href="https://fastify.dev" target="_blank">
-        <img src="https://i.imgur.com/Abj3KJe.jpg" alt="Logo do Fastify" width="50" />
+        <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
       </a>
       <br>
       Fastify
@@ -145,7 +145,7 @@ Janeiro de 2021 - Dezembro de 2023
     </td>
     <td width="160">
       <a href="https://knexjs.org" target="_blank">
-        <img src="https://i.imgur.com/fqQ861T.png" alt="Logo do Knex.js" width="50" />
+        <img src="https://i.imgur.com/9dtSRhv.png" alt="Logo do Knex.js" width="50" />
       </a>
        <br>
       Knex.js
@@ -161,7 +161,7 @@ Janeiro de 2021 - Dezembro de 2023
   <tr align="center">
     <td width="160">
       <a href="https://swc.rs" target="_blank">
-        <img src="https://i.imgur.com/x0yrYxm.png" alt="Logo do SWC" width="50" />
+        <img src="https://i.imgur.com/mkEMV8O.png" alt="Logo do SWC" width="50" />
       </a>
       <br>
       SWC
