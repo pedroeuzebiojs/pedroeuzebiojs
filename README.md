@@ -202,7 +202,6 @@ Número de validação 4050
   
 - Português - Nativo
 - Inglês - Básico a Intermediário
-- Espanhol - Básico a Intermediário
 
 ## Contato
 
