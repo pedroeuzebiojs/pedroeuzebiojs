@@ -30,6 +30,8 @@ Baturité, Ceará, Brasil · Presencial
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
 
+<br>
+
 <a href="https://ifce.edu.br">
   <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
 </a>
@@ -37,6 +39,8 @@ Janeiro de 2024 - Junho de 2026
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
+
+<br>
 
 <a href="https://www.eeepdebaturite.com">
   <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
