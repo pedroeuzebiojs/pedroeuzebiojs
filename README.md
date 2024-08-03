@@ -2,7 +2,7 @@
 
 ## Experiência Profissional
 
-<a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
+<a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6" target="_blank">
   <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="50" align="left" />
 </a>
   
@@ -10,7 +10,7 @@
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 Novembro de 2023 - Dezembro de 2023 · 2 meses
 
-<a href="https://ifce.edu.br">
+<a href="https://ifce.edu.br" target="_blank">
   <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
 </a>
 
@@ -20,7 +20,7 @@ Agosto de 2023 - Novembro de 2023 · 4 meses
 
 ## Formação Acadêmica
 
-<a href="https://estacio.br">
+<a href="https://estacio.br" target="_blank">
   <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50" align="left" />
 </a>
 
@@ -28,7 +28,7 @@ Agosto de 2023 - Novembro de 2023 · 4 meses
 Tecnólogo em Sistemas para Internet <br>
 Janeiro de 2024 - Junho de 2026
 
-<a href="https://ifce.edu.br">
+<a href="https://ifce.edu.br" target="_blank">
   <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
 </a>
 
@@ -36,7 +36,7 @@ Janeiro de 2024 - Junho de 2026
 Técnico em Informática para Internet <br>
 Janeiro de 2024 - Junho de 2025
 
-<a href="https://www.eeepdebaturite.com">
+<a href="https://www.eeepdebaturite.com" target="_blank">
   <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50" align="left" />
 </a>
 
