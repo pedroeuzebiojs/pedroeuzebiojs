@@ -1,4 +1,4 @@
-# Pedro Euzebio
+![Banner de apresentação do perfil do Pedro Euzebio](https://i.imgur.com/bWhv2m6.png)
 
 ## Experiência Profissional
 
