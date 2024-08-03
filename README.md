@@ -9,6 +9,8 @@ Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
 Baturité, Ceará, Brasil · Presencial
 
+<img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
+
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
 Agosto de 2023 - Novembro de 2023 · 4 meses <br>
