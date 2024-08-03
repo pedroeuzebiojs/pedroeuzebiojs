@@ -2,6 +2,8 @@
 
 ## Experiência Profissional
 
+<img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="80" align="left" />
+  
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 Novembro de 2023 - Dezembro de 2023 · 2 meses <br>
