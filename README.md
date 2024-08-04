@@ -201,7 +201,8 @@ Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
 
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Lead <br>
-Verificação emitida em abr de 2023
+Verificação emitida em abr de 2023 <br>
+4050
 
 ## Idiomas
   
