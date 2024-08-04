@@ -23,10 +23,12 @@ jan de 2024 - jun de 2026
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 jan de 2024 - jun de 2025
+- Formação técnica voltada para o desenvolvimento de aplicações web e administração de sistemas, com ênfase em tecnologias modernas e práticas de mercado.
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
 jan de 2021 - dezembro de 2023
+- Curso técnico focado em desenvolvimento de software, manutenção de hardware e redes de computadores, com ênfase em práticas laboratoriais e projetos práticos.
 
 ## Habilidades Técnicas
 
