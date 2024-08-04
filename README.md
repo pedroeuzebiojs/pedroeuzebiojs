@@ -223,7 +223,7 @@ Verificação emitida em jun de 2023
 
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Lead <br>
-Verificação emitida em Abril de 2023
+Verificação emitida em abr de 2023
 
 ## Idiomas
   
