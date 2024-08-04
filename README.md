@@ -26,7 +26,7 @@ ago de 2023 - nov de 2023 · 4 meses
 
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
-2024 - 2026
+jan de 2024 - jun de 2026
 
 <a href="https://ifce.edu.br" target="_blank">
   <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
@@ -34,7 +34,7 @@ Tecnólogo em Sistemas para Internet <br>
 
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
-2024 - 2025
+jan de 2024 - jun de 2025
 
 <a href="https://www.eeepdebaturite.com" target="_blank">
   <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50" align="left" />
@@ -42,7 +42,7 @@ Técnico em Informática para Internet <br>
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
-2021 - 2023
+jan de 2021 - dezembro de 2023
 
 ## Habilidades Técnicas
 
