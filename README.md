@@ -197,6 +197,11 @@ Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
 
 ## Cursos
 
+**Inteligência Artificial para Educação** <br>
+Dell Lead <br>
+Verificação emitida em jun de 2024 <br>
+12908
+
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Lead <br>
 Verificação emitida em abr de 2023 <br>
