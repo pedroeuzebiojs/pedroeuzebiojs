@@ -42,7 +42,7 @@ Técnico em Informática para Internet <br>
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
-Janeiro de 2021 - Dezembro de 2023
+2021 - 2023
 
 ## Habilidades Técnicas
 
