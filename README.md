@@ -1,6 +1,6 @@
 ![Banner de apresentação do perfil do Pedro Euzebio](https://i.imgur.com/bWhv2m6.png)
 
-## Experiência Profissional
+## Experiência
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
