@@ -1,18 +1,10 @@
 ![Banner de apresentação do perfil do Pedro Euzebio](https://i.imgur.com/bWhv2m6.png)
 
 ## Experiência Profissional
-
-<a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6" target="_blank">
-  <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="50" align="left" />
-</a>
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 nov de 2023 - dez de 2023 · 2 meses
-
-<a href="https://ifce.edu.br" target="_blank">
-  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
-</a>
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
@@ -20,25 +12,13 @@ ago de 2023 - nov de 2023 · 4 meses
 
 ## Formação Acadêmica
 
-<a href="https://estacio.br" target="_blank">
-  <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="50" align="left" />
-</a>
-
 **Universidade Estácio de Sá (UNESA)** <br>
 Tecnólogo em Sistemas para Internet <br>
 jan de 2024 - jun de 2026
 
-<a href="https://ifce.edu.br" target="_blank">
-  <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
-</a>
-
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
 Técnico em Informática para Internet <br>
 jan de 2024 - jun de 2025
-
-<a href="https://www.eeepdebaturite.com" target="_blank">
-  <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="50" align="left" />
-</a>
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
@@ -199,27 +179,15 @@ jan de 2021 - dezembro de 2023
 
 ## Certificados
 
-<a href="https://rocketseat.com.br" target="_blank">
-  <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="50" align="left" />
-</a>
-
 **Discover** <br>
 Rocketseat <br>
 Verificação emitida em mai de 2024
-
-<a href="https://aws.amazon.com/pt" target="_blank">
-  <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" align="left" />
-</a>
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
 Amazon Web Services (AWS) <br>
 Verificação emitida em jun de 2023
 
 ## Cursos
-
-<a href="https://leadfortaleza.com.br/portal" target="_blank">
-  <img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="50" align="left" />
-</a>
 
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Lead <br>
