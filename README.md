@@ -4,13 +4,13 @@
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-nov de 2023 - dez de 2023 · 2 meses
+nov de 2023 - dez de 2023 · 2 meses <br>
 Baturité, Ceará, Brasil · Presencial
 - Atuei como Técnico de TI, sendo responsável pelo suporte técnico, manutenção de sistemas e infraestrutura de TI, garantindo o funcionamento eficiente dos serviços tecnológicos da Secretaria.
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-ago de 2023 - nov de 2023 · 4 meses
+ago de 2023 - nov de 2023 · 4 meses <br>
 Baturité, Ceará, Brasil · Presencial
 - Atuei como Desenvolvedor Full Stack, responsável pelo desenvolvimento e manutenção de aplicações web que suportam a infraestrutura educacional e administrativa do IFCE.
 
