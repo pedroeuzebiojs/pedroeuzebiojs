@@ -187,11 +187,15 @@ jan de 2021 - dezembro de 2023
 
 **Discover** <br>
 Rocketseat <br>
-Verificação emitida em mai de 2024
+Verificação emitida em mai de 2024 <br>
+Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br>
+<a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b" target="_blanck">Exibir credencial</a>
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
 Amazon Web Services (AWS) <br>
-Verificação emitida em jun de 2023
+Verificação emitida em jun de 2023 <br>
+Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
+<a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print" target="_blank">Exibir credencial</a>
 
 ## Cursos
 
