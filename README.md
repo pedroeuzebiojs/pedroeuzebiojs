@@ -8,7 +8,7 @@
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-Novembro de 2023 - Dezembro de 2023 · 2 meses
+nov de 2023 - dez de 2023 · 2 meses
 
 <a href="https://ifce.edu.br" target="_blank">
   <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="50" align="left" />
@@ -16,7 +16,7 @@ Novembro de 2023 - Dezembro de 2023 · 2 meses
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-Agosto de 2023 - Novembro de 2023 · 4 meses
+ago de 2023 - nov de 2023 · 4 meses
 
 ## Formação Acadêmica
 
