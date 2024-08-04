@@ -205,7 +205,7 @@ Técnico em Informática <br>
 
 **Discover** <br>
 Rocketseat <br>
-Verificação emitida em Maio de 2024
+Verificação emitida em mai de 2024
 
 <a href="https://aws.amazon.com/pt" target="_blank">
   <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="50" align="left" />
@@ -213,7 +213,7 @@ Verificação emitida em Maio de 2024
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
 Amazon Web Services (AWS) <br>
-Verificação emitida em Junho de 2023
+Verificação emitida em jun de 2023
 
 ## Cursos
 
