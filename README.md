@@ -1,5 +1,13 @@
 ![Banner de apresentação do perfil do Pedro Euzebio](https://i.imgur.com/bWhv2m6.png)
 
+## Sobre
+
+Desenvolvedor Full Stack dedicado com experiência em JavaScript, React, Next.js, TypeScript, Tailwind CSS, Node.js, Fastify, Prisma ORM, Docker e NestJS. No Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), desenvolvi e mantive aplicações web, otimizando o desempenho e melhorando a experiência do usuário. Na Secretaria de Desenvolvimento Econômico e Social, ofereci suporte técnico e mantive sistemas de TI.
+
+Sou certificado pela AWS Academy em Cloud Foundations, com habilidades em arquitetura e serviços AWS. Também concluí o curso Discover da Rocketseat, focado em programação web, HTML, CSS, JavaScript, Git e GitHub. Meus projetos, como o Pedro Euzebio Links, demonstram minha capacidade de criar soluções práticas e eficazes.
+
+Sou apaixonado por codar, aprender e compartilhar conhecimento. Busco uma vaga como Desenvolvedor Full Stack JavaScript, focado em React e Node.js, para resolver desafios complexos. A longo prazo, desejo me tornar um Instrutor de Programação, simplificando conceitos complexos e inspirando pessoas a serem melhores.
+
 ## Experiência
   
 **Técnico de Tecnologia da Informação** <br>
