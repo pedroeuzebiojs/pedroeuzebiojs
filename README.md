@@ -209,7 +209,7 @@ Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
 
 ### Pedro Euzebio Links
 
-<img src="https://i.imgur.com/fiJBQHG.png" alt="Projeto Pedro Euzebio Links" width="584" />
+<img src="https://i.imgur.com/unR9V8T.png" alt="Projeto Pedro Euzebio Links" width="584" />
 
 Desenvolvi um agregador de links responsivo e com troca de tema, utilizado como cartão de visitas para redes sociais. O projeto permite aos usuários acessar rapidamente todas as minhas redes sociais e informações relevantes em um único lugar. <br>
 [Exibir projeto](https://pedroeuzebio-links.vercel.app)
