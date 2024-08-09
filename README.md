@@ -36,7 +36,7 @@ jan de 2024 - jun de 2025
 
 **Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
 Técnico em Informática <br>
-jan de 2021 - dezembro de 2023
+jan de 2021 - dez de 2023
 
 ## Habilidades Técnicas
 
