@@ -216,11 +216,6 @@ Desenvolvi um agregador de links responsivo e com troca de tema, utilizado como 
 
 ## Cursos
 
-**Inteligência Artificial para Educação** <br>
-Dell Technologies <br>
-Verificação emitida em jun de 2024 <br>
-12908
-
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Technologies <br>
 Verificação emitida em abr de 2023 <br>
