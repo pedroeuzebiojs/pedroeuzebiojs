@@ -217,7 +217,7 @@ Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
 
 ## Cursos
 
-<img src="https://i.imgur.com/4N8tv4Y.jpg" alt="Logo da Dell Lead" width="75" align="left" />
+<img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="75" align="left" />
 
 **Suporte Técnico em Tecnologia da Informação** <br>
 Dell Technologies <br>
