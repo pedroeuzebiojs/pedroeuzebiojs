@@ -11,12 +11,16 @@ Sou certificado pela AWS Academy em Cloud Foundations, com habilidades em arquit
 Sou apaixonado por codar, aprender e compartilhar conhecimento. Busco uma vaga como Desenvolvedor Full Stack JavaScript, focado em React e Node.js, para resolver desafios complexos. A longo prazo, desejo me tornar um Instrutor de Programação, simplificando conceitos complexos e inspirando pessoas a serem melhores.
 
 ## Experiência
+
+<img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
   
 **Técnico de Tecnologia da Informação** <br>
 Secretária do Desenvolvimento Econômico e Social · Estágio <br>
 nov de 2023 - dez de 2023 · 2 meses <br>
 Baturité, Ceará, Brasil · Presencial
 - Atuei como Técnico de TI, sendo responsável pelo suporte técnico, manutenção de sistemas e infraestrutura de TI, garantindo o funcionamento eficiente dos serviços tecnológicos da Secretaria.
+
+<img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
 
 **Desenvolvedor Full Stack** <br>
 Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
