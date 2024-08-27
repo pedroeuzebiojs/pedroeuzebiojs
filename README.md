@@ -191,17 +191,21 @@ jan de 2021 - dez de 2023
 
 ## Certificados
 
+<img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
+
 **Discover** <br>
 Rocketseat <br>
 Verificação emitida em mai de 2024 <br>
 Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br>
-[Exibir credencial](https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b)
+- [Exibir credencial](https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b)
+
+<img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
 
 **AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
 Amazon Web Services (AWS) <br>
 Verificação emitida em jun de 2023 <br>
 Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
-[Exibir credencial](https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print)
+- [Exibir credencial](https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print)
 
 ## Projetos
 
