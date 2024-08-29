@@ -41,112 +41,82 @@ jan de 2021 - dez de 2023
 <table>
   <tr align="center">
     <td width="150">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
+      <br />
       HTML
     </td>
     <td width="150">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
+      <br />
       CSS
     </td>
     <td width="150">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" />
-        <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
+      <br />
       JavaScript
     </td>
     <td width="150">
-      <a href="https://react.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
+      <br />
       React
     </td>
     <td width="150">
-      <a href="https://vitejs.dev" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
+      <br />
       Vite
     </td>
   </tr>
   <tr align="center">
     <td width="150">
-      <a href="https://nextjs.org">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Logo do Next.js" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Logo do Next.js" />
+      <br />
       Next.js
     </td>
     <td width="150">
-      <a href="https://www.typescriptlang.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
+      <br />
       TypeScript
     </td>
     <td width="150">
-      <a href="https://tailwindcss.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
+      <br />
       Tailwind CSS
     </td>
     <td width="150">
-      <a href="https://nodejs.org/en" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Logo do Node.js" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Logo do Node.js" />
+      <br />
       Node.js
     </td>
     <td width="150">
-      <a href="https://fastify.dev" target="_blank">
-        <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
-      </a>
-      <br>
+      <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
+      <br />
       Fastify
     </td>
   </tr>
   <tr align="center">
     <td width="150">
-      <a href="https://www.prisma.io" target="_blank">
-        <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
+      <br />
       Prisma ORM
     </td>
     <td width="150">
-      <a href="https://www.docker.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
+      <br />
       Docker
     </td>
     <td width="150">
-      <a href="https://nestjs.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="Logo do Nest.js" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="Logo do Nest.js" />
+      <br />
       NestJS
     </td>
     <td width="150">
-      <a href="https://knexjs.org" target="_blank">
-        <img src="https://i.imgur.com/9dtSRhv.png" alt="Logo do Knex.js" width="50" />
-      </a>
-       <br>
+      <img src="https://i.imgur.com/9dtSRhv.png" alt="Logo do Knex.js" width="50" />
+      <br />
       Knex.js
     </td>
     <td width="150">
-      <a href="https://vitest.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
+      <br />
       Vitest
     </td>
   </tr>
@@ -159,31 +129,23 @@ jan de 2021 - dez de 2023
       SWC
     </td>
     <td width="150">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
+      <br />
       PostgreSQL
     </td>
     <td width="150">
-      <a href="https://git-scm.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
+      <br />
       Git
     </td>
     <td width="150">
-      <a href="https://www.postman.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postman" alt="Logo do Postman" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Logo do Postman" />
+      <br />
       Postman
     </td>
     <td width="150">
-      <a href="https://code.visualstudio.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
-      </a>
-      <br>
+      <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
+      <br />
       VS Code
     </td>
   </tr>
