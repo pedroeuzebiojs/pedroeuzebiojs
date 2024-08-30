@@ -169,14 +169,6 @@ Verificação emitida em jun de 2023 <br>
 Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
 - [Exibir credencial](https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print)
 
-## Projetos
-
-### Pedro Euzebio Links
-
-<img src="https://i.imgur.com/unR9V8T.png" alt="Projeto Pedro Euzebio Links" width="584" />
-
-- [Exibir projeto](https://pedroeuzebio-links.vercel.app)
-
 ## Cursos
 
 <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="75" align="left" />
