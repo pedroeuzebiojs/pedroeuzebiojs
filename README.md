@@ -2,19 +2,26 @@
 
 ## Experiência
 
-<img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
-  
-**Técnico de Tecnologia da Informação** <br>
-Secretária do Desenvolvimento Econômico e Social · Estágio <br>
-nov de 2023 - dez de 2023 · 2 meses <br>
-Baturité, Ceará, Brasil · Presencial
-
-<img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
-
-**Desenvolvedor Full Stack** <br>
-Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br>
-ago de 2023 - nov de 2023 · 4 meses <br>
-Baturité, Ceará, Brasil · Presencial
+<div>
+  <div>
+    <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
+    <p>
+      <strong>Técnico de Tecnologia da Informação</strong> <br />
+      Secretária do Desenvolvimento Econômico e Social · Estágio <br />
+      nov de 2023 - dez de 2023 · 2 meses <br />
+      Baturité, Ceará, Brasil · Presencial
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    <p>
+      <strong>Desenvolvedor Full Stack</strong> <br />
+      Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br />
+      ago de 2023 - nov de 2023 · 4 meses <br />
+      Baturité, Ceará, Brasil · Presencial
+    </p>
+  </div>
+</div>
 
 ## Formação Acadêmica
 
