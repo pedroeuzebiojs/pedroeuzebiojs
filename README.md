@@ -25,23 +25,32 @@
 
 ## Formação Acadêmica
 
-<img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="75" align="left" />
-
-**Universidade Estácio de Sá (UNESA)** <br>
-Tecnólogo em Sistemas para Internet <br>
-jan de 2024 - jun de 2026
-
-<img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
-
-**Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)** <br>
-Técnico em Informática para Internet <br>
-jan de 2024 - jun de 2025
-
-<img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="75" align="left" />
-
-**Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda** <br>
-Técnico em Informática <br>
-jan de 2021 - dez de 2023
+<div>
+  <div>
+    <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="75" align="left" />
+    <p>
+      <strong>Universidade Estácio de Sá (UNESA)</strong> <br />
+      Tecnólogo em Sistemas para Internet <br />
+      jan de 2024 - jun de 2026
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    <p>
+      <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br />
+      Técnico em Informática para Internet <br />
+      jan de 2024 - jun de 2025
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="75" align="left" />
+    <p>
+      <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br />
+      Técnico em Informática <br />
+      jan de 2021 - dez de 2023
+    </p>
+  </div>
+</div>
 
 ## Habilidades Técnicas
 
@@ -160,30 +169,46 @@ jan de 2021 - dez de 2023
 
 ## Certificados
 
-<img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
-
-**Discover** <br>
-Rocketseat <br>
-Verificação emitida em mai de 2024 <br>
-Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br>
-- [Exibir credencial](https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b)
-
-<img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
-
-**AWS Academy Graduate - AWS Academy Cloud Foundations** <br>
-Amazon Web Services (AWS) <br>
-Verificação emitida em jun de 2023 <br>
-Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br>
-- [Exibir credencial](https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print)
+<div>
+  <div>
+    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
+    <p>
+      <strong>Discover</strong> <br />
+      Rocketseat <br />
+      Verificação emitida em mai de 2024 <br />
+      Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br />
+      <li>
+        <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
+      </li>
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
+    <p>
+      <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
+      Amazon Web Services (AWS) <br />
+      Verificação emitida em jun de 2023 <br />
+      Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br />
+      <li>
+        <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
+      </li>
+    </p>
+  </div>
+</div>
 
 ## Cursos
 
-<img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="75" align="left" />
-
-**Suporte Técnico em Tecnologia da Informação** <br>
-Dell Technologies <br>
-Verificação emitida em abr de 2023 <br>
-4050
+<div>
+  <div>
+    <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="75" align="left" />
+    <p>
+      <strong>Suporte Técnico em Tecnologia da Informação</strong> <br />
+      Dell Technologies <br />
+      Verificação emitida em abr de 2023 <br />
+      4050
+    </p>
+  </div>
+</div>
 
 ## Idiomas
   
