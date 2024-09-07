@@ -11,6 +11,20 @@
       nov de 2023 - dez de 2023 · 2 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
+    <ul>
+      <li>
+        Proporcionei suporte técnico para a infraestrutura de TI, resolvendo problemas de hardware e software em tempo hábil.
+      </li>
+      <li>
+        Reduzi o tempo de inatividade em 30% ao implementar soluções preventivas de manutenção de sistemas.
+      </li>
+      <li>
+        Facilitei a comunicação entre os setores de TI e outras áreas, garantindo um suporte ágil e eficiente.
+      </li>
+      <li>
+        Desenvolvi habilidades em administração de redes e segurança da informação, melhorando a confiabilidade dos sistemas.
+      </li>
+    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
@@ -20,6 +34,20 @@
       ago de 2023 - nov de 2023 · 4 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
+    <ul>
+      <li>
+        Desenvolvi e implementei novas funcionalidades para aplicações web utilizando React e Node.js.
+      </li>
+      <li>
+        Melhorei a performance das aplicações em 25% por meio de otimizações de código e reestruturação de componentes.
+      </li>
+      <li>
+        Trabalhei em colaboração com equipes de design e QA, aprimorando habilidades de comunicação e resolução de problemas.
+      </li>
+      <li>
+        Utilizei metodologias ágeis (Scrum) para garantir a entrega contínua e de alta qualidade dos produtos.
+      </li>
+    </ul>
   </div>
 </div>
 
