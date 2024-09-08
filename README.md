@@ -1,6 +1,18 @@
-![Banner de apresentação do perfil do GitHub do Pedro Euzebio](https://i.imgur.com/KcwAthU.png)
+<img src="https://i.imgur.com/KcwAthU.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
 
-## Experiência
+<h2>Sobre</h2>
+
+<img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" />
+
+<p align="justify">
+  Profissional em desenvolvimento full stack com experiência prática em React e Node.js, adquirido durante minha atuação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde trabalhei como desenvolvedor. Além disso, atuei como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social. Atualmente, curso Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA), o que fortalece minha base teórica e prática.
+
+Possuo habilidades sólidas em tecnologias como JavaScript, React, Next.js, TypeScript, Tailwind CSS, Node.js, Fastify, Prisma ORM, Docker e NestJS. Sou certificado pela AWS Academy, com foco em Cloud Foundations, e conclui o curso Discover da Rocketseat, destacando meu compromisso com a atualização contínua.
+
+Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e a longo prazo, atuar como educador, aplicando e disseminando o conhecimento adquirido. Tenho uma abordagem prática e focada na entrega de resultados, com uma visão clara de crescimento e contribuição para o desenvolvimento tecnológico.
+</p>
+
+<h2>Experiência</h2>
 
 <div>
   <div>
@@ -13,16 +25,28 @@
     </p>
     <ul>
       <li>
-        Proporcionei suporte técnico para a infraestrutura de TI, resolvendo problemas de hardware e software em tempo hábil.
+        Suporte técnico em infraestrutura de TI para a Secretaria de Desenvolvimento Econômico e Social.
       </li>
       <li>
-        Reduzi o tempo de inatividade em 30% ao implementar soluções preventivas de manutenção de sistemas.
+        Diagnóstico e resolução de problemas em hardware e software, garantindo a operação contínua dos sistemas.
       </li>
       <li>
-        Facilitei a comunicação entre os setores de TI e outras áreas, garantindo um suporte ágil e eficiente.
+        Administração de redes locais, monitoramento de conectividade e implementação de melhorias na segurança de dados.
       </li>
       <li>
-        Desenvolvi habilidades em administração de redes e segurança da informação, melhorando a confiabilidade dos sistemas.
+        Configuração e manutenção de equipamentos e servidores para otimizar o desempenho da rede.
+      </li>
+      <li>
+        Suporte ao usuário final, com foco em treinamento e resolução de dúvidas técnicas, aumentando a produtividade da equipe.
+      </li>
+      <li>
+        Documentação de processos e procedimentos para padronização e futuras consultas.
+      </li>
+      <li>
+        Desenvolvimento de habilidades em gestão de tempo e priorização de demandas em um ambiente dinâmico e de alta pressão.
+      </li>
+      <li>
+        Colaboração com equipes internas para implementação de soluções que melhorassem a eficiência operacional.
       </li>
     </ul>
   </div>
@@ -36,22 +60,34 @@
     </p>
     <ul>
       <li>
-        Desenvolvi e implementei novas funcionalidades para aplicações web utilizando React e Node.js.
+        Atuação como Desenvolvedor Full Stack utilizando React no front-end e Node.js no back-end.
       </li>
       <li>
-        Melhorei a performance das aplicações em 25% por meio de otimizações de código e reestruturação de componentes.
+        Desenvolvimento de soluções web eficientes para o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
       </li>
       <li>
-        Trabalhei em colaboração com equipes de design e QA, aprimorando habilidades de comunicação e resolução de problemas.
+        Integração de APIs RESTful e desenvolvimento de funcionalidades dinâmicas para melhorar a experiência do usuário.
       </li>
       <li>
-        Utilizei metodologias ágeis (Scrum) para garantir a entrega contínua e de alta qualidade dos produtos.
+        Implementação de melhores práticas em versionamento de código com Git e controle de dependências com NPM.
+      </li>
+      <li>
+        Colaboração com equipes multidisciplinares em um ambiente ágil, garantindo a entrega de projetos dentro dos prazos estipulados.
+      </li>
+      <li>
+        Desenvolvimento de testes unitários e automatizados para garantir a qualidade do código.
+      </li>
+      <li>
+        Uso de tecnologias modernas como Fastify e Prisma ORM para otimização de desempenho e escalabilidade das aplicações.
+      </li>
+      <li>
+        Fortalecimento de habilidades em resolução de problemas e capacidade de adaptação a novas ferramentas e desafios técnicos.
       </li>
     </ul>
   </div>
 </div>
 
-## Formação Acadêmica
+<h2>Formação Acadêmica</h2>
 
 <div>
   <div>
@@ -80,7 +116,7 @@
   </div>
 </div>
 
-## Habilidades Técnicas
+<h2>Habilidades Técnicas</h2>
 
 <table>
   <tr align="center">
@@ -195,7 +231,7 @@
   </tr>
 </table>
 
-## Certificados
+<h2>Certificados</h2>
 
 <div>
   <div>
@@ -204,11 +240,13 @@
       <strong>Discover</strong> <br />
       Rocketseat <br />
       Verificação emitida em mai de 2024 <br />
-      Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b <br />
+      Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b
+    </p>
+    <ul>
       <li>
         <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
       </li>
-    </p>
+    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
@@ -216,15 +254,17 @@
       <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
       Amazon Web Services (AWS) <br />
       Verificação emitida em jun de 2023 <br />
-      Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76 <br />
+      Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76
+    </p>
+    <ul>
       <li>
         <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
       </li>
-    </p>
+    </ul>
   </div>
 </div>
 
-## Cursos
+<h2>Cursos</h2>
 
 <div>
   <div>
@@ -238,12 +278,14 @@
   </div>
 </div>
 
-## Idiomas
-  
-- Português - Nativo
-- Inglês - Básico a Intermediário
+<h2>Idiomas</h2>
 
-## Contato
+<ul>
+  <li>Português - Nativo</li>
+  <li>Inglês - Básico a Intermediário</li>
+</ul>
+
+<h2>Contato</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiooo-020817?style=flat-square&logo=Github&logoColor=3b82f6&link=https://github.com/pedroeuzebiooo)](https://github.com/pedroeuzebiooo)
