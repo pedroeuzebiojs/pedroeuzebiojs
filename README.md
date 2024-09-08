@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" />
+<img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
 <p align="justify">
   Profissional em desenvolvimento full stack com experiência prática em React e Node.js, adquirido durante minha atuação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde trabalhei como desenvolvedor. Além disso, atuei como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social. Atualmente, curso Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA), o que fortalece minha base teórica e prática.
