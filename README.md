@@ -231,6 +231,25 @@ Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e
   </tr>
 </table>
 
+<h2>Projetos</h2>
+
+<div>
+  <div>
+    <h3>Pedro Euzebio Links</h3>
+    <img src="https://i.imgur.com/omYnkvO.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
+    <p align="justify">
+      Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais. O projeto foi desenvolvido com as seguintes tecnologias: HTML, CSS, JavaScript.
+    </p>
+    <ul>
+      <li>
+        <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
 <h2>Certificados</h2>
 
 <div>
