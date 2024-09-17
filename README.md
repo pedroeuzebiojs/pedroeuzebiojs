@@ -53,7 +53,7 @@ Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e
   <div>
     <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
     <p>
-      <strong>Desenvolvedor Full Stack</strong> <br />
+      <strong>Desenvolvedor Full Stack React e Node.js</strong> <br />
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br />
       ago de 2023 - nov de 2023 · 4 meses <br />
       Baturité, Ceará, Brasil · Presencial
@@ -238,7 +238,7 @@ Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e
     <h3>Pedro Euzebio Links</h3>
     <img src="https://i.imgur.com/omYnkvO.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
     <p align="justify">
-      Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais. O projeto foi desenvolvido com as seguintes tecnologias: HTML, CSS, JavaScript.
+      Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
     </p>
     <ul>
       <li>
@@ -247,8 +247,6 @@ Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e
     </ul>
   </div>
 </div>
-
-
 
 <h2>Certificados</h2>
 
