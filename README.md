@@ -25,32 +25,38 @@ Além disso, possui um forte propósito de se tornar Educador, motivado pelo des
       nov de 2023 - dez de 2023 · 2 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
-    <ul>
-      <li>
-        Suporte técnico em infraestrutura de TI para a Secretaria de Desenvolvimento Econômico e Social.
-      </li>
-      <li>
-        Diagnóstico e resolução de problemas em hardware e software, garantindo a operação contínua dos sistemas.
-      </li>
-      <li>
-        Administração de redes locais, monitoramento de conectividade e implementação de melhorias na segurança de dados.
-      </li>
-      <li>
-        Configuração e manutenção de equipamentos e servidores para otimizar o desempenho da rede.
-      </li>
-      <li>
-        Suporte ao usuário final, com foco em treinamento e resolução de dúvidas técnicas, aumentando a produtividade da equipe.
-      </li>
-      <li>
-        Documentação de processos e procedimentos para padronização e futuras consultas.
-      </li>
-      <li>
-        Desenvolvimento de habilidades em gestão de tempo e priorização de demandas em um ambiente dinâmico e de alta pressão.
-      </li>
-      <li>
-        Colaboração com equipes internas para implementação de soluções que melhorassem a eficiência operacional.
-      </li>
-    </ul>
+    <details>
+      <summary>Responsabilidades</summary>
+      <ul>
+        <li>
+          Suporte técnico aos usuários da Secretaria, solucionando problemas de hardware, software e rede.
+        </li>
+        <li>
+          Configuração e manutenção de computadores, impressoras e outros dispositivos de TI.
+        </li>
+        <li>
+          Instalação de sistemas operacionais e softwares específicos para o ambiente corporativo.
+        </li>
+        <li>
+          Monitoramento e otimização da rede local, garantindo estabilidade e segurança.
+        </li>
+        <li>
+          Auxílio na administração de servidores e sistemas internos.
+        </li>
+        <li>
+          Documentação de procedimentos e atualizações tecnológicas implementadas.
+        </li>
+        <li>
+          Desenvolvimento de habilidades em diagnóstico de falhas técnicas e atendimento ao usuário.
+        </li>
+        <li>
+          Colaboração com a equipe de TI para implementar melhorias na infraestrutura de tecnologia.
+        </li>
+        <li>
+          Contribuição na organização e execução de projetos tecnológicos da Secretaria.
+        </li>
+      </ul>
+    </details>
   </div>
   <div>
     <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
@@ -60,32 +66,38 @@ Além disso, possui um forte propósito de se tornar Educador, motivado pelo des
       ago de 2023 - nov de 2023 · 4 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
-    <ul>
-      <li>
-        Atuação como Desenvolvedor Full Stack utilizando React no front-end e Node.js no back-end.
-      </li>
-      <li>
-        Desenvolvimento de soluções web eficientes para o Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-      </li>
-      <li>
-        Integração de APIs RESTful e desenvolvimento de funcionalidades dinâmicas para melhorar a experiência do usuário.
-      </li>
-      <li>
-        Implementação de melhores práticas em versionamento de código com Git e controle de dependências com NPM.
-      </li>
-      <li>
-        Colaboração com equipes multidisciplinares em um ambiente ágil, garantindo a entrega de projetos dentro dos prazos estipulados.
-      </li>
-      <li>
-        Desenvolvimento de testes unitários e automatizados para garantir a qualidade do código.
-      </li>
-      <li>
-        Uso de tecnologias modernas como Fastify e Prisma ORM para otimização de desempenho e escalabilidade das aplicações.
-      </li>
-      <li>
-        Fortalecimento de habilidades em resolução de problemas e capacidade de adaptação a novas ferramentas e desafios técnicos.
-      </li>
-    </ul>
+    <details>
+      <summary>Responsabilidades</summary>
+      <ul>
+        <li>
+          Desenvolvimento de aplicações web utilizando React.js no front-end e Node.js no back-end.
+        </li>
+        <li>
+          Integração de APIs RESTful para comunicação eficiente entre o front-end e back-end.
+        </li>
+        <li>
+          Implementação de autenticação de usuários e controle de acesso baseado em funções.
+        </li>
+        <li>
+          Utilização de bancos de dados NoSQL (MongoDB) e SQL (MySQL) para gerenciamento de dados.
+        </li>
+        <li>
+          Colaboração em equipe utilizando metodologias ágeis (Scrum) e ferramentas de versionamento de código como Git.
+        </li>
+        <li>
+          Otimização de performance e responsividade das interfaces.
+        </li>
+        <li>
+          Correção de bugs e melhorias contínuas em projetos já existentes.
+        </li>
+        <li>
+          Desenvolvimento de testes unitários para garantir a qualidade do código.
+        </li>
+        <li>
+          Acompanhamento de deploys automatizados em ambientes de produção e testes.
+        </li>
+      </ul>
+    </details>
   </div>
 </div>
 
