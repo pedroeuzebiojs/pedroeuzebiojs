@@ -5,11 +5,13 @@
 <img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
 <p align="justify">
-  Profissional em desenvolvimento full stack com experiência prática em React e Node.js, adquirido durante minha atuação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde trabalhei como desenvolvedor. Além disso, atuei como Técnico de Tecnologia da Informação na Secretaria de Desenvolvimento Econômico e Social. Atualmente, curso Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá (UNESA), o que fortalece minha base teórica e prática.
+  Profissional com sólida formação e experiência em Tecnologia da Informação, destacando-se pela atuação em Desenvolvimento Full Stack e Suporte Técnico. Com certificações em áreas essenciais, como AWS Cloud, Endpoint Security pela Cisco, e Java pela Rocketseat, possui domínio de tecnologias como React, Node.js, Spring Boot, além de conhecimentos avançados em segurança de redes e infraestrutura. 
 
-Possuo habilidades sólidas em tecnologias como JavaScript, React, Next.js, TypeScript, Tailwind CSS, Node.js, Fastify, Prisma ORM, Docker e NestJS. Sou certificado pela AWS Academy, com foco em Cloud Foundations, e conclui o curso Discover da Rocketseat, destacando meu compromisso com a atualização contínua.
+Durante sua trajetória, atuou como estagiário em TI na Secretaria de Desenvolvimento Econômico e Social e como Desenvolvedor Full Stack no Instituto Federal do Ceará (IFCE), onde adquiriu expertise prática em projetos de desenvolvimento de aplicações e soluções tecnológicas. Completou o curso Técnico em Informática e está cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, demonstrando compromisso contínuo com seu desenvolvimento profissional.
 
-Meu objetivo a curto prazo é garantir uma vaga como Desenvolvedor Full Stack, e a longo prazo, atuar como educador, aplicando e disseminando o conhecimento adquirido. Tenho uma abordagem prática e focada na entrega de resultados, com uma visão clara de crescimento e contribuição para o desenvolvimento tecnológico.
+Entre suas competências estão: programação web (HTML, CSS, JavaScript), gerenciamento de servidores Windows e Linux, proteção de endpoints, além de integração de sistemas seguros. Sua paixão por codificação e aprendizado constante reflete-se em seu desejo de se manter atualizado com as últimas tendências tecnológicas.
+
+Além disso, possui um forte propósito de se tornar Educador, motivado pelo desejo de inspirar e gerar esperança nas pessoas, deixando um legado transformador em suas vidas. Busca, através da educação, motivar seus futuros alunos a superar suas próprias conquistas enquanto continua atuando como desenvolvedor, combinando suas duas paixões.
 </p>
 
 <h2>Experiência</h2>
