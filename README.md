@@ -266,6 +266,20 @@ Além disso, possui um forte propósito de se tornar Educador, motivado pelo des
 
 <div>
   <div>
+    <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="75" align="left" />
+    <p>
+      <strong>Endpoint Security</strong> <br />
+      Cisco Networking Academy <br />
+      Verificação emitida em set de 2024 <br />
+      Código da credencial 0cf3adf8-b3f0-4a67-9f7f-759c23a38929
+    </p>
+    <ul>
+      <li>
+        <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
+      </li>
+    </ul>
+  </div>
+  <div>
     <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
     <p>
       <strong>Discover</strong> <br />
@@ -276,6 +290,20 @@ Além disso, possui um forte propósito de se tornar Educador, motivado pelo des
     <ul>
       <li>
         <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
+    <p>
+      <strong>Curso de Java Online</strong> <br />
+      Rocketseat <br />
+      Verificação emitida em out de 2023 <br />
+      Código da credencial 58979f4a-9033-4e7d-8515-12071a45af22
+    </p>
+    <ul>
+      <li>
+        <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">Exibir credencial</a>
       </li>
     </ul>
   </div>
