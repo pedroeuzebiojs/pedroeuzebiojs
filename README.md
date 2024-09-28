@@ -5,13 +5,13 @@
 <img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
 <p align="justify">
-  Profissional com sólida formação e experiência em Tecnologia da Informação, destacando-se pela atuação em Desenvolvimento Full Stack e Suporte Técnico. Com certificações em áreas essenciais, como AWS Cloud, Endpoint Security pela Cisco, e Java pela Rocketseat, possui domínio de tecnologias como React, Node.js, Spring Boot, além de conhecimentos avançados em segurança de redes e infraestrutura. 
+  Profissional em Tecnologia da Informação, com formação técnica e experiência sólida em Desenvolvimento Full Stack e Suporte Técnico. Possui certificações reconhecidas como AWS Cloud Foundations, Endpoint Security pela Cisco e Java pela Rocketseat, além de qualificações em computação em nuvem pela Huawei. Seu domínio técnico abrange tecnologias essenciais, incluindo React, Node.js, Spring Boot, Maven, H2 Database, além de uma forte base em segurança cibernética, redes de computadores e serviços em nuvem.
 
-Durante sua trajetória, atuou como estagiário em TI na Secretaria de Desenvolvimento Econômico e Social e como Desenvolvedor Full Stack no Instituto Federal do Ceará (IFCE), onde adquiriu expertise prática em projetos de desenvolvimento de aplicações e soluções tecnológicas. Completou o curso Técnico em Informática e está cursando Técnico em Informática para Internet no IFCE e Tecnólogo em Sistemas para Internet na Universidade Estácio de Sá, demonstrando compromisso contínuo com seu desenvolvimento profissional.
+Ao longo de sua carreira, atuou como estagiário em TI na Secretaria de Desenvolvimento Econômico e Social, focado em suporte técnico e infraestrutura, e como Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde aprimorou suas habilidades no desenvolvimento de soluções web, desde a concepção de APIs REST até a implementação de medidas de segurança e deploy. Sua formação técnica em informática foi complementada por cursos no IFCE e pela graduação em andamento em Sistemas para Internet na Universidade Estácio de Sá.
 
-Entre suas competências estão: programação web (HTML, CSS, JavaScript), gerenciamento de servidores Windows e Linux, proteção de endpoints, além de integração de sistemas seguros. Sua paixão por codificação e aprendizado constante reflete-se em seu desejo de se manter atualizado com as últimas tendências tecnológicas.
+Entre suas competências, destacam-se programação web (HTML, CSS, JavaScript), gerenciamento de servidores Windows e Linux, proteção de endpoints, integração segura de sistemas e desenvolvimento de aplicações em Java. Apaixonado por aprendizado contínuo e inovação tecnológica, ele se mantém atualizado com as principais tendências da área.
 
-Além disso, possui um forte propósito de se tornar Educador, motivado pelo desejo de inspirar e gerar esperança nas pessoas, deixando um legado transformador em suas vidas. Busca, através da educação, motivar seus futuros alunos a superar suas próprias conquistas enquanto continua atuando como desenvolvedor, combinando suas duas paixões.
+Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transformação na vida de seus alunos, incentivando-os a superar suas próprias conquistas. Paralelamente, busca continuar atuando como desenvolvedor, combinando sua paixão por tecnologia e ensino.
 </p>
 
 <h2>Experiência</h2>
