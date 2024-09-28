@@ -266,6 +266,20 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
 
 <div>
   <div>
+    <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="75" align="left" />
+    <p>
+      <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
+      Huawei ICT Academy <br />
+      Verificação emitida em set de 2024 <br />
+      Código da credencial b0fe24b7-7db3-45cb-ba37-3541ff7ece1e
+    </p>
+    <ul>
+      <li>
+        <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
+      </li>
+    </ul>
+  </div>
+  <div>
     <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="75" align="left" />
     <p>
       <strong>Endpoint Security</strong> <br />
