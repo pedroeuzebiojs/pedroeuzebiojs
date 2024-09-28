@@ -254,11 +254,7 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
     <p align="justify">
       Pedro Euzebio Links é um projeto de agregador de links responsivo, criado para funcionar como um cartão de visitas digital que organiza e apresenta de forma eficiente todas as minhas redes sociais. Com um design intuitivo e funcional, o projeto permite a troca de tema, oferecendo uma experiência personalizada ao usuário. Desenvolvido utilizando HTML, CSS e JavaScript, o site garante uma navegação fluida e compatível com diferentes dispositivos, desde desktops até smartphones. O foco do projeto é centralizar o acesso a diversas plataformas em um único lugar, facilitando a interação e o contato por meio de uma interface moderna e direta.
     </p>
-    <ul>
-      <li>
-        <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
-      </li>
-    </ul>
+    <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
   </div>
 </div>
 
@@ -271,13 +267,8 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
       <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
       Huawei ICT Academy <br />
       Verificação emitida em set de 2024 <br />
-      Código da credencial b0fe24b7-7db3-45cb-ba37-3541ff7ece1e
+      <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
     </p>
-    <ul>
-      <li>
-        <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
-      </li>
-    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="75" align="left" />
@@ -285,13 +276,8 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
       <strong>Endpoint Security</strong> <br />
       Cisco Networking Academy <br />
       Verificação emitida em set de 2024 <br />
-      Código da credencial 0cf3adf8-b3f0-4a67-9f7f-759c23a38929
+      <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
     </p>
-    <ul>
-      <li>
-        <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
-      </li>
-    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
@@ -299,13 +285,8 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
       <strong>Discover</strong> <br />
       Rocketseat <br />
       Verificação emitida em mai de 2024 <br />
-      Código da credencial c4607cdf-e145-40a9-9a04-f0e12069144b
+      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
     </p>
-    <ul>
-      <li>
-        <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
-      </li>
-    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
@@ -313,13 +294,8 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
       <strong>Curso de Java Online</strong> <br />
       Rocketseat <br />
       Verificação emitida em out de 2023 <br />
-      Código da credencial 58979f4a-9033-4e7d-8515-12071a45af22
+      <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">Exibir credencial</a>
     </p>
-    <ul>
-      <li>
-        <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">Exibir credencial</a>
-      </li>
-    </ul>
   </div>
   <div>
     <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
@@ -327,13 +303,8 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
       <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
       Amazon Web Services (AWS) <br />
       Verificação emitida em jun de 2023 <br />
-      Código da credencial 0218204e-7d5e-4486-b52e-f438e555df76
+      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
     </p>
-    <ul>
-      <li>
-        <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
-      </li>
-    </ul>
   </div>
 </div>
 
