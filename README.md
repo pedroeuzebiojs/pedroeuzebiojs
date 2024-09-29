@@ -5,13 +5,13 @@
 <img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
 <p align="justify">
-  Profissional em Tecnologia da Informação, com formação técnica e experiência sólida em Desenvolvimento Full Stack e Suporte Técnico. Possui certificações reconhecidas como AWS Cloud Foundations, Endpoint Security pela Cisco e Java pela Rocketseat, além de qualificações em computação em nuvem pela Huawei. Seu domínio técnico abrange tecnologias essenciais, incluindo React, Node.js, Spring Boot, Maven, H2 Database, além de uma forte base em segurança cibernética, redes de computadores e serviços em nuvem.
+  Desenvolvedor Full Stack com experiência em React e Node.js, com sólida formação técnica e certificações em tecnologias de ponta. Atuei como estagiário de Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi soluções web eficientes e seguras, aplicando princípios de desenvolvimento ágil e boas práticas de programação. Durante essa experiência, adquiri conhecimento aprofundado em tecnologias como React, Node.js e integrações com APIs REST.
 
-Ao longo de sua carreira, atuou como estagiário em TI na Secretaria de Desenvolvimento Econômico e Social, focado em suporte técnico e infraestrutura, e como Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde aprimorou suas habilidades no desenvolvimento de soluções web, desde a concepção de APIs REST até a implementação de medidas de segurança e deploy. Sua formação técnica em informática foi complementada por cursos no IFCE e pela graduação em andamento em Sistemas para Internet na Universidade Estácio de Sá.
+Além disso, possuo certificações que complementam minhas habilidades técnicas, incluindo o curso de Desenvolvimento Java da Rocketseat, onde desenvolvi uma aplicação back-end com Spring Boot e Maven, implementando segurança e boas práticas de deploy. Também sou certificado em Cloud Computing pela Huawei ICT Academy e pela AWS Academy, o que me confere uma sólida compreensão de arquiteturas de nuvem e serviços essenciais da AWS.
 
-Entre suas competências, destacam-se programação web (HTML, CSS, JavaScript), gerenciamento de servidores Windows e Linux, proteção de endpoints, integração segura de sistemas e desenvolvimento de aplicações em Java. Apaixonado por aprendizado contínuo e inovação tecnológica, ele se mantém atualizado com as principais tendências da área.
+Acredito na educação como meio de transformação e tenho o objetivo de me tornar um Educador, inspirando outros a alcançar suas melhores versões, ao mesmo tempo em que continuo minha paixão por desenvolvimento de software. Busco me manter atualizado e sempre aprender novas tecnologias, com o propósito de agregar valor às equipes em que atuo.
 
-Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transformação na vida de seus alunos, incentivando-os a superar suas próprias conquistas. Paralelamente, busca continuar atuando como desenvolvedor, combinando sua paixão por tecnologia e ensino.
+Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvolvimento front-end e back-end, AWS, Spring Boot, segurança de sistemas e boas práticas em deploy de aplicações. Tenho como foco a entrega de soluções de alta qualidade que gerem impacto positivo para os usuários e para a equipe de desenvolvimento.
 </p>
 
 <h2>Experiência</h2>
