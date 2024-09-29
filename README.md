@@ -316,8 +316,7 @@ Seu objetivo é se tornar um Educador, inspirado a gerar esperança e transforma
     <p>
       <strong>Suporte Técnico em Tecnologia da Informação</strong> <br />
       Dell Technologies <br />
-      Verificação emitida em abr de 2023 <br />
-      4050
+      Verificação emitida em abr de 2023
     </p>
   </div>
 </div>
