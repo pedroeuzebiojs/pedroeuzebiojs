@@ -194,12 +194,17 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
       Node.js
     </td>
     <td width="150">
+      <img src="https://skillicons.dev/icons?i=express" alt="Logo do Express.js" />
+      <br />
+      Express.js
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="150">
       <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
       <br />
       Fastify
     </td>
-  </tr>
-  <tr align="center">
     <td width="150">
       <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
       <br />
@@ -220,24 +225,19 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
       <br />
       Knex.js
     </td>
+  </tr>
+  <tr align="center">
     <td width="150">
       <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
       <br />
       Vitest
     </td>
-  </tr>
-  <tr align="center">
     <td width="150">
       <a href="https://swc.rs" target="_blank">
         <img src="https://i.imgur.com/mkEMV8O.png" alt="Logo do SWC" width="50" />
       </a>
       <br>
       SWC
-    </td>
-    <td width="150">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="Logo do PostgreSQL" />
-      <br />
-      PostgreSQL
     </td>
     <td width="150">
       <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
