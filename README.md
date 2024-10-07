@@ -1,6 +1,9 @@
 <img src="https://i.imgur.com/KcwAthU.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
 
-<h2>Sobre</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/question-mark_2753.png" alt="Question mark" width="32px" align="center" />
+  Sobre
+</h2>
 
 <img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
@@ -14,7 +17,10 @@ Acredito na educação como meio de transformação e tenho o objetivo de me tor
 Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvolvimento front-end e back-end, AWS, Spring Boot, segurança de sistemas e boas práticas em deploy de aplicações. Tenho como foco a entrega de soluções de alta qualidade que gerem impacto positivo para os usuários e para a equipe de desenvolvimento.
 </p>
 
-<h2>Experiência</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/briefcase_1f4bc.png" alt="Briefcase" width="32px" align="center" />
+  Experiência
+</h2>
 
 <div>
   <div>
@@ -101,7 +107,10 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </div>
 </div>
 
-<h2>Formação Acadêmica</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/graduation-cap_1f393.png" alt="Graduation cap" width="32px" align="center" />
+  Formação Acadêmica
+</h2>
 
 <div>
   <div>
@@ -130,7 +139,10 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </div>
 </div>
 
-<h2>Habilidades Técnicas</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/person-juggling_1f939.png" alt="Person juggling" width="32px" align="center" />
+  Habilidades Técnicas
+</h2>
 
 <table>
   <tr align="center">
@@ -245,7 +257,10 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </tr>
 </table>
 
-<h2>Projetos</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/file-folder_1f4c1.png" alt="File folder" width="32px" align="center" />
+  Projetos
+</h2>
 
 <div>
   <div>
@@ -258,7 +273,10 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </div>
 </div>
 
-<h2>Certificados</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/1st-place-medal_1f947.png" alt="1st place medal" width="32px" align="center" />
+  Certificados
+</h2>
 
 <div>
   <div>
@@ -308,7 +326,10 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </div>
 </div>
 
-<h2>Cursos</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/check-mark-button_2705.png" alt="Check mark button" width="32px" align="center" />
+  Cursos
+</h2>
 
 <div>
   <div>
@@ -322,14 +343,32 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   </div>
 </div>
 
-<h2>Idiomas</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/tongue_1f445.png" alt="Togue" width="32px" align="center" />
+  Idiomas
+</h2>
 
-<ul>
-  <li>Português - Nativo</li>
-  <li>Inglês - Básico a Intermediário</li>
-</ul>
+<div>
+  <div>
+    <h3>
+      <img src="https://em-content.zobj.net/source/apple/391/flag-united-states_1f1fa-1f1f8.png" alt="Flag united states" width="24px" align="center" />
+      Inglês
+    </h3>
+    <p>Básico a Intermediário</p>
+  </div>
+  <div>
+    <h3>
+      <img src="https://em-content.zobj.net/source/apple/391/flag-brazil_1f1e7-1f1f7.png" alt="Flag brazil" width="24px" align="center" />
+      Português
+    </h3>
+    <p>Nativo</p>
+  </div>
+</div>
 
-<h2>Contato</h2>
+<h2>
+  <img src="https://em-content.zobj.net/source/apple/391/closed-mailbox-with-raised-flag_1f4eb.png" alt="Closed mailbox raised flag" width="32px" align="center" />
+  Contato
+</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Github&logoColor=3b82f6&link=https://github.com/pedroeuzebiojs)](https://github.com/pedroeuzebiojs)
