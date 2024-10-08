@@ -264,12 +264,16 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
 
 <div>
   <div>
-    <h3>Pedro Euzebio Links</h3>
-    <img src="https://i.imgur.com/KAs2FYG.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
-    <p align="justify">
-      Pedro Euzebio Links é um projeto de agregador de links responsivo, criado para funcionar como um cartão de visitas digital que organiza e apresenta de forma eficiente todas as minhas redes sociais. Com um design intuitivo e funcional, o projeto permite a troca de tema, oferecendo uma experiência personalizada ao usuário. Desenvolvido utilizando HTML, CSS e JavaScript, o site garante uma navegação fluida e compatível com diferentes dispositivos, desde desktops até smartphones. O foco do projeto é centralizar o acesso a diversas plataformas em um único lugar, facilitando a interação e o contato por meio de uma interface moderna e direta.
-    </p>
-    <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
+    <details>
+      <summary>
+        <h3>Pedro Euzebio Links</h3>
+      </summary>
+      <img src="https://i.imgur.com/KAs2FYG.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
+      <p align="justify">
+        Pedro Euzebio Links é um projeto de agregador de links responsivo, criado para funcionar como um cartão de visitas digital que organiza e apresenta de forma eficiente todas as minhas redes sociais. Com um design intuitivo e funcional, o projeto permite a troca de tema, oferecendo uma experiência personalizada ao usuário. Desenvolvido utilizando HTML, CSS e JavaScript, o site garante uma navegação fluida e compatível com diferentes dispositivos, desde desktops até smartphones. O foco do projeto é centralizar o acesso a diversas plataformas em um único lugar, facilitando a interação e o contato por meio de uma interface moderna e direta.
+      </p>
+      <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
+    </details>
   </div>
 </div>
 
