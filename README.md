@@ -264,16 +264,12 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
 
 <div>
   <div>
-    <details>
-      <summary>
-        <h3>Pedro Euzebio Links</h3>
-      </summary>
-      <img src="https://i.imgur.com/KAs2FYG.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
-      <p align="justify">
+    <h3>Pedro Euzebio Links</h3>
+    <img src="https://i.imgur.com/KAs2FYG.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
+    <p align="justify">
         Pedro Euzebio Links é um projeto de agregador de links responsivo, criado para funcionar como um cartão de visitas digital que organiza e apresenta de forma eficiente todas as minhas redes sociais. Com um design intuitivo e funcional, o projeto permite a troca de tema, oferecendo uma experiência personalizada ao usuário. Desenvolvido utilizando HTML, CSS e JavaScript, o site garante uma navegação fluida e compatível com diferentes dispositivos, desde desktops até smartphones. O foco do projeto é centralizar o acesso a diversas plataformas em um único lugar, facilitando a interação e o contato por meio de uma interface moderna e direta.
-      </p>
-      <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
-    </details>
+    </p>
+    <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
   </div>
 </div>
 
@@ -374,12 +370,12 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
   Contato
 </h2>
 
-- [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
-- [![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Github&logoColor=3b82f6&link=https://github.com/pedroeuzebiojs)](https://github.com/pedroeuzebiojs)
-- [![Instagram Badge](https://img.shields.io/badge/-instagram.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Instagram&logoColor=3b82f6&link=https://instagram.com/pedroeuzebiojs)](https://instagram.com/pedroeuzebiojs)
-- [![LinkedIn Badge](https://img.shields.io/badge/-linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=3b82f6&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
-- [![TikTok Badge](https://img.shields.io/badge/-tiktok.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=TikTok&logoColor=3b82f6&link=[https://www.tiktok.com/@pedroeuzebiojs](https://www.tiktok.com/@pedroeuzebiojs))](https://www.tiktok.com/@pedroeuzebiojs)
-- [![YouTube Badge](https://img.shields.io/badge/-youtube.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=YouTube&logoColor=3b82f6&link=[https://www.youtube.com/@pedroeuzebiojs](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiojs)
+[![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Github&logoColor=3b82f6&link=https://github.com/pedroeuzebiojs)](https://github.com/pedroeuzebiojs)
+[![Instagram Badge](https://img.shields.io/badge/-instagram.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Instagram&logoColor=3b82f6&link=https://instagram.com/pedroeuzebiojs)](https://instagram.com/pedroeuzebiojs)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=3b82f6&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
+[![TikTok Badge](https://img.shields.io/badge/-tiktok.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=TikTok&logoColor=3b82f6&link=[https://www.tiktok.com/@pedroeuzebiojs](https://www.tiktok.com/@pedroeuzebiojs))](https://www.tiktok.com/@pedroeuzebiojs)
+[![YouTube Badge](https://img.shields.io/badge/-youtube.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=YouTube&logoColor=3b82f6&link=[https://www.youtube.com/@pedroeuzebiojs](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiojs)
 
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
