@@ -280,6 +280,15 @@ Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvol
 
 <div>
   <div>
+    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
+    <p>
+      <strong>Curso Online de PHP</strong> <br />
+      Rocketseat <br />
+      Verificação emitida em out de 2024 <br />
+      <a href="https://app.rocketseat.com.br/certificates/06d6ac8e-13f2-4b57-bf19-50fa6895eb82">Exibir credencial</a>
+    </p>
+  </div>
+  <div>
     <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="75" align="left" />
     <p>
       <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
