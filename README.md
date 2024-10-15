@@ -24,7 +24,9 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
 
 <div>
   <div>
-    <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
+    <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
+      <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
+    </a>
     <p>
       <strong>Técnico de Tecnologia da Informação</strong> <br />
       Secretária do Desenvolvimento Econômico e Social · Estágio <br />
@@ -65,7 +67,9 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
     </details>
   </div>
   <div>
-    <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    <a href="https://ifce.edu.br">
+      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    </a>
     <p>
       <strong>Desenvolvedor Full Stack React e Node.js</strong> <br />
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br />
@@ -114,7 +118,9 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
 
 <div>
   <div>
-    <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="75" align="left" />
+    <a href="https://estacio.br">
+      <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="75" align="left" />
+    </a>
     <p>
       <strong>Universidade Estácio de Sá (UNESA)</strong> <br />
       Tecnólogo em Sistemas para Internet <br />
@@ -122,7 +128,9 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
     </p>
   </div>
   <div>
-    <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    <a href="https://ifce.edu.br">
+      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+    </a>
     <p>
       <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br />
       Técnico em Informática para Internet <br />
@@ -130,7 +138,9 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
     </p>
   </div>
   <div>
-    <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="75" align="left" />
+    <a href="https://www.eeepdebaturite.com">
+      <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="75" align="left" />
+    </a>
     <p>
       <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br />
       Técnico em Informática <br />
