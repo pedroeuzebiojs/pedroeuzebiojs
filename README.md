@@ -7,14 +7,14 @@
 
 <img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
 
-<p align="justify">
-  Desenvolvedor Full Stack com experiência em React e Node.js, com sólida formação técnica e certificações em tecnologias de ponta. Atuei como estagiário de Desenvolvedor Full Stack no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi soluções web eficientes e seguras, aplicando princípios de desenvolvimento ágil e boas práticas de programação. Durante essa experiência, adquiri conhecimento aprofundado em tecnologias como React, Node.js e integrações com APIs REST.
+<p>
+  Desenvolvedor Full Stack com experiência sólida em React e Node.js, formado em Técnico de Informática e atualmente cursando Tecnólogo em Sistemas para Internet. Durante minha trajetória, atuei como estagiário no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi soluções completas e inovadoras utilizando React para front-end e Node.js no back-end, integrando tecnologias modernas como APIs RESTful, Spring Boot e MySQL. 
 
-Além disso, possuo certificações que complementam minhas habilidades técnicas, incluindo o curso de Desenvolvimento Java da Rocketseat, onde desenvolvi uma aplicação back-end com Spring Boot e Maven, implementando segurança e boas práticas de deploy. Também sou certificado em Cloud Computing pela Huawei ICT Academy e pela AWS Academy, o que me confere uma sólida compreensão de arquiteturas de nuvem e serviços essenciais da AWS.
+Possuo um perfil multidisciplinar, com certificados que comprovam habilidades em cloud computing (AWS e Huawei), segurança de sistemas e endpoints (Cisco), além de forte base em desenvolvimento de aplicações Java e PHP, com frameworks como Spring e Laravel. Minha formação também abrange conhecimentos fundamentais em HTML, CSS, JavaScript e Git, adquiridos em cursos pela Rocketseat e Dell Technologies. 
 
-Acredito na educação como meio de transformação e tenho o objetivo de me tornar um Educador, inspirando outros a alcançar suas melhores versões, ao mesmo tempo em que continuo minha paixão por desenvolvimento de software. Busco me manter atualizado e sempre aprender novas tecnologias, com o propósito de agregar valor às equipes em que atuo.
+Tenho como objetivo não só construir aplicações robustas e escaláveis, mas também evoluir constantemente como desenvolvedor. Busco oportunidades para aplicar minhas competências em projetos que impactem positivamente as empresas e os usuários, sempre com foco em código limpo, segurança e eficiência.
 
-Entre minhas principais habilidades estão: React, Node.js, JavaScript, desenvolvimento front-end e back-end, AWS, Spring Boot, segurança de sistemas e boas práticas em deploy de aplicações. Tenho como foco a entrega de soluções de alta qualidade que gerem impacto positivo para os usuários e para a equipe de desenvolvimento.
+Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educador, inspirando outros desenvolvedores a superar suas próprias conquistas. Valorizo a busca por aprendizado contínuo e inovação, elementos que guiam minha carreira.
 </p>
 
 <h2>
