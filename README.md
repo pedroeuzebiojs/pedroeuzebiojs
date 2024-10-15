@@ -382,10 +382,10 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-github.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Github&logoColor=3b82f6&link=https://github.com/pedroeuzebiojs)](https://github.com/pedroeuzebiojs)
 [![Instagram Badge](https://img.shields.io/badge/-instagram.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Instagram&logoColor=3b82f6&link=https://instagram.com/pedroeuzebiojs)](https://instagram.com/pedroeuzebiojs)
-[![LinkedIn Badge](https://img.shields.io/badge/-linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=3b82f6&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
-[![TikTok Badge](https://img.shields.io/badge/-tiktok.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=TikTok&logoColor=3b82f6&link=[https://www.tiktok.com/@pedroeuzebiojs](https://www.tiktok.com/@pedroeuzebiojs))](https://www.tiktok.com/@pedroeuzebiojs)
-[![X Badge](https://img.shields.io/badge/-x.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=X&logoColor=3b82f6&link=[https://www.x.com/@pedroeuzebiojs](https://www.x.com/pedroeuzebiojs))](https://www.x.com/pedroeuzebiojs)
-[![YouTube Badge](https://img.shields.io/badge/-youtube.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=YouTube&logoColor=3b82f6&link=[https://www.youtube.com/@pedroeuzebiojs](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiojs)
+[![LinkedIn Badge](https://img.shields.io/badge/-www.linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=3b82f6&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
+[![TikTok Badge](https://img.shields.io/badge/-www.tiktok.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=TikTok&logoColor=3b82f6&link=[https://www.tiktok.com/@pedroeuzebiojs](https://www.tiktok.com/@pedroeuzebiojs))](https://www.tiktok.com/@pedroeuzebiojs)
+[![Twitter Badge](https://img.shields.io/badge/-twitter.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=X&logoColor=3b82f6&link=[https://twitter.com/pedroeuzebiojs](https://twitter.com/pedroeuzebiojs))](https://twitter.com/pedroeuzebiojs)
+[![YouTube Badge](https://img.shields.io/badge/-www.youtube.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=YouTube&logoColor=3b82f6&link=[https://www.youtube.com/@pedroeuzebiojs](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiojs)
 
 <!--
 **pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
