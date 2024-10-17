@@ -432,7 +432,7 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
 [![Instagram Badge](https://img.shields.io/badge/-www.instagram.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=Instagram&logoColor=3b82f6&link=https://instagram.com/pedroeuzebiojs)](https://instagram.com/pedroeuzebiojs)
 [![LinkedIn Badge](https://img.shields.io/badge/-www.linkedin.com&frasl;in&frasl;pedroeuzebio-020817?style=flat-square&logo=Linkedin&logoColor=3b82f6&link=https://www.linkedin.com/in/pedroeuzebio)](https://www.linkedin.com/in/pedroeuzebio)
 [![TikTok Badge](https://img.shields.io/badge/-www.tiktok.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=TikTok&logoColor=3b82f6&link=[https://www.tiktok.com/@pedroeuzebiojs](https://www.tiktok.com/@pedroeuzebiojs))](https://www.tiktok.com/@pedroeuzebiojs)
-[![Twitter Badge](https://img.shields.io/badge/-twitter.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=X&logoColor=3b82f6&link=[https://twitter.com/pedroeuzebiojs](https://twitter.com/pedroeuzebiojs))](https://twitter.com/pedroeuzebiojs)
+[![X Badge](https://img.shields.io/badge/-x.com&frasl;pedroeuzebiojs-020817?style=flat-square&logo=X&logoColor=3b82f6&link=[https://x.com/pedroeuzebiojs](https://x.com/pedroeuzebiojs))](https://x.com/pedroeuzebiojs)
 [![YouTube Badge](https://img.shields.io/badge/-www.youtube.com&frasl;@pedroeuzebiojs-020817?style=flat-square&logo=YouTube&logoColor=3b82f6&link=[https://www.youtube.com/@pedroeuzebiojs](https://www.youtube.com/@pedroeuzebiooo))](https://www.youtube.com/@pedroeuzebiojs)
 
 <!--
