@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/KcwAthU.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
+<img src="https://i.imgur.com/0MJeCuz.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
 
 <h2>
   <img src="https://em-content.zobj.net/source/apple/391/question-mark_2753.png" alt="Question mark" width="32px" align="center" />
