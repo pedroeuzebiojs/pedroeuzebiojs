@@ -328,15 +328,6 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
 
 <div>
   <div>
-    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
-    <p>
-      <strong>Curso Online de PHP</strong> <br />
-      Rocketseat <br />
-      Verificação emitida em out de 2024 <br />
-      <a href="https://app.rocketseat.com.br/certificates/06d6ac8e-13f2-4b57-bf19-50fa6895eb82">Exibir credencial</a>
-    </p>
-  </div>
-  <div>
     <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="75" align="left" />
     <p>
       <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
@@ -361,15 +352,6 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
       Rocketseat <br />
       Verificação emitida em mai de 2024 <br />
       <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
-    </p>
-  </div>
-  <div>
-    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
-    <p>
-      <strong>Curso de Java Online</strong> <br />
-      Rocketseat <br />
-      Verificação emitida em out de 2023 <br />
-      <a href="https://app.rocketseat.com.br/certificates/58979f4a-9033-4e7d-8515-12071a45af22">Exibir credencial</a>
     </p>
   </div>
   <div>
