@@ -7,7 +7,7 @@
 <div>
   <div>
     <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
-      <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="75" align="left" />
+      <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="80" align="left" />
     </a>
     <p>
       <strong>Técnico de Tecnologia da Informação</strong> <br />
@@ -18,7 +18,7 @@
   </div>
   <div>
     <a href="https://ifce.edu.br">
-      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
     </a>
     <p>
       <strong>Desenvolvedor Full Stack React e Node.js</strong> <br />
@@ -36,7 +36,7 @@
 <div>
   <div>
     <a href="https://estacio.br">
-      <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="75" align="left" />
+      <img src="https://i.imgur.com/uU1OZ5x.jpg" alt="Logo da Universidade Estácio de Sá (UNESA)" width="80" align="left" />
     </a>
     <p>
       <strong>Universidade Estácio de Sá (UNESA)</strong> <br />
@@ -46,7 +46,7 @@
   </div>
   <div>
     <a href="https://ifce.edu.br">
-      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="75" align="left" />
+      <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
     </a>
     <p>
       <strong>Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</strong> <br />
@@ -56,7 +56,7 @@
   </div>
   <div>
     <a href="https://www.eeepdebaturite.com">
-      <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="75" align="left" />
+      <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
     </a>
     <p>
       <strong>Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda</strong> <br />
@@ -227,7 +227,7 @@
 
 <div>
   <div>
-    <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="75" align="left" />
+    <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
     <p>
       <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
       Huawei ICT Academy <br />
@@ -236,7 +236,7 @@
     </p>
   </div>
   <div>
-    <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="75" align="left" />
+    <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
     <p>
       <strong>Endpoint Security</strong> <br />
       Cisco Networking Academy <br />
@@ -245,7 +245,7 @@
     </p>
   </div>
   <div>
-    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="75" align="left" />
+    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
     <p>
       <strong>Discover</strong> <br />
       Rocketseat <br />
@@ -254,7 +254,7 @@
     </p>
   </div>
   <div>
-    <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="75" align="left" />
+    <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
     <p>
       <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
       Amazon Web Services (AWS) <br />
@@ -270,7 +270,7 @@
 
 <div>
   <div>
-    <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="75" align="left" />
+    <img src="https://i.imgur.com/cgFbOXS.jpg" alt="Logo da Dell Technologies" width="80" align="left" />
     <p>
       <strong>Suporte Técnico em Tecnologia da Informação</strong> <br />
       Dell Technologies <br />
