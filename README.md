@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/0MJeCuz.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
+
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/briefcase_1f4bc.png" alt="Briefcase" width="32px" align="center" />
-  Experiência
+  💼 Experiência
 </h2>
 
 <div>
   <div>
     <a href="https://www.baturite.ce.gov.br/secretaria.php?sec=6">
-      <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Socioal" width="75" align="left" />
+      <img src="https://i.imgur.com/Axj39Xo.jpg" alt="Logo da Secretária de Desenvolvimento Econômico e Social" width="75" align="left" />
     </a>
     <p>
       <strong>Técnico de Tecnologia da Informação</strong> <br />
@@ -30,8 +30,7 @@
 </div>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/graduation-cap_1f393.png" alt="Graduation cap" width="32px" align="center" />
-  Formação Acadêmica
+  🎓 Formação acadêmica
 </h2>
 
 <div>
@@ -68,8 +67,7 @@
 </div>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/person-juggling_1f939.png" alt="Person juggling" width="32px" align="center" />
-  Habilidades Técnicas
+  🛠️ Tecnologias
 </h2>
 
 <table>
@@ -224,8 +222,7 @@
 </table>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/1st-place-medal_1f947.png" alt="1st place medal" width="32px" align="center" />
-  Certificados
+  🥇 Certificados
 </h2>
 
 <div>
@@ -268,8 +265,7 @@
 </div>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/check-mark-button_2705.png" alt="Check mark button" width="32px" align="center" />
-  Cursos
+  ✅ Cursos
 </h2>
 
 <div>
@@ -285,30 +281,26 @@
 </div>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/tongue_1f445.png" alt="Togue" width="32px" align="center" />
-  Idiomas
+  👅 Idiomas
 </h2>
 
 <div>
   <div>
     <h3>
-      <img src="https://em-content.zobj.net/source/apple/391/flag-united-states_1f1fa-1f1f8.png" alt="Flag united states" width="24px" align="center" />
       Inglês
     </h3>
-    <p>Básico a Intermediário</p>
+    <p>Nível básico a intermediário</p>
   </div>
   <div>
     <h3>
-      <img src="https://em-content.zobj.net/source/apple/391/flag-brazil_1f1e7-1f1f7.png" alt="Flag brazil" width="24px" align="center" />
       Português
     </h3>
-    <p>Nativo</p>
+    <p>Fluente ou nativo</p>
   </div>
 </div>
 
 <h2>
-  <img src="https://em-content.zobj.net/source/apple/391/closed-mailbox-with-raised-flag_1f4eb.png" alt="Closed mailbox raised flag" width="32px" align="center" />
-  Contato
+  🔗 Links
 </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-pedroeuzebio.contato@gmail.com-020817?style=flat-square&logo=Gmail&logoColor=3b82f6&link=mailto:pedroeuzebio.contato@gmail.com)](mailto:pedroeuzebio.contato@gmail.com)
