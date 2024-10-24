@@ -44,6 +44,7 @@
       jan de 2024 - jun de 2026
     </p>
   </div>
+  <br />
   <div>
     <a href="https://ifce.edu.br">
       <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
@@ -54,6 +55,7 @@
       jan de 2024 - jun de 2025
     </p>
   </div>
+  <br />
   <div>
     <a href="https://www.eeepdebaturite.com">
       <img src="https://i.imgur.com/b5heNhX.jpg" alt="Logo da Escola Estadual de Educação Profissional Clemente Olintho Távora Arruda" width="80" align="left" />
