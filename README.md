@@ -21,7 +21,7 @@
       <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="80" align="left" />
     </a>
     <p>
-      <strong>Desenvolvedor Full Stack React e Node.js</strong> <br />
+      <strong>Desenvolvedor Full Stack</strong> <br />
       Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) · Estágio <br />
       ago de 2023 - nov de 2023 · 4 meses <br />
       Baturité, Ceará, Brasil · Presencial
