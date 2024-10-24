@@ -1,22 +1,4 @@
 <img src="https://i.imgur.com/0MJeCuz.png" alt="Banner de apresentação do perfil do GitHub do Pedro Euzebio" />
-
-<h2>
-  <img src="https://em-content.zobj.net/source/apple/391/question-mark_2753.png" alt="Question mark" width="32px" align="center" />
-  Sobre
-</h2>
-
-<img src="https://i.imgur.com/cNMXgOe.png" alt="Foto do Pedro Euzebio sorrindo com braços cruzados numa praia com no fundo o mar" align="right" width="300" />
-
-<p>
-  Desenvolvedor Full Stack com experiência sólida em React e Node.js, formado em Técnico de Informática e atualmente cursando Tecnólogo em Sistemas para Internet. Durante minha trajetória, atuei como estagiário no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), onde desenvolvi soluções completas e inovadoras utilizando React para front-end e Node.js no back-end, integrando tecnologias modernas como APIs RESTful, Spring Boot e MySQL. 
-
-Possuo um perfil multidisciplinar, com certificados que comprovam habilidades em cloud computing (AWS e Huawei), segurança de sistemas e endpoints (Cisco), além de forte base em desenvolvimento de aplicações Java e PHP, com frameworks como Spring e Laravel. Minha formação também abrange conhecimentos fundamentais em HTML, CSS, JavaScript e Git, adquiridos em cursos pela Rocketseat e Dell Technologies. 
-
-Tenho como objetivo não só construir aplicações robustas e escaláveis, mas também evoluir constantemente como desenvolvedor. Busco oportunidades para aplicar minhas competências em projetos que impactem positivamente as empresas e os usuários, sempre com foco em código limpo, segurança e eficiência.
-
-Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educador, inspirando outros desenvolvedores a superar suas próprias conquistas. Valorizo a busca por aprendizado contínuo e inovação, elementos que guiam minha carreira.
-</p>
-
 <h2>
   <img src="https://em-content.zobj.net/source/apple/391/briefcase_1f4bc.png" alt="Briefcase" width="32px" align="center" />
   Experiência
@@ -33,38 +15,6 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
       nov de 2023 - dez de 2023 · 2 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
-    <details>
-      <summary>Responsabilidades</summary>
-      <ul>
-        <li>
-          Suporte técnico aos usuários da Secretaria, solucionando problemas de hardware, software e rede.
-        </li>
-        <li>
-          Configuração e manutenção de computadores, impressoras e outros dispositivos de TI.
-        </li>
-        <li>
-          Instalação de sistemas operacionais e softwares específicos para o ambiente corporativo.
-        </li>
-        <li>
-          Monitoramento e otimização da rede local, garantindo estabilidade e segurança.
-        </li>
-        <li>
-          Auxílio na administração de servidores e sistemas internos.
-        </li>
-        <li>
-          Documentação de procedimentos e atualizações tecnológicas implementadas.
-        </li>
-        <li>
-          Desenvolvimento de habilidades em diagnóstico de falhas técnicas e atendimento ao usuário.
-        </li>
-        <li>
-          Colaboração com a equipe de TI para implementar melhorias na infraestrutura de tecnologia.
-        </li>
-        <li>
-          Contribuição na organização e execução de projetos tecnológicos da Secretaria.
-        </li>
-      </ul>
-    </details>
   </div>
   <div>
     <a href="https://ifce.edu.br">
@@ -76,38 +26,6 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
       ago de 2023 - nov de 2023 · 4 meses <br />
       Baturité, Ceará, Brasil · Presencial
     </p>
-    <details>
-      <summary>Responsabilidades</summary>
-      <ul>
-        <li>
-          Desenvolvimento de aplicações web utilizando React.js no front-end e Node.js no back-end.
-        </li>
-        <li>
-          Integração de APIs RESTful para comunicação eficiente entre o front-end e back-end.
-        </li>
-        <li>
-          Implementação de autenticação de usuários e controle de acesso baseado em funções.
-        </li>
-        <li>
-          Utilização de bancos de dados NoSQL (MongoDB) e SQL (MySQL) para gerenciamento de dados.
-        </li>
-        <li>
-          Colaboração em equipe utilizando metodologias ágeis (Scrum) e ferramentas de versionamento de código como Git.
-        </li>
-        <li>
-          Otimização de performance e responsividade das interfaces.
-        </li>
-        <li>
-          Correção de bugs e melhorias contínuas em projetos já existentes.
-        </li>
-        <li>
-          Desenvolvimento de testes unitários para garantir a qualidade do código.
-        </li>
-        <li>
-          Acompanhamento de deploys automatizados em ambientes de produção e testes.
-        </li>
-      </ul>
-    </details>
   </div>
 </div>
 
@@ -304,22 +222,6 @@ Além de apaixonado por codar, tenho o propósito de atuar futuramente como Educ
     </td>
   </tr>
 </table>
-
-<h2>
-  <img src="https://em-content.zobj.net/source/apple/391/file-folder_1f4c1.png" alt="File folder" width="32px" align="center" />
-  Projetos
-</h2>
-
-<div>
-  <div>
-    <h3>Pedro Euzebio Links</h3>
-    <img src="https://i.imgur.com/KAs2FYG.png" alt="Visualização do projeto Pedro Euzebio Links" width="700" />
-    <p align="justify">
-        Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
-    </p>
-    <a href="https://pedroeuzebio-links.vercel.app">Exibir projeto</a>
-  </div>
-</div>
 
 <h2>
   <img src="https://em-content.zobj.net/source/apple/391/1st-place-medal_1f947.png" alt="1st place medal" width="32px" align="center" />
