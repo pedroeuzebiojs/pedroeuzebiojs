@@ -69,6 +69,49 @@
 </div>
 
 <h2>
+  🥇 Certificados
+</h2>
+
+<div>
+  <div>
+    <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
+    <p>
+      <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
+      Huawei ICT Academy <br />
+      Verificação emitida em set de 2024 <br />
+      <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
+    <p>
+      <strong>Endpoint Security</strong> <br />
+      Cisco Networking Academy <br />
+      Verificação emitida em set de 2024 <br />
+      <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
+    <p>
+      <strong>Discover</strong> <br />
+      Rocketseat <br />
+      Verificação emitida em mai de 2024 <br />
+      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
+    </p>
+  </div>
+  <div>
+    <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
+    <p>
+      <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
+      Amazon Web Services (AWS) <br />
+      Verificação emitida em jun de 2023 <br />
+      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
+    </p>
+  </div>
+</div>
+
+<h2>
   🛠️ Tecnologias
 </h2>
 
@@ -222,49 +265,6 @@
     </td>
   </tr>
 </table>
-
-<h2>
-  🥇 Certificados
-</h2>
-
-<div>
-  <div>
-    <img src="https://i.imgur.com/1kuWVnP.jpg" alt="Logo da Huawei ICT Academy" width="80" align="left" />
-    <p>
-      <strong>Development and Basic Concepts of Cloud Computing</strong> <br />
-      Huawei ICT Academy <br />
-      Verificação emitida em set de 2024 <br />
-      <a href="https://www.credly.com/badges/b0fe24b7-7db3-45cb-ba37-3541ff7ece1e">Exibir credencial</a>
-    </p>
-  </div>
-  <div>
-    <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
-    <p>
-      <strong>Endpoint Security</strong> <br />
-      Cisco Networking Academy <br />
-      Verificação emitida em set de 2024 <br />
-      <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
-    </p>
-  </div>
-  <div>
-    <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
-    <p>
-      <strong>Discover</strong> <br />
-      Rocketseat <br />
-      Verificação emitida em mai de 2024 <br />
-      <a href="https://app.rocketseat.com.br/certificates/c4607cdf-e145-40a9-9a04-f0e12069144b">Exibir credencial</a>
-    </p>
-  </div>
-  <div>
-    <img src="https://i.imgur.com/KP3bFsh.jpg" alt="Logo da Amazon Web Services (AWS)" width="80" align="left" />
-    <p>
-      <strong>AWS Academy Graduate - AWS Academy Cloud Foundations</strong> <br />
-      Amazon Web Services (AWS) <br />
-      Verificação emitida em jun de 2023 <br />
-      <a href="https://www.credly.com/badges/0218204e-7d5e-4486-b52e-f438e555df76/print">Exibir credencial</a>
-    </p>
-  </div>
-</div>
 
 <h2>
   ✅ Cursos
