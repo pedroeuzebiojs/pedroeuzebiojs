@@ -306,8 +306,9 @@
       </div>
     </section>
   </main>
+  
   <footer>
-    <p align="center">Desenvolvido por Pedro Euzebio</p>
+    <p align="center">Desenvolvido com 💙 por Pedro Euzebio</p>
   </footer>
 </div>
 
