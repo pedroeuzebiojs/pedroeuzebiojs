@@ -1,6 +1,6 @@
 <div id="readme">
   <header>
-    <img src="https://i.imgur.com/DrID2qn.png" alt="Banner do Pedro Euzebio" />
+    <img src="https://i.imgur.com/gFIozd6.png" alt="Banner do Pedro Euzebio" />
   </header>
 
   <main>
