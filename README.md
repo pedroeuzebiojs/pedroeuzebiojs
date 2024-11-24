@@ -87,15 +87,6 @@
           </p>
         </div>
         <div class="certificate">
-          <img src="https://i.imgur.com/iSJaTFW.jpg" alt="Logo da Cisco Networking Academy" width="80" align="left" />
-          <p>
-            <strong>Endpoint Security</strong> <br />
-            Cisco Networking Academy <br />
-            Verificação emitida em set de 2024 <br />
-            <a href="https://www.credly.com/badges/0cf3adf8-b3f0-4a67-9f7f-759c23a38929/print">Exibir credencial</a>
-          </p>
-        </div>
-        <div class="certificate">
           <img src="https://i.imgur.com/NdMnKqg.jpg" alt="Logo da Rocketseat" width="80" align="left" />
           <p>
             <strong>Discover</strong> <br />
@@ -306,10 +297,6 @@
       </div>
     </section>
   </main>
-  
-  <footer>
-    <p align="center">Desenvolvido com 💙 por Pedro Euzebio</p>
-  </footer>
 </div>
 
 <!--
