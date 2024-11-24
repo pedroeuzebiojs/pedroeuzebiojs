@@ -111,155 +111,155 @@
         🛠️ Tecnologias
       </h2>
       <table>
-        <tr align="center">
-          <td width="150">
-            <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-              <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
-            </a>
-            <br />
+  <tr align="center">
+    <td width="160">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="Logo do HTML" />
+      </a>
+      <br />
             HTML
-          </td>
-          <td width="150">
-            <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-              <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="Logo do CSS" />
+      </a>
+      <br />
             CSS
-          </td>
-          <td width="150">
-            <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-              <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" alt="Logo do JavaScript" />
+      </a>
+      <br />
             JavaScript
-          </td>
-          <td width="150">
-            <a href="https://react.dev/">
-              <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" alt="Logo do React" />
+      </a>
+      <br />
             React
-          </td>
-          <td width="150">
-            <a href="https://vite.dev/">
-              <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://vite.dev/">
+        <img src="https://skillicons.dev/icons?i=vite" alt="Logo do Vite" />
+      </a>
+      <br />
             Vite
-          </td>
-        </tr>
-        <tr align="center">
-          <td width="150">
-            <a href="https://nextjs.org/">
-              <img src="https://skillicons.dev/icons?i=nextjs" alt="Logo do Next.js" />
-            </a>
-            <br />
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="160">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Logo do Next.js" />
+      </a>
+      <br />
             Next.js
-          </td>
-          <td width="150">
-            <a href="https://www.typescriptlang.org/">
-              <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" alt="Logo do TypeScript" />
+      </a>
+      <br />
             TypeScript
-          </td>
-          <td width="150">
-            <a href="https://tailwindcss.com/">
-              <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Logo do Tailwind CSS" />
+      </a>
+      <br />
             Tailwind CSS
-          </td>
-          <td width="150">
-            <a href="https://nodejs.org/pt">
-              <img src="https://skillicons.dev/icons?i=nodejs" alt="Logo do Node.js" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://nodejs.org/pt">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Logo do Node.js" />
+      </a>
+      <br />
             Node.js
-          </td>
-          <td width="150">
-            <a href="https://expressjs.com/">
-              <img src="https://skillicons.dev/icons?i=express" alt="Logo do Express.js" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" alt="Logo do Express.js" />
+      </a>
+      <br />
             Express.js
-          </td>
-        </tr>
-        <tr align="center">
-          <td width="150">
-            <a href="https://fastify.dev/">
-              <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
-            </a>
-            <br />
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="160">
+      <a href="https://fastify.dev/">
+        <img src="https://i.imgur.com/Pe1c36T.png" alt="Logo do Fastify" width="50" />
+      </a>
+      <br />
             Fastify
-          </td>
-          <td width="150">
-            <a href="https://www.prisma.io/">
-              <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://www.prisma.io/">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="Logo do Prisma" />
+      </a>
+      <br />
             Prisma ORM
-          </td>
-          <td width="150">
-            <a href="https://www.docker.com/">
-              <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Logo do Docker" />
+      </a>
+      <br />
             Docker
-          </td>
-          <td width="150">
-            <a href="https://nestjs.com/">
-              <img src="https://skillicons.dev/icons?i=nestjs" alt="Logo do Nest.js" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://nestjs.com/">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="Logo do Nest.js" />
+      </a>
+      <br />
             NestJS
-          </td>
-          <td width="150">
-            <a href="https://knexjs.org/">
-              <img src="https://i.imgur.com/9dtSRhv.png" alt="Logo do Knex.js" width="50" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://knexjs.org/">
+        <img src="https://i.imgur.com/9dtSRhv.png" alt="Logo do Knex.js" width="50" />
+      </a>
+      <br />
             Knex.js
-          </td>
-        </tr>
-        <tr align="center">
-          <td width="150">
-            <a href="https://vitest.dev/">
-              <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
-            </a>
-            <br />
+    </td>
+  </tr>
+  <tr align="center">
+    <td width="160">
+      <a href="https://vitest.dev/">
+        <img src="https://skillicons.dev/icons?i=vitest" alt="Logo do Vitest" />
+      </a>
+      <br />
             Vitest
-          </td>
-          <td width="150">
-            <a href="https://swc.rs">
-              <img src="https://i.imgur.com/mkEMV8O.png" alt="Logo do SWC" width="50" />
-            </a>
-            <br>
+    </td>
+    <td width="160">
+      <a href="https://swc.rs">
+        <img src="https://i.imgur.com/mkEMV8O.png" alt="Logo do SWC" width="50" />
+      </a>
+      <br>
             SWC
-          </td>
-          <td width="150">
-            <a href="https://git-scm.com/">
-              <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="Logo do Git" />
+      </a>
+      <br />
             Git
-          </td>
-          <td width="150">
-            <a href="https://www.postman.com/">
-              <img src="https://skillicons.dev/icons?i=postman" alt="Logo do Postman" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://www.postman.com/">
+        <img src="https://skillicons.dev/icons?i=postman" alt="Logo do Postman" />
+      </a>
+      <br />
             Postman
-          </td>
-          <td width="150">
-            <a href="https://code.visualstudio.com/">
-              <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
-            </a>
-            <br />
+    </td>
+    <td width="160">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Logo do VS Code" />
+      </a>
+      <br />
             VS Code
-          </td>
-        </tr>
-      </table>
+    </td>
+  </tr>
+</table>
     </section>
     <section id="courses-section">
       <h2>
