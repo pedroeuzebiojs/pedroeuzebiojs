@@ -6,7 +6,7 @@
   <main>
     <section id="experiences-section">
       <h2>
-        💼 Experiência
+        Experiência
       </h2>
       <div id="experiences">
         <div class="experiece">
@@ -35,7 +35,7 @@
     </section>
     <section id="educations-section">
       <h2>
-        🎓 Formação acadêmica
+        Formação acadêmica
       </h2>
       <div id="educations">
         <div class="education">
@@ -74,7 +74,7 @@
     </section>
     <section id="technology-section">      
       <h2>
-        🛠️ Tecnologias
+        Tecnologias
       </h2>
       <table>
         <tr align="center">
@@ -229,7 +229,7 @@
     </section>
     <section id="certificates-section">
       <h2>
-        🥇 Certificados
+        Certificados
       </h2>
       <div id="certificates">
         <div class="certificate">
@@ -263,7 +263,7 @@
     </section>
     <section id="courses-section">
       <h2>
-        ✅ Cursos
+        Cursos
       </h2>
       <div id="courses">
         <div class="course">
@@ -279,7 +279,7 @@
     </section>
     <section id="languages-section">
       <h2>
-        👅 Idiomas
+        Idiomas
       </h2>
       <div id="languages">
         <div class="language">
